@@ -1,0 +1,22 @@
+stress-ng: info:  [19523] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [19523] dispatching hogs: 8 fork
+stress-ng: info:  [19523] successful run completed in 25.78s
+stress-ng: info:  [24042] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [24042] dispatching hogs: 8 fork
+stress-ng: info:  [24042] successful run completed in 25.76s
+stress-ng: info:  [28527] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [28527] dispatching hogs: 8 fork
+stress-ng: info:  [28527] successful run completed in 25.71s
+stress-ng: info:  [576] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [576] dispatching hogs: 8 fork
+stress-ng: info:  [576] successful run completed in 25.82s
+stress-ng: info:  [5331] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [5331] dispatching hogs: 8 fork
+stress-ng: info:  [5331] successful run completed in 25.76s
+
+ Performance counter stats for 'system wide' (5 runs):
+
+           1258,65 Joules power/energy-pkg/                                             ( +-  0,34% )
+             25,96 Joules power/energy-ram/                                             ( +-  0,41% )
+
+           25,7695 +- 0,0171 seconds time elapsed  ( +-  0,07% )
