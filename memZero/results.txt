@@ -1,0 +1,6 @@
+Task	Energy	Delay
+set 	5.5%	5.7%
+lpush	5.5%	5.4%
+hset	5.5%	5.4%
+lrange  1.5%    1.7%
+
