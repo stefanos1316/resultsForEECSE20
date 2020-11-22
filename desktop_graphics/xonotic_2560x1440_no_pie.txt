@@ -1,0 +1,113 @@
+[1mTiming via the time utility works.[m
+[1mFound main repo = https://gitlab.com/xonotic/[m
+[1mRepository . enabled because it already exists[m
+[1mRepository data/xonotic-data.pk3dir enabled because it already exists[m
+[1mRepository data/xonotic-music.pk3dir enabled because it already exists[m
+[1mRepository data/xonotic-nexcompat.pk3dir disabled by default, create data/xonotic-nexcompat.pk3dir.yes to enable[m
+[1mRepository darkplaces enabled because it already exists[m
+[1mRepository netradiant enabled because it already exists[m
+[1mRepository div0-gittools disabled by default, create div0-gittools.yes to enable[m
+[1mRepository d0_blind_id enabled because it already exists[m
+[1mRepository data/xonotic-maps.pk3dir enabled because it already exists[m
+[1mRepository mediasource disabled by default, create mediasource.yes to enable[m
+[1mRepository gmqcc enabled because it already exists[m
+[1mRepository xonstat disabled by default, create xonstat.yes to enable[m
+[1mRepository xonstatdb disabled by default, create xonstatdb.yes to enable[m
+[1mRepository xonotic.org disabled by default, create xonotic.org.yes to enable[m
+[1mRepository wiki disabled by default, create wiki.yes to enable[m
+[1m+ measure_time catchsegv darkplaces/darkplaces-sdl -xonotic -nohome -benchmark demos/the-big-keybench +r_glsl 1 2560x1440[m
+real 138.68
+user 112.51
+sys 9.34
+[1mTiming via the time utility works.[m
+[1mFound main repo = https://gitlab.com/xonotic/[m
+[1mRepository . enabled because it already exists[m
+[1mRepository data/xonotic-data.pk3dir enabled because it already exists[m
+[1mRepository data/xonotic-music.pk3dir enabled because it already exists[m
+[1mRepository data/xonotic-nexcompat.pk3dir disabled by default, create data/xonotic-nexcompat.pk3dir.yes to enable[m
+[1mRepository darkplaces enabled because it already exists[m
+[1mRepository netradiant enabled because it already exists[m
+[1mRepository div0-gittools disabled by default, create div0-gittools.yes to enable[m
+[1mRepository d0_blind_id enabled because it already exists[m
+[1mRepository data/xonotic-maps.pk3dir enabled because it already exists[m
+[1mRepository mediasource disabled by default, create mediasource.yes to enable[m
+[1mRepository gmqcc enabled because it already exists[m
+[1mRepository xonstat disabled by default, create xonstat.yes to enable[m
+[1mRepository xonstatdb disabled by default, create xonstatdb.yes to enable[m
+[1mRepository xonotic.org disabled by default, create xonotic.org.yes to enable[m
+[1mRepository wiki disabled by default, create wiki.yes to enable[m
+[1m+ measure_time catchsegv darkplaces/darkplaces-sdl -xonotic -nohome -benchmark demos/the-big-keybench +r_glsl 1 2560x1440[m
+real 137.17
+user 112.86
+sys 9.30
+[1mTiming via the time utility works.[m
+[1mFound main repo = https://gitlab.com/xonotic/[m
+[1mRepository . enabled because it already exists[m
+[1mRepository data/xonotic-data.pk3dir enabled because it already exists[m
+[1mRepository data/xonotic-music.pk3dir enabled because it already exists[m
+[1mRepository data/xonotic-nexcompat.pk3dir disabled by default, create data/xonotic-nexcompat.pk3dir.yes to enable[m
+[1mRepository darkplaces enabled because it already exists[m
+[1mRepository netradiant enabled because it already exists[m
+[1mRepository div0-gittools disabled by default, create div0-gittools.yes to enable[m
+[1mRepository d0_blind_id enabled because it already exists[m
+[1mRepository data/xonotic-maps.pk3dir enabled because it already exists[m
+[1mRepository mediasource disabled by default, create mediasource.yes to enable[m
+[1mRepository gmqcc enabled because it already exists[m
+[1mRepository xonstat disabled by default, create xonstat.yes to enable[m
+[1mRepository xonstatdb disabled by default, create xonstatdb.yes to enable[m
+[1mRepository xonotic.org disabled by default, create xonotic.org.yes to enable[m
+[1mRepository wiki disabled by default, create wiki.yes to enable[m
+[1m+ measure_time catchsegv darkplaces/darkplaces-sdl -xonotic -nohome -benchmark demos/the-big-keybench +r_glsl 1 2560x1440[m
+real 137.43
+user 113.04
+sys 9.19
+[1mTiming via the time utility works.[m
+[1mFound main repo = https://gitlab.com/xonotic/[m
+[1mRepository . enabled because it already exists[m
+[1mRepository data/xonotic-data.pk3dir enabled because it already exists[m
+[1mRepository data/xonotic-music.pk3dir enabled because it already exists[m
+[1mRepository data/xonotic-nexcompat.pk3dir disabled by default, create data/xonotic-nexcompat.pk3dir.yes to enable[m
+[1mRepository darkplaces enabled because it already exists[m
+[1mRepository netradiant enabled because it already exists[m
+[1mRepository div0-gittools disabled by default, create div0-gittools.yes to enable[m
+[1mRepository d0_blind_id enabled because it already exists[m
+[1mRepository data/xonotic-maps.pk3dir enabled because it already exists[m
+[1mRepository mediasource disabled by default, create mediasource.yes to enable[m
+[1mRepository gmqcc enabled because it already exists[m
+[1mRepository xonstat disabled by default, create xonstat.yes to enable[m
+[1mRepository xonstatdb disabled by default, create xonstatdb.yes to enable[m
+[1mRepository xonotic.org disabled by default, create xonotic.org.yes to enable[m
+[1mRepository wiki disabled by default, create wiki.yes to enable[m
+[1m+ measure_time catchsegv darkplaces/darkplaces-sdl -xonotic -nohome -benchmark demos/the-big-keybench +r_glsl 1 2560x1440[m
+real 138.30
+user 112.22
+sys 8.98
+[1mTiming via the time utility works.[m
+[1mFound main repo = https://gitlab.com/xonotic/[m
+[1mRepository . enabled because it already exists[m
+[1mRepository data/xonotic-data.pk3dir enabled because it already exists[m
+[1mRepository data/xonotic-music.pk3dir enabled because it already exists[m
+[1mRepository data/xonotic-nexcompat.pk3dir disabled by default, create data/xonotic-nexcompat.pk3dir.yes to enable[m
+[1mRepository darkplaces enabled because it already exists[m
+[1mRepository netradiant enabled because it already exists[m
+[1mRepository div0-gittools disabled by default, create div0-gittools.yes to enable[m
+[1mRepository d0_blind_id enabled because it already exists[m
+[1mRepository data/xonotic-maps.pk3dir enabled because it already exists[m
+[1mRepository mediasource disabled by default, create mediasource.yes to enable[m
+[1mRepository gmqcc enabled because it already exists[m
+[1mRepository xonstat disabled by default, create xonstat.yes to enable[m
+[1mRepository xonstatdb disabled by default, create xonstatdb.yes to enable[m
+[1mRepository xonotic.org disabled by default, create xonotic.org.yes to enable[m
+[1mRepository wiki disabled by default, create wiki.yes to enable[m
+[1m+ measure_time catchsegv darkplaces/darkplaces-sdl -xonotic -nohome -benchmark demos/the-big-keybench +r_glsl 1 2560x1440[m
+real 138.20
+user 111.54
+sys 9.15
+
+ Performance counter stats for 'system wide' (5 runs):
+
+           2033,01 Joules power/energy-pkg/                                             ( +-  0,12% )
+            373,21 Joules power/energy-ram/                                             ( +-  0,11% )
+
+           138,010 +- 0,283 seconds time elapsed  ( +-  0,21% )
+
