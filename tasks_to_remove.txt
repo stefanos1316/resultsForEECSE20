@@ -1,0 +1,48 @@
+aio-stress
+blogbench_read
+bork
+brlcad
+build-gcc
+cassandra_write
+cp2k
+dacapo_h2
+darktable_masskrug.NEF
+dav1d_chimera_8b_1080p.ivf
+dav1d_summer_nature_1080p
+dav1d_summer_nature_4k.ivf
+dcraw
+deepspeech
+encode-flac
+ffmpeg
+fs-mark (all 3)
+graphics-magick_gaussian
+graphics-magick
+inkscape
+javascimark2
+jxrend
+node-express-loadtest
+octave-benchmark
+ospray magnetic reconnection
+ospray san miguel
+ospray xfrog forest
+postmark
+pymongo
+pybench
+renaissance_akka-uct
+renaissance_als
+renaissance_dotty
+renaissance_finagle-chirper
+renaissance_page-rank
+sqlitebench
+stress-ng_matrix
+stress-ng_sock
+stress-ng_vecmath
+svt-hevc
+tensorflow
+tinymembench
+tiobench random read
+tiobench random write
+tiobench read
+tiobench write
+x264
+zstd
