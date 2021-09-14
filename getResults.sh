@@ -20,9 +20,8 @@ for i in `ls $1`; do
 
     total_energy=$(echo "scale=2; $pkg_energy + $ram_energy" | bc)
 
-    taskName=$(echo $j | awk -F'_' '{print $2}' | awk -F'.' '{print $1}')
-    echo "$taskName: $total_energy" >> $1/$i/energy.txt
-    echo "$taskName: $runtime" >> $1/$i/runtime.txt 
+    echo "$j: $total_energy" >> $1/$i/energy.txt
+    echo "$j: $runtime" >> $1/$i/runtime.txt 
   done
 done
 
