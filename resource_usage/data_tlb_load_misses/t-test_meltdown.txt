@@ -1,0 +1,55 @@
+
+ Performance counter stats for './t-test1':
+
+        21,749,894      dTLB-load-misses                                            
+
+       5.819947768 seconds time elapsed
+
+       5.950170000 seconds user
+       5.760185000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+        20,687,934      dTLB-load-misses                                            
+
+       5.837138760 seconds time elapsed
+
+       5.954140000 seconds user
+       5.795957000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+        17,537,899      dTLB-load-misses                                            
+
+       5.810081683 seconds time elapsed
+
+       5.715714000 seconds user
+       5.975334000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+        18,103,731      dTLB-load-misses                                            
+
+       5.840002752 seconds time elapsed
+
+       5.655860000 seconds user
+       6.101522000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+        17,160,926      dTLB-load-misses                                            
+
+       5.726059745 seconds time elapsed
+
+       5.760799000 seconds user
+       5.781040000 seconds sys
+
+
