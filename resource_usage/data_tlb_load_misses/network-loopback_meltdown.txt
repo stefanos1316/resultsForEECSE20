@@ -1,0 +1,70 @@
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 49.2735 s, 2.1 GB/s
+
+ Performance counter stats for './network-loopback':
+
+         3,279,377      dTLB-load-misses                                            
+
+      58.283501185 seconds time elapsed
+
+      14.546306000 seconds user
+      97.978549000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 48.9988 s, 2.1 GB/s
+
+ Performance counter stats for './network-loopback':
+
+         1,953,260      dTLB-load-misses                                            
+
+      58.008719678 seconds time elapsed
+
+      14.680752000 seconds user
+      96.123577000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 49.1197 s, 2.1 GB/s
+
+ Performance counter stats for './network-loopback':
+
+        10,358,479      dTLB-load-misses                                            
+
+      58.129479668 seconds time elapsed
+
+      14.054004000 seconds user
+      97.537785000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 48.9041 s, 2.1 GB/s
+
+ Performance counter stats for './network-loopback':
+
+         2,054,141      dTLB-load-misses                                            
+
+      57.914173528 seconds time elapsed
+
+      14.846405000 seconds user
+      97.161772000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 48.9319 s, 2.1 GB/s
+
+ Performance counter stats for './network-loopback':
+
+         4,710,294      dTLB-load-misses                                            
+
+      57.941741112 seconds time elapsed
+
+      14.641641000 seconds user
+      97.147681000 seconds sys
+
+
