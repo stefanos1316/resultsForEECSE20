@@ -1,0 +1,70 @@
+stress-ng: info:  [9780] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [9780] dispatching hogs: 8 fork
+stress-ng: info:  [9780] successful run completed in 30.17s
+
+ Performance counter stats for 'stress-ng --fork 0 --fork-ops 1000000':
+
+       566,241,232      dTLB-load-misses                                            
+
+      30.170581503 seconds time elapsed
+
+      97.716770000 seconds user
+      93.507796000 seconds sys
+
+
+stress-ng: info:  [8771] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [8771] dispatching hogs: 8 fork
+stress-ng: info:  [8771] successful run completed in 30.26s
+
+ Performance counter stats for 'stress-ng --fork 0 --fork-ops 1000000':
+
+       570,260,972      dTLB-load-misses                                            
+
+      30.264659291 seconds time elapsed
+
+      97.487352000 seconds user
+      94.824773000 seconds sys
+
+
+stress-ng: info:  [7731] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [7731] dispatching hogs: 8 fork
+stress-ng: info:  [7731] successful run completed in 29.82s
+
+ Performance counter stats for 'stress-ng --fork 0 --fork-ops 1000000':
+
+       563,292,957      dTLB-load-misses                                            
+
+      29.825578861 seconds time elapsed
+
+      95.852719000 seconds user
+      93.202911000 seconds sys
+
+
+stress-ng: info:  [6703] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [6703] dispatching hogs: 8 fork
+stress-ng: info:  [6703] successful run completed in 30.35s
+
+ Performance counter stats for 'stress-ng --fork 0 --fork-ops 1000000':
+
+       575,391,526      dTLB-load-misses                                            
+
+      30.356221544 seconds time elapsed
+
+      98.284459000 seconds user
+      94.368318000 seconds sys
+
+
+stress-ng: info:  [5652] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [5652] dispatching hogs: 8 fork
+stress-ng: info:  [5652] successful run completed in 30.33s
+
+ Performance counter stats for 'stress-ng --fork 0 --fork-ops 1000000':
+
+       562,661,762      dTLB-load-misses                                            
+
+      30.330622185 seconds time elapsed
+
+      97.180811000 seconds user
+      95.141575000 seconds sys
+
+

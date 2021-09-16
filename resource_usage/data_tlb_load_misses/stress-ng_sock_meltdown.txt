@@ -1,0 +1,70 @@
+stress-ng: info:  [27984] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [27984] dispatching hogs: 8 sock
+stress-ng: info:  [27984] successful run completed in 24.69s
+
+ Performance counter stats for 'stress-ng --sock 0 --sock-ops 100000':
+
+        96,082,383      dTLB-load-misses                                            
+
+      24.691284082 seconds time elapsed
+
+      28.038170000 seconds user
+     162.751696000 seconds sys
+
+
+stress-ng: info:  [28005] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [28005] dispatching hogs: 8 sock
+stress-ng: info:  [28005] successful run completed in 25.36s
+
+ Performance counter stats for 'stress-ng --sock 0 --sock-ops 100000':
+
+        90,732,803      dTLB-load-misses                                            
+
+      25.365270482 seconds time elapsed
+
+      28.556153000 seconds user
+     162.392534000 seconds sys
+
+
+stress-ng: info:  [28035] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [28035] dispatching hogs: 8 sock
+stress-ng: info:  [28035] successful run completed in 25.14s
+
+ Performance counter stats for 'stress-ng --sock 0 --sock-ops 100000':
+
+        98,148,594      dTLB-load-misses                                            
+
+      25.139682300 seconds time elapsed
+
+      28.412403000 seconds user
+     165.360686000 seconds sys
+
+
+stress-ng: info:  [28072] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [28072] dispatching hogs: 8 sock
+stress-ng: info:  [28072] successful run completed in 25.31s
+
+ Performance counter stats for 'stress-ng --sock 0 --sock-ops 100000':
+
+       106,370,801      dTLB-load-misses                                            
+
+      25.316119942 seconds time elapsed
+
+      28.184838000 seconds user
+     165.333500000 seconds sys
+
+
+stress-ng: info:  [28102] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [28102] dispatching hogs: 8 sock
+stress-ng: info:  [28102] successful run completed in 25.31s
+
+ Performance counter stats for 'stress-ng --sock 0 --sock-ops 100000':
+
+       109,772,802      dTLB-load-misses                                            
+
+      25.316244974 seconds time elapsed
+
+      29.047748000 seconds user
+     164.376338000 seconds sys
+
+

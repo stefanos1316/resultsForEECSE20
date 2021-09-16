@@ -1,0 +1,110 @@
+stress-ng: info:  [28151] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [28151] dispatching hogs: 8 switch
+stress-ng: info:  [28156] stress-ng-switch: 4562.50 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28159] stress-ng-switch: 4583.23 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28153] stress-ng-switch: 4602.19 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28154] stress-ng-switch: 4616.02 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28155] stress-ng-switch: 4628.85 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28157] stress-ng-switch: 4629.78 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28152] stress-ng-switch: 4636.08 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28158] stress-ng-switch: 4645.45 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28151] successful run completed in 23.23s
+
+ Performance counter stats for 'stress-ng --switch 0 --switch-ops 40000000':
+
+        88,272,511      dTLB-load-misses                                            
+
+      23.232999350 seconds time elapsed
+
+      30.098074000 seconds user
+     154.330064000 seconds sys
+
+
+stress-ng: info:  [28176] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [28176] dispatching hogs: 8 switch
+stress-ng: info:  [28188] stress-ng-switch: 4548.56 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28180] stress-ng-switch: 4572.76 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28182] stress-ng-switch: 4578.79 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28179] stress-ng-switch: 4579.90 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28177] stress-ng-switch: 4589.69 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28181] stress-ng-switch: 4590.60 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28178] stress-ng-switch: 4595.40 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28186] stress-ng-switch: 4597.71 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28176] successful run completed in 22.99s
+
+ Performance counter stats for 'stress-ng --switch 0 --switch-ops 40000000':
+
+        85,690,827      dTLB-load-misses                                            
+
+      22.992679654 seconds time elapsed
+
+      29.732811000 seconds user
+     153.414526000 seconds sys
+
+
+stress-ng: info:  [28199] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [28199] dispatching hogs: 8 switch
+stress-ng: info:  [28209] stress-ng-switch: 4573.84 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28202] stress-ng-switch: 4582.19 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28206] stress-ng-switch: 4611.24 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28200] stress-ng-switch: 4614.91 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28201] stress-ng-switch: 4628.60 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28211] stress-ng-switch: 4637.68 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28203] stress-ng-switch: 4637.94 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28204] stress-ng-switch: 4656.09 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28199] successful run completed in 23.28s
+
+ Performance counter stats for 'stress-ng --switch 0 --switch-ops 40000000':
+
+        86,334,807      dTLB-load-misses                                            
+
+      23.284355493 seconds time elapsed
+
+      29.377564000 seconds user
+     155.370141000 seconds sys
+
+
+stress-ng: info:  [28221] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [28221] dispatching hogs: 8 switch
+stress-ng: info:  [28226] stress-ng-switch: 4558.52 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28228] stress-ng-switch: 4573.38 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28233] stress-ng-switch: 4580.95 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28224] stress-ng-switch: 4591.75 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28222] stress-ng-switch: 4592.25 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28223] stress-ng-switch: 4596.50 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28225] stress-ng-switch: 4620.01 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28231] stress-ng-switch: 4636.08 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28221] successful run completed in 23.18s
+
+ Performance counter stats for 'stress-ng --switch 0 --switch-ops 40000000':
+
+        85,978,658      dTLB-load-misses                                            
+
+      23.184537156 seconds time elapsed
+
+      28.423190000 seconds user
+     155.288173000 seconds sys
+
+
+stress-ng: info:  [28244] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [28244] dispatching hogs: 8 switch
+stress-ng: info:  [28245] stress-ng-switch: 4574.39 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28247] stress-ng-switch: 4600.12 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28251] stress-ng-switch: 4630.61 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28256] stress-ng-switch: 4631.08 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28254] stress-ng-switch: 4632.54 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28248] stress-ng-switch: 4646.57 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28249] stress-ng-switch: 4669.13 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28246] stress-ng-switch: 4673.82 nanoseconds per context switch (based on parent run time)
+stress-ng: info:  [28244] successful run completed in 23.37s
+
+ Performance counter stats for 'stress-ng --switch 0 --switch-ops 40000000':
+
+        89,415,356      dTLB-load-misses                                            
+
+      23.372998489 seconds time elapsed
+
+      28.899674000 seconds user
+     156.359055000 seconds sys
+
+

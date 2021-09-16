@@ -1,0 +1,70 @@
+stress-ng: info:  [27806] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [27806] dispatching hogs: 8 sem
+stress-ng: info:  [27806] successful run completed in 20.11s
+
+ Performance counter stats for 'stress-ng --sem 0 --sem-ops 100000000':
+
+       130,479,671      dTLB-load-misses                                            
+
+      20.117768339 seconds time elapsed
+
+      55.552768000 seconds user
+     104.522198000 seconds sys
+
+
+stress-ng: info:  [27839] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [27839] dispatching hogs: 8 sem
+stress-ng: info:  [27839] successful run completed in 20.21s
+
+ Performance counter stats for 'stress-ng --sem 0 --sem-ops 100000000':
+
+       130,796,340      dTLB-load-misses                                            
+
+      20.217331706 seconds time elapsed
+
+      56.583500000 seconds user
+     104.727665000 seconds sys
+
+
+stress-ng: info:  [27867] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [27867] dispatching hogs: 8 sem
+stress-ng: info:  [27867] successful run completed in 20.31s
+
+ Performance counter stats for 'stress-ng --sem 0 --sem-ops 100000000':
+
+       130,818,848      dTLB-load-misses                                            
+
+      20.318643529 seconds time elapsed
+
+      55.987649000 seconds user
+     105.623441000 seconds sys
+
+
+stress-ng: info:  [27905] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [27905] dispatching hogs: 8 sem
+stress-ng: info:  [27905] successful run completed in 20.11s
+
+ Performance counter stats for 'stress-ng --sem 0 --sem-ops 100000000':
+
+       130,614,573      dTLB-load-misses                                            
+
+      20.118774345 seconds time elapsed
+
+      56.049939000 seconds user
+     104.276726000 seconds sys
+
+
+stress-ng: info:  [27935] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [27935] dispatching hogs: 8 sem
+stress-ng: info:  [27935] successful run completed in 20.21s
+
+ Performance counter stats for 'stress-ng --sem 0 --sem-ops 100000000':
+
+       130,952,307      dTLB-load-misses                                            
+
+      20.216181391 seconds time elapsed
+
+      56.235193000 seconds user
+     105.191133000 seconds sys
+
+

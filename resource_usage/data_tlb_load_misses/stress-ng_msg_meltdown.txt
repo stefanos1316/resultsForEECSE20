@@ -1,0 +1,70 @@
+stress-ng: info:  [27670] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [27670] dispatching hogs: 8 msg
+stress-ng: info:  [27670] successful run completed in 22.01s
+
+ Performance counter stats for 'stress-ng --msg 0 --msg-ops 100000000':
+
+       214,510,639      dTLB-load-misses                                            
+
+      22.008853034 seconds time elapsed
+
+      66.279862000 seconds user
+     105.201636000 seconds sys
+
+
+stress-ng: info:  [27695] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [27695] dispatching hogs: 8 msg
+stress-ng: info:  [27695] successful run completed in 21.86s
+
+ Performance counter stats for 'stress-ng --msg 0 --msg-ops 100000000':
+
+       214,841,202      dTLB-load-misses                                            
+
+      21.863680461 seconds time elapsed
+
+      65.722780000 seconds user
+     105.175963000 seconds sys
+
+
+stress-ng: info:  [27717] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [27717] dispatching hogs: 8 msg
+stress-ng: info:  [27717] successful run completed in 22.00s
+
+ Performance counter stats for 'stress-ng --msg 0 --msg-ops 100000000':
+
+       214,516,086      dTLB-load-misses                                            
+
+      22.006118563 seconds time elapsed
+
+      65.490085000 seconds user
+     105.923716000 seconds sys
+
+
+stress-ng: info:  [27739] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [27739] dispatching hogs: 8 msg
+stress-ng: info:  [27739] successful run completed in 21.99s
+
+ Performance counter stats for 'stress-ng --msg 0 --msg-ops 100000000':
+
+       214,936,902      dTLB-load-misses                                            
+
+      21.989699129 seconds time elapsed
+
+      65.578098000 seconds user
+     105.431695000 seconds sys
+
+
+stress-ng: info:  [27763] defaulting to a 86400 second (1 day, 0.00 secs) run per stressor
+stress-ng: info:  [27763] dispatching hogs: 8 msg
+stress-ng: info:  [27763] successful run completed in 21.90s
+
+ Performance counter stats for 'stress-ng --msg 0 --msg-ops 100000000':
+
+       214,800,431      dTLB-load-misses                                            
+
+      21.900063931 seconds time elapsed
+
+      65.578373000 seconds user
+     105.374015000 seconds sys
+
+
