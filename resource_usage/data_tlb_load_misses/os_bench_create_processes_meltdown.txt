@@ -1,0 +1,55 @@
+
+ Performance counter stats for './osbench create_processes':
+
+       102,344,219      dTLB-load-misses                                            
+
+      23.415378517 seconds time elapsed
+
+      70.989491000 seconds user
+      23.178666000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+       102,216,444      dTLB-load-misses                                            
+
+      22.807819417 seconds time elapsed
+
+      70.870403000 seconds user
+      22.717474000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+       103,413,411      dTLB-load-misses                                            
+
+      22.819231646 seconds time elapsed
+
+      68.084752000 seconds user
+      22.616878000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+       103,838,722      dTLB-load-misses                                            
+
+      22.912154577 seconds time elapsed
+
+      69.934541000 seconds user
+      22.912126000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+       101,964,843      dTLB-load-misses                                            
+
+      23.798750420 seconds time elapsed
+
+      67.121718000 seconds user
+      23.425652000 seconds sys
+
+

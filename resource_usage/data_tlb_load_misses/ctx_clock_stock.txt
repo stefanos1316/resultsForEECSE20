@@ -1,0 +1,55 @@
+
+ Performance counter stats for './ctx_clock':
+
+     1,000,085,404      dTLB-load-misses                                            
+
+     331.160864635 seconds time elapsed
+
+     246.844817000 seconds user
+      84.267314000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+     1,000,085,442      dTLB-load-misses                                            
+
+     330.416737860 seconds time elapsed
+
+     245.962238000 seconds user
+      84.439843000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+     1,000,089,298      dTLB-load-misses                                            
+
+     330.604062503 seconds time elapsed
+
+     246.461672000 seconds user
+      84.137364000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+     1,000,090,428      dTLB-load-misses                                            
+
+     330.472920061 seconds time elapsed
+
+     245.760196000 seconds user
+      84.684235000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+     1,000,087,469      dTLB-load-misses                                            
+
+     330.618614165 seconds time elapsed
+
+     246.516490000 seconds user
+      84.098005000 seconds sys
+
+

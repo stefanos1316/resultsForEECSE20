@@ -1,0 +1,55 @@
+
+ Performance counter stats for './osbench create_files':
+
+        11,905,485      dTLB-load-misses                                            
+
+      27.843136905 seconds time elapsed
+
+       3.679994000 seconds user
+      24.150640000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_files':
+
+        11,896,211      dTLB-load-misses                                            
+
+      27.821681747 seconds time elapsed
+
+       3.403888000 seconds user
+      24.384764000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_files':
+
+        11,868,192      dTLB-load-misses                                            
+
+      27.794100240 seconds time elapsed
+
+       3.427493000 seconds user
+      24.350143000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_files':
+
+        11,923,166      dTLB-load-misses                                            
+
+      28.107120984 seconds time elapsed
+
+       3.496760000 seconds user
+      24.602528000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_files':
+
+        11,875,800      dTLB-load-misses                                            
+
+      27.726377992 seconds time elapsed
+
+       3.444098000 seconds user
+      24.274153000 seconds sys
+
+

@@ -1,0 +1,55 @@
+
+ Performance counter stats for './osbench create_threads':
+
+       119,724,319      dTLB-load-misses                                            
+
+      22.713191653 seconds time elapsed
+
+       5.581990000 seconds user
+      30.110718000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+       106,564,932      dTLB-load-misses                                            
+
+      27.171346696 seconds time elapsed
+
+       5.505753000 seconds user
+      36.039453000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+       123,580,797      dTLB-load-misses                                            
+
+      22.488447721 seconds time elapsed
+
+       5.366106000 seconds user
+      30.009869000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+       120,310,148      dTLB-load-misses                                            
+
+      22.858371540 seconds time elapsed
+
+       5.468168000 seconds user
+      30.253842000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+       124,310,214      dTLB-load-misses                                            
+
+      22.498377805 seconds time elapsed
+
+       5.665798000 seconds user
+      29.904686000 seconds sys
+
+

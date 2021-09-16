@@ -1,0 +1,55 @@
+
+ Performance counter stats for './osbench mem_alloc':
+
+        42,766,846      dTLB-load-misses                                            
+
+      22.424422490 seconds time elapsed
+
+      18.239876000 seconds user
+       4.183741000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+        41,114,894      dTLB-load-misses                                            
+
+      22.371330334 seconds time elapsed
+
+      18.123368000 seconds user
+       4.247512000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+        41,114,047      dTLB-load-misses                                            
+
+      22.439244641 seconds time elapsed
+
+      18.129437000 seconds user
+       4.309434000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+        42,473,134      dTLB-load-misses                                            
+
+      22.528282364 seconds time elapsed
+
+      18.167539000 seconds user
+       4.359659000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+        42,294,637      dTLB-load-misses                                            
+
+      22.474997049 seconds time elapsed
+
+      18.190996000 seconds user
+       4.283540000 seconds sys
+
+

@@ -1,0 +1,55 @@
+
+ Performance counter stats for './osbench launch_programs':
+
+       103,732,606      dTLB-load-misses                                            
+
+      13.572094023 seconds time elapsed
+
+      79.815121000 seconds user
+      14.810169000 seconds sys
+
+
+
+ Performance counter stats for './osbench launch_programs':
+
+       102,566,878      dTLB-load-misses                                            
+
+      13.349246284 seconds time elapsed
+
+      78.412549000 seconds user
+      14.577049000 seconds sys
+
+
+
+ Performance counter stats for './osbench launch_programs':
+
+       103,477,593      dTLB-load-misses                                            
+
+      13.359495057 seconds time elapsed
+
+      78.660699000 seconds user
+      14.628045000 seconds sys
+
+
+
+ Performance counter stats for './osbench launch_programs':
+
+       104,750,232      dTLB-load-misses                                            
+
+      13.377067615 seconds time elapsed
+
+      78.658371000 seconds user
+      14.742966000 seconds sys
+
+
+
+ Performance counter stats for './osbench launch_programs':
+
+       103,711,901      dTLB-load-misses                                            
+
+      13.569356557 seconds time elapsed
+
+      79.798810000 seconds user
+      14.882579000 seconds sys
+
+
