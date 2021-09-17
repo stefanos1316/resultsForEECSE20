@@ -1,0 +1,55 @@
+
+ Performance counter stats for 'src/redis-benchmark -n 10000000 --csv lpush':
+
+        36,454,336      dTLB-load-misses                                            
+
+      92.319260237 seconds time elapsed
+
+      17.306504000 seconds user
+      45.014132000 seconds sys
+
+
+
+ Performance counter stats for 'src/redis-benchmark -n 10000000 --csv lpush':
+
+        33,470,148      dTLB-load-misses                                            
+
+      92.165879407 seconds time elapsed
+
+      17.101500000 seconds user
+      44.965478000 seconds sys
+
+
+
+ Performance counter stats for 'src/redis-benchmark -n 10000000 --csv lpush':
+
+        32,725,166      dTLB-load-misses                                            
+
+      92.478869572 seconds time elapsed
+
+      17.118585000 seconds user
+      45.008318000 seconds sys
+
+
+
+ Performance counter stats for 'src/redis-benchmark -n 10000000 --csv lpush':
+
+        41,418,951      dTLB-load-misses                                            
+
+      92.105893804 seconds time elapsed
+
+      17.219860000 seconds user
+      44.991757000 seconds sys
+
+
+
+ Performance counter stats for 'src/redis-benchmark -n 10000000 --csv lpush':
+
+        34,173,478      dTLB-load-misses                                            
+
+      91.885398115 seconds time elapsed
+
+      17.274931000 seconds user
+      44.991092000 seconds sys
+
+
