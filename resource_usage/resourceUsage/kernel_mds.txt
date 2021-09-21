@@ -1,0 +1,300 @@
+
+ Performance counter stats for './build-linux-kernel':
+
+      9,571,582.26 msec task-clock                #    7.080 CPUs utilized          
+         2,648,344      context-switches          #    0.277 K/sec                  
+           350,177      cpu-migrations            #    0.037 K/sec                  
+       410,780,346      page-faults               #    0.043 M/sec                  
+37,328,330,911,126      cycles                    #    3.900 GHz                      (30.69%)
+30,189,311,815,786      instructions              #    0.81  insn per cycle           (38.39%)
+ 6,614,559,434,189      branches                  #  691.062 M/sec                    (38.40%)
+   172,285,078,034      branch-misses             #    2.60% of all branches          (38.43%)
+ 8,104,689,196,434      L1-dcache-loads           #  846.745 M/sec                    (38.48%)
+   561,152,342,127      L1-dcache-load-misses     #    6.92% of all L1-dcache hits    (38.51%)
+   149,776,836,531      LLC-loads                 #   15.648 M/sec                    (30.82%)
+    30,416,713,746      LLC-load-misses           #   20.31% of all LL-cache hits     (30.81%)
+   <not supported>      L1-icache-loads                                             
+   834,026,551,313      L1-icache-load-misses                                         (30.81%)
+ 8,112,306,945,702      dTLB-loads                #  847.541 M/sec                    (30.80%)
+    10,952,163,507      dTLB-load-misses          #    0.14% of all dTLB cache hits   (30.79%)
+    42,241,932,206      iTLB-loads                #    4.413 M/sec                    (30.75%)
+     4,879,439,091      iTLB-load-misses          #   11.55% of all iTLB cache hits   (30.71%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+    1351.879516771 seconds time elapsed
+
+    8690.039000000 seconds user
+     891.413286000 seconds sys
+
+
+
+ Performance counter stats for './build-linux-kernel':
+
+      9,671,335.27 msec task-clock                #    7.343 CPUs utilized          
+         2,981,477      context-switches          #    0.308 K/sec                  
+           321,887      cpu-migrations            #    0.033 K/sec                  
+       410,705,691      page-faults               #    0.042 M/sec                  
+37,511,291,479,681      cycles                    #    3.879 GHz                      (30.85%)
+30,183,697,214,203      instructions              #    0.80  insn per cycle           (38.53%)
+ 6,616,804,796,725      branches                  #  684.167 M/sec                    (38.49%)
+   172,591,976,831      branch-misses             #    2.61% of all branches          (38.42%)
+ 8,119,199,577,139      L1-dcache-loads           #  839.512 M/sec                    (38.37%)
+   563,976,265,575      L1-dcache-load-misses     #    6.95% of all L1-dcache hits    (38.35%)
+   151,182,744,375      LLC-loads                 #   15.632 M/sec                    (30.69%)
+    30,742,850,691      LLC-load-misses           #   20.33% of all LL-cache hits     (30.73%)
+   <not supported>      L1-icache-loads                                             
+   836,268,055,770      L1-icache-load-misses                                         (30.77%)
+ 8,106,181,531,085      dTLB-loads                #  838.166 M/sec                    (30.80%)
+    11,378,177,801      dTLB-load-misses          #    0.14% of all dTLB cache hits   (30.82%)
+    42,296,863,989      iTLB-loads                #    4.373 M/sec                    (30.84%)
+     4,929,968,968      iTLB-load-misses          #   11.66% of all iTLB cache hits   (30.85%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+    1317.045616901 seconds time elapsed
+
+    8767.177724000 seconds user
+     912.626131000 seconds sys
+
+
+
+ Performance counter stats for './build-linux-kernel':
+
+      9,666,455.99 msec task-clock                #    7.348 CPUs utilized          
+         2,923,742      context-switches          #    0.302 K/sec                  
+           319,865      cpu-migrations            #    0.033 K/sec                  
+       410,509,449      page-faults               #    0.042 M/sec                  
+37,485,082,453,299      cycles                    #    3.878 GHz                      (30.72%)
+30,177,614,345,975      instructions              #    0.81  insn per cycle           (38.41%)
+ 6,612,303,070,448      branches                  #  684.046 M/sec                    (38.41%)
+   172,555,180,496      branch-misses             #    2.61% of all branches          (38.40%)
+ 8,105,494,836,640      L1-dcache-loads           #  838.518 M/sec                    (38.41%)
+   563,642,306,853      L1-dcache-load-misses     #    6.95% of all L1-dcache hits    (38.43%)
+   150,984,924,575      LLC-loads                 #   15.619 M/sec                    (30.77%)
+    30,766,275,533      LLC-load-misses           #   20.38% of all LL-cache hits     (30.82%)
+   <not supported>      L1-icache-loads                                             
+   835,358,936,795      L1-icache-load-misses                                         (30.83%)
+ 8,112,788,741,335      dTLB-loads                #  839.272 M/sec                    (30.84%)
+    11,422,772,541      dTLB-load-misses          #    0.14% of all dTLB cache hits   (30.82%)
+    42,421,218,535      iTLB-loads                #    4.388 M/sec                    (30.78%)
+     4,929,957,435      iTLB-load-misses          #   11.62% of all iTLB cache hits   (30.76%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+    1315.595422660 seconds time elapsed
+
+    8759.215275000 seconds user
+     915.625709000 seconds sys
+
+
+
+ Performance counter stats for './build-linux-kernel':
+
+      9,682,206.40 msec task-clock                #    7.270 CPUs utilized          
+         2,972,690      context-switches          #    0.307 K/sec                  
+           316,927      cpu-migrations            #    0.033 K/sec                  
+       410,480,017      page-faults               #    0.042 M/sec                  
+37,510,897,250,629      cycles                    #    3.874 GHz                      (30.78%)
+30,175,225,120,150      instructions              #    0.80  insn per cycle           (38.53%)
+ 6,613,492,006,691      branches                  #  683.056 M/sec                    (38.60%)
+   172,194,196,292      branch-misses             #    2.60% of all branches          (38.67%)
+ 8,107,135,351,809      L1-dcache-loads           #  837.323 M/sec                    (38.68%)
+   563,214,203,365      L1-dcache-load-misses     #    6.95% of all L1-dcache hits    (38.62%)
+   150,828,538,006      LLC-loads                 #   15.578 M/sec                    (30.79%)
+    30,745,692,600      LLC-load-misses           #   20.38% of all LL-cache hits     (30.70%)
+   <not supported>      L1-icache-loads                                             
+   836,134,153,900      L1-icache-load-misses                                         (30.63%)
+ 8,116,853,993,507      dTLB-loads                #  838.327 M/sec                    (30.60%)
+    11,504,101,017      dTLB-load-misses          #    0.14% of all dTLB cache hits   (30.60%)
+    42,535,786,327      iTLB-loads                #    4.393 M/sec                    (30.63%)
+     4,953,895,048      iTLB-load-misses          #   11.65% of all iTLB cache hits   (30.69%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+    1331.746006808 seconds time elapsed
+
+    8774.111276000 seconds user
+     916.564035000 seconds sys
+
+
+
+ Performance counter stats for './build-linux-kernel':
+
+      9,666,585.52 msec task-clock                #    7.331 CPUs utilized          
+         2,894,347      context-switches          #    0.299 K/sec                  
+           322,307      cpu-migrations            #    0.033 K/sec                  
+       410,365,824      page-faults               #    0.042 M/sec                  
+37,497,545,145,781      cycles                    #    3.879 GHz                      (30.73%)
+30,207,696,843,459      instructions              #    0.81  insn per cycle           (38.40%)
+ 6,617,925,706,332      branches                  #  684.619 M/sec                    (38.37%)
+   172,543,019,280      branch-misses             #    2.61% of all branches          (38.37%)
+ 8,107,514,558,639      L1-dcache-loads           #  838.715 M/sec                    (38.42%)
+   563,874,832,609      L1-dcache-load-misses     #    6.95% of all L1-dcache hits    (38.46%)
+   151,043,406,931      LLC-loads                 #   15.625 M/sec                    (30.82%)
+    30,814,509,426      LLC-load-misses           #   20.40% of all LL-cache hits     (30.83%)
+   <not supported>      L1-icache-loads                                             
+   834,382,979,617      L1-icache-load-misses                                         (30.82%)
+ 8,110,634,207,933      dTLB-loads                #  839.038 M/sec                    (30.81%)
+    11,428,990,827      dTLB-load-misses          #    0.14% of all dTLB cache hits   (30.80%)
+    42,314,146,275      iTLB-loads                #    4.377 M/sec                    (30.79%)
+     4,934,362,735      iTLB-load-misses          #   11.66% of all iTLB cache hits   (30.76%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+    1318.665068552 seconds time elapsed
+
+    8760.549071000 seconds user
+     914.443197000 seconds sys
+
+
+
+ Performance counter stats for './build-linux-kernel':
+
+      9,662,714.90 msec task-clock                #    7.307 CPUs utilized          
+         2,956,704      context-switches          #    0.306 K/sec                  
+           318,919      cpu-migrations            #    0.033 K/sec                  
+       410,387,074      page-faults               #    0.042 M/sec                  
+37,515,748,257,614      cycles                    #    3.883 GHz                      (30.75%)
+30,154,272,612,141      instructions              #    0.80  insn per cycle           (38.47%)
+ 6,609,235,972,065      branches                  #  683.994 M/sec                    (38.51%)
+   172,245,034,282      branch-misses             #    2.61% of all branches          (38.54%)
+ 8,105,034,683,461      L1-dcache-loads           #  838.795 M/sec                    (38.57%)
+   563,751,203,697      L1-dcache-load-misses     #    6.96% of all L1-dcache hits    (38.57%)
+   150,822,249,078      LLC-loads                 #   15.609 M/sec                    (30.82%)
+    30,711,195,963      LLC-load-misses           #   20.36% of all LL-cache hits     (30.77%)
+   <not supported>      L1-icache-loads                                             
+   836,295,947,793      L1-icache-load-misses                                         (30.73%)
+ 8,119,522,035,441      dTLB-loads                #  840.294 M/sec                    (30.68%)
+    11,474,617,492      dTLB-load-misses          #    0.14% of all dTLB cache hits   (30.66%)
+    42,497,088,421      iTLB-loads                #    4.398 M/sec                    (30.68%)
+     4,953,159,247      iTLB-load-misses          #   11.66% of all iTLB cache hits   (30.71%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+    1322.431554276 seconds time elapsed
+
+    8756.769544000 seconds user
+     914.375505000 seconds sys
+
+
+
+ Performance counter stats for './build-linux-kernel':
+
+      9,661,548.86 msec task-clock                #    7.374 CPUs utilized          
+         2,943,977      context-switches          #    0.305 K/sec                  
+           322,290      cpu-migrations            #    0.033 K/sec                  
+       410,373,828      page-faults               #    0.042 M/sec                  
+37,524,737,361,222      cycles                    #    3.884 GHz                      (30.77%)
+30,179,253,492,948      instructions              #    0.80  insn per cycle           (38.47%)
+ 6,614,815,858,628      branches                  #  684.654 M/sec                    (38.49%)
+   172,463,830,492      branch-misses             #    2.61% of all branches          (38.50%)
+ 8,106,319,162,938      L1-dcache-loads           #  839.029 M/sec                    (38.52%)
+   563,888,224,595      L1-dcache-load-misses     #    6.96% of all L1-dcache hits    (38.51%)
+   151,167,566,134      LLC-loads                 #   15.646 M/sec                    (30.79%)
+    30,790,889,615      LLC-load-misses           #   20.37% of all LL-cache hits     (30.77%)
+   <not supported>      L1-icache-loads                                             
+   835,345,019,191      L1-icache-load-misses                                         (30.73%)
+ 8,117,450,477,672      dTLB-loads                #  840.181 M/sec                    (30.72%)
+    11,472,131,014      dTLB-load-misses          #    0.14% of all dTLB cache hits   (30.72%)
+    42,468,862,131      iTLB-loads                #    4.396 M/sec                    (30.73%)
+     4,951,608,985      iTLB-load-misses          #   11.66% of all iTLB cache hits   (30.75%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+    1310.217276281 seconds time elapsed
+
+    8755.599373000 seconds user
+     914.372375000 seconds sys
+
+
+
+ Performance counter stats for './build-linux-kernel':
+
+      9,667,124.62 msec task-clock                #    7.299 CPUs utilized          
+         2,961,648      context-switches          #    0.306 K/sec                  
+           321,392      cpu-migrations            #    0.033 K/sec                  
+       410,336,434      page-faults               #    0.042 M/sec                  
+37,543,304,761,516      cycles                    #    3.884 GHz                      (30.72%)
+30,209,530,978,127      instructions              #    0.80  insn per cycle           (38.39%)
+ 6,620,399,916,277      branches                  #  684.837 M/sec                    (38.36%)
+   172,750,955,305      branch-misses             #    2.61% of all branches          (38.36%)
+ 8,109,279,359,493      L1-dcache-loads           #  838.851 M/sec                    (38.38%)
+   563,956,438,079      L1-dcache-load-misses     #    6.95% of all L1-dcache hits    (38.41%)
+   151,245,747,526      LLC-loads                 #   15.645 M/sec                    (30.78%)
+    30,827,293,917      LLC-load-misses           #   20.38% of all LL-cache hits     (30.82%)
+   <not supported>      L1-icache-loads                                             
+   834,432,036,383      L1-icache-load-misses                                         (30.85%)
+ 8,105,708,325,637      dTLB-loads                #  838.482 M/sec                    (30.87%)
+    11,495,321,035      dTLB-load-misses          #    0.14% of all dTLB cache hits   (30.86%)
+    42,363,043,245      iTLB-loads                #    4.382 M/sec                    (30.82%)
+     4,957,682,227      iTLB-load-misses          #   11.70% of all iTLB cache hits   (30.77%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+    1324.376428914 seconds time elapsed
+
+    8761.751818000 seconds user
+     913.787933000 seconds sys
+
+
+
+ Performance counter stats for './build-linux-kernel':
+
+      9,652,415.94 msec task-clock                #    7.337 CPUs utilized          
+         2,920,103      context-switches          #    0.303 K/sec                  
+           315,824      cpu-migrations            #    0.033 K/sec                  
+       410,392,220      page-faults               #    0.043 M/sec                  
+37,529,975,309,963      cycles                    #    3.888 GHz                      (30.70%)
+30,186,743,643,183      instructions              #    0.80  insn per cycle           (38.38%)
+ 6,615,219,615,759      branches                  #  685.343 M/sec                    (38.39%)
+   172,597,678,562      branch-misses             #    2.61% of all branches          (38.41%)
+ 8,107,860,660,873      L1-dcache-loads           #  839.983 M/sec                    (38.44%)
+   563,658,766,334      L1-dcache-load-misses     #    6.95% of all L1-dcache hits    (38.48%)
+   151,083,017,368      LLC-loads                 #   15.652 M/sec                    (30.82%)
+    30,803,505,334      LLC-load-misses           #   20.39% of all LL-cache hits     (30.84%)
+   <not supported>      L1-icache-loads                                             
+   834,424,083,185      L1-icache-load-misses                                         (30.85%)
+ 8,114,859,452,216      dTLB-loads                #  840.708 M/sec                    (30.82%)
+    11,487,797,891      dTLB-load-misses          #    0.14% of all dTLB cache hits   (30.79%)
+    42,427,561,145      iTLB-loads                #    4.396 M/sec                    (30.75%)
+     4,940,716,678      iTLB-load-misses          #   11.65% of all iTLB cache hits   (30.71%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+    1315.556469567 seconds time elapsed
+
+    8749.229521000 seconds user
+     911.585449000 seconds sys
+
+
+
+ Performance counter stats for './build-linux-kernel':
+
+      9,656,901.42 msec task-clock                #    7.373 CPUs utilized          
+         2,940,070      context-switches          #    0.304 K/sec                  
+           323,209      cpu-migrations            #    0.033 K/sec                  
+       410,357,435      page-faults               #    0.042 M/sec                  
+37,512,833,861,219      cycles                    #    3.885 GHz                      (30.76%)
+30,174,684,000,939      instructions              #    0.80  insn per cycle           (38.47%)
+ 6,612,438,322,585      branches                  #  684.737 M/sec                    (38.50%)
+   172,465,062,232      branch-misses             #    2.61% of all branches          (38.50%)
+ 8,107,831,333,328      L1-dcache-loads           #  839.589 M/sec                    (38.49%)
+   563,716,357,975      L1-dcache-load-misses     #    6.95% of all L1-dcache hits    (38.49%)
+   150,994,226,412      LLC-loads                 #   15.636 M/sec                    (30.78%)
+    30,770,349,510      LLC-load-misses           #   20.38% of all LL-cache hits     (30.80%)
+   <not supported>      L1-icache-loads                                             
+   835,483,339,687      L1-icache-load-misses                                         (30.78%)
+ 8,112,939,331,848      dTLB-loads                #  840.118 M/sec                    (30.75%)
+    11,487,126,656      dTLB-load-misses          #    0.14% of all dTLB cache hits   (30.72%)
+    42,454,893,600      iTLB-loads                #    4.396 M/sec                    (30.71%)
+     4,956,349,314      iTLB-load-misses          #   11.67% of all iTLB cache hits   (30.73%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+    1309.815397056 seconds time elapsed
+
+    8749.289150000 seconds user
+     916.068057000 seconds sys
+
+

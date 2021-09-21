@@ -1,0 +1,410 @@
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+         38,308.71 msec task-clock                #    0.982 CPUs utilized          
+             5,971      context-switches          #    0.156 K/sec                  
+                19      cpu-migrations            #    0.000 K/sec                  
+            19,944      page-faults               #    0.521 K/sec                  
+   147,591,142,552      cycles                    #    3.853 GHz                      (30.74%)
+    98,118,460,651      instructions              #    0.66  insn per cycle           (38.45%)
+    19,588,317,718      branches                  #  511.328 M/sec                    (38.46%)
+       442,626,120      branch-misses             #    2.26% of all branches          (38.46%)
+    28,275,841,257      L1-dcache-loads           #  738.105 M/sec                    (38.49%)
+     3,357,916,647      L1-dcache-load-misses     #   11.88% of all L1-dcache hits    (38.49%)
+     1,229,828,476      LLC-loads                 #   32.103 M/sec                    (30.77%)
+        86,738,734      LLC-load-misses           #    7.05% of all LL-cache hits     (30.77%)
+   <not supported>      L1-icache-loads                                             
+     8,809,826,967      L1-icache-load-misses                                         (30.77%)
+    28,289,609,236      dTLB-loads                #  738.464 M/sec                    (30.76%)
+        26,860,741      dTLB-load-misses          #    0.09% of all dTLB cache hits   (30.77%)
+        11,801,385      iTLB-loads                #    0.308 M/sec                    (30.77%)
+         8,940,883      iTLB-load-misses          #   75.76% of all iTLB cache hits   (30.74%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      39.024331998 seconds time elapsed
+
+       5.882020000 seconds user
+      32.434238000 seconds sys
+
+
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+         39,898.33 msec task-clock                #    0.988 CPUs utilized          
+             6,397      context-switches          #    0.160 K/sec                  
+                 8      cpu-migrations            #    0.000 K/sec                  
+            20,463      page-faults               #    0.513 K/sec                  
+   146,838,990,922      cycles                    #    3.680 GHz                      (30.74%)
+    97,970,589,291      instructions              #    0.67  insn per cycle           (38.43%)
+    19,565,812,185      branches                  #  490.392 M/sec                    (38.45%)
+       438,133,755      branch-misses             #    2.24% of all branches          (38.45%)
+    28,200,743,490      L1-dcache-loads           #  706.815 M/sec                    (38.47%)
+     3,388,333,805      L1-dcache-load-misses     #   12.02% of all L1-dcache hits    (38.49%)
+     1,213,614,523      LLC-loads                 #   30.418 M/sec                    (30.79%)
+        91,625,116      LLC-load-misses           #    7.55% of all LL-cache hits     (30.81%)
+   <not supported>      L1-icache-loads                                             
+     8,838,113,690      L1-icache-load-misses                                         (30.80%)
+    28,176,300,886      dTLB-loads                #  706.202 M/sec                    (30.77%)
+        30,928,485      dTLB-load-misses          #    0.11% of all dTLB cache hits   (30.76%)
+        14,397,727      iTLB-loads                #    0.361 M/sec                    (30.74%)
+         1,689,644      iTLB-load-misses          #   11.74% of all iTLB cache hits   (30.74%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      40.392226670 seconds time elapsed
+
+       5.770778000 seconds user
+      34.134547000 seconds sys
+
+
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+         39,688.98 msec task-clock                #    0.987 CPUs utilized          
+             6,631      context-switches          #    0.167 K/sec                  
+                34      cpu-migrations            #    0.001 K/sec                  
+            20,460      page-faults               #    0.516 K/sec                  
+   146,408,976,231      cycles                    #    3.689 GHz                      (30.76%)
+    97,653,696,209      instructions              #    0.67  insn per cycle           (38.45%)
+    19,493,108,820      branches                  #  491.147 M/sec                    (38.45%)
+       443,593,965      branch-misses             #    2.28% of all branches          (38.45%)
+    28,129,631,322      L1-dcache-loads           #  708.752 M/sec                    (38.47%)
+     3,365,041,515      L1-dcache-load-misses     #   11.96% of all L1-dcache hits    (38.47%)
+     1,219,147,894      LLC-loads                 #   30.718 M/sec                    (30.79%)
+        83,833,426      LLC-load-misses           #    6.88% of all LL-cache hits     (30.77%)
+   <not supported>      L1-icache-loads                                             
+     8,823,033,632      L1-icache-load-misses                                         (30.76%)
+    28,157,491,789      dTLB-loads                #  709.454 M/sec                    (30.76%)
+        29,622,771      dTLB-load-misses          #    0.11% of all dTLB cache hits   (30.77%)
+        14,032,704      iTLB-loads                #    0.354 M/sec                    (30.78%)
+         6,487,604      iTLB-load-misses          #   46.23% of all iTLB cache hits   (30.77%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      40.205872181 seconds time elapsed
+
+       5.991431000 seconds user
+      33.711683000 seconds sys
+
+
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+         39,409.93 msec task-clock                #    0.987 CPUs utilized          
+             5,982      context-switches          #    0.152 K/sec                  
+                 9      cpu-migrations            #    0.000 K/sec                  
+            20,456      page-faults               #    0.519 K/sec                  
+   145,102,474,528      cycles                    #    3.682 GHz                      (30.76%)
+    97,791,220,199      instructions              #    0.67  insn per cycle           (38.46%)
+    19,524,770,705      branches                  #  495.428 M/sec                    (38.46%)
+       443,139,821      branch-misses             #    2.27% of all branches          (38.44%)
+    28,225,146,694      L1-dcache-loads           #  716.194 M/sec                    (38.46%)
+     3,355,799,338      L1-dcache-load-misses     #   11.89% of all L1-dcache hits    (38.47%)
+     1,229,649,330      LLC-loads                 #   31.202 M/sec                    (30.77%)
+        86,966,851      LLC-load-misses           #    7.07% of all LL-cache hits     (30.78%)
+   <not supported>      L1-icache-loads                                             
+     8,677,560,517      L1-icache-load-misses                                         (30.77%)
+    28,170,633,835      dTLB-loads                #  714.811 M/sec                    (30.77%)
+        34,225,781      dTLB-load-misses          #    0.12% of all dTLB cache hits   (30.77%)
+        14,380,477      iTLB-loads                #    0.365 M/sec                    (30.78%)
+         2,629,828      iTLB-load-misses          #   18.29% of all iTLB cache hits   (30.76%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      39.933353579 seconds time elapsed
+
+       5.841732000 seconds user
+      33.579086000 seconds sys
+
+
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+         39,726.14 msec task-clock                #    0.987 CPUs utilized          
+             6,081      context-switches          #    0.153 K/sec                  
+                30      cpu-migrations            #    0.001 K/sec                  
+            20,462      page-faults               #    0.515 K/sec                  
+   146,234,088,133      cycles                    #    3.681 GHz                      (30.75%)
+    97,567,270,887      instructions              #    0.67  insn per cycle           (38.45%)
+    19,461,581,953      branches                  #  489.894 M/sec                    (38.46%)
+       444,367,740      branch-misses             #    2.28% of all branches          (38.44%)
+    28,109,530,662      L1-dcache-loads           #  707.583 M/sec                    (38.47%)
+     3,351,585,167      L1-dcache-load-misses     #   11.92% of all L1-dcache hits    (38.48%)
+     1,226,942,526      LLC-loads                 #   30.885 M/sec                    (30.78%)
+        80,458,176      LLC-load-misses           #    6.56% of all LL-cache hits     (30.79%)
+   <not supported>      L1-icache-loads                                             
+     8,713,398,612      L1-icache-load-misses                                         (30.76%)
+    28,108,047,243      dTLB-loads                #  707.545 M/sec                    (30.76%)
+        31,659,482      dTLB-load-misses          #    0.11% of all dTLB cache hits   (30.76%)
+        13,457,850      iTLB-loads                #    0.339 M/sec                    (30.78%)
+        25,639,259      iTLB-load-misses          #  190.52% of all iTLB cache hits   (30.76%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      40.231459383 seconds time elapsed
+
+       6.047733000 seconds user
+      33.691689000 seconds sys
+
+
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+         39,646.68 msec task-clock                #    0.988 CPUs utilized          
+             5,984      context-switches          #    0.151 K/sec                  
+                39      cpu-migrations            #    0.001 K/sec                  
+            19,953      page-faults               #    0.503 K/sec                  
+   145,994,898,200      cycles                    #    3.682 GHz                      (30.75%)
+    97,237,386,253      instructions              #    0.67  insn per cycle           (38.46%)
+    19,428,872,718      branches                  #  490.050 M/sec                    (38.47%)
+       435,789,195      branch-misses             #    2.24% of all branches          (38.47%)
+    28,021,239,881      L1-dcache-loads           #  706.774 M/sec                    (38.48%)
+     3,356,632,676      L1-dcache-load-misses     #   11.98% of all L1-dcache hits    (38.48%)
+     1,220,191,796      LLC-loads                 #   30.777 M/sec                    (30.77%)
+        79,720,849      LLC-load-misses           #    6.53% of all LL-cache hits     (30.78%)
+   <not supported>      L1-icache-loads                                             
+     8,807,392,840      L1-icache-load-misses                                         (30.77%)
+    28,004,765,369      dTLB-loads                #  706.358 M/sec                    (30.76%)
+        28,956,894      dTLB-load-misses          #    0.10% of all dTLB cache hits   (30.75%)
+        13,272,188      iTLB-loads                #    0.335 M/sec                    (30.75%)
+         4,294,771      iTLB-load-misses          #   32.36% of all iTLB cache hits   (30.75%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      40.120776065 seconds time elapsed
+
+       5.927772000 seconds user
+      33.731753000 seconds sys
+
+
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+         39,540.18 msec task-clock                #    0.988 CPUs utilized          
+             5,663      context-switches          #    0.143 K/sec                  
+                 8      cpu-migrations            #    0.000 K/sec                  
+            16,888      page-faults               #    0.427 K/sec                  
+   145,186,667,568      cycles                    #    3.672 GHz                      (30.78%)
+    97,252,284,111      instructions              #    0.67  insn per cycle           (38.47%)
+    19,402,634,025      branches                  #  490.707 M/sec                    (38.45%)
+       439,073,445      branch-misses             #    2.26% of all branches          (38.46%)
+    28,088,498,184      L1-dcache-loads           #  710.379 M/sec                    (38.46%)
+     3,331,339,836      L1-dcache-load-misses     #   11.86% of all L1-dcache hits    (38.45%)
+     1,221,606,799      LLC-loads                 #   30.895 M/sec                    (30.78%)
+        81,775,801      LLC-load-misses           #    6.69% of all LL-cache hits     (30.77%)
+   <not supported>      L1-icache-loads                                             
+     8,794,274,656      L1-icache-load-misses                                         (30.78%)
+    28,097,106,128      dTLB-loads                #  710.596 M/sec                    (30.77%)
+        28,262,933      dTLB-load-misses          #    0.10% of all dTLB cache hits   (30.76%)
+        13,750,612      iTLB-loads                #    0.348 M/sec                    (30.76%)
+         7,623,317      iTLB-load-misses          #   55.44% of all iTLB cache hits   (30.76%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      40.034394676 seconds time elapsed
+
+       5.967233000 seconds user
+      33.587453000 seconds sys
+
+
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+         40,197.24 msec task-clock                #    0.986 CPUs utilized          
+             6,053      context-switches          #    0.151 K/sec                  
+                 7      cpu-migrations            #    0.000 K/sec                  
+            18,417      page-faults               #    0.458 K/sec                  
+   147,069,005,791      cycles                    #    3.659 GHz                      (30.77%)
+    97,448,496,513      instructions              #    0.66  insn per cycle           (38.45%)
+    19,444,100,501      branches                  #  483.717 M/sec                    (38.45%)
+       440,684,826      branch-misses             #    2.27% of all branches          (38.45%)
+    28,136,316,988      L1-dcache-loads           #  699.956 M/sec                    (38.45%)
+     3,354,626,430      L1-dcache-load-misses     #   11.92% of all L1-dcache hits    (38.46%)
+     1,235,284,548      LLC-loads                 #   30.731 M/sec                    (30.78%)
+        87,314,409      LLC-load-misses           #    7.07% of all LL-cache hits     (30.77%)
+   <not supported>      L1-icache-loads                                             
+     8,797,616,015      L1-icache-load-misses                                         (30.77%)
+    28,103,704,419      dTLB-loads                #  699.145 M/sec                    (30.77%)
+        30,534,316      dTLB-load-misses          #    0.11% of all dTLB cache hits   (30.77%)
+        13,721,566      iTLB-loads                #    0.341 M/sec                    (30.79%)
+         1,860,538      iTLB-load-misses          #   13.56% of all iTLB cache hits   (30.78%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      40.748639590 seconds time elapsed
+
+       5.988903000 seconds user
+      34.216655000 seconds sys
+
+
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+         39,823.86 msec task-clock                #    0.986 CPUs utilized          
+             6,191      context-switches          #    0.155 K/sec                  
+                14      cpu-migrations            #    0.000 K/sec                  
+            18,417      page-faults               #    0.462 K/sec                  
+   146,089,668,329      cycles                    #    3.668 GHz                      (30.75%)
+    97,746,869,488      instructions              #    0.67  insn per cycle           (38.44%)
+    19,517,569,130      branches                  #  490.097 M/sec                    (38.44%)
+       432,119,342      branch-misses             #    2.21% of all branches          (38.45%)
+    28,138,130,437      L1-dcache-loads           #  706.565 M/sec                    (38.47%)
+     3,353,647,459      L1-dcache-load-misses     #   11.92% of all L1-dcache hits    (38.48%)
+     1,257,093,648      LLC-loads                 #   31.566 M/sec                    (30.79%)
+        84,168,364      LLC-load-misses           #    6.70% of all LL-cache hits     (30.79%)
+   <not supported>      L1-icache-loads                                             
+     8,838,872,520      L1-icache-load-misses                                         (30.79%)
+    28,186,821,857      dTLB-loads                #  707.787 M/sec                    (30.77%)
+        29,629,032      dTLB-load-misses          #    0.11% of all dTLB cache hits   (30.77%)
+        14,450,044      iTLB-loads                #    0.363 M/sec                    (30.76%)
+         1,226,303      iTLB-load-misses          #    8.49% of all iTLB cache hits   (30.75%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      40.385911376 seconds time elapsed
+
+       5.874041000 seconds user
+      33.963502000 seconds sys
+
+
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+         39,848.52 msec task-clock                #    0.988 CPUs utilized          
+             5,936      context-switches          #    0.149 K/sec                  
+                16      cpu-migrations            #    0.000 K/sec                  
+            18,420      page-faults               #    0.462 K/sec                  
+   146,257,223,755      cycles                    #    3.670 GHz                      (30.76%)
+    97,084,373,162      instructions              #    0.66  insn per cycle           (38.45%)
+    19,385,227,659      branches                  #  486.473 M/sec                    (38.47%)
+       440,913,208      branch-misses             #    2.27% of all branches          (38.47%)
+    28,044,449,916      L1-dcache-loads           #  703.776 M/sec                    (38.46%)
+     3,346,891,859      L1-dcache-load-misses     #   11.93% of all L1-dcache hits    (38.47%)
+     1,248,367,495      LLC-loads                 #   31.328 M/sec                    (30.78%)
+        84,072,185      LLC-load-misses           #    6.73% of all LL-cache hits     (30.77%)
+   <not supported>      L1-icache-loads                                             
+     8,789,349,619      L1-icache-load-misses                                         (30.77%)
+    28,031,989,843      dTLB-loads                #  703.464 M/sec                    (30.77%)
+        30,156,011      dTLB-load-misses          #    0.11% of all dTLB cache hits   (30.76%)
+        13,740,169      iTLB-loads                #    0.345 M/sec                    (30.76%)
+         4,106,315      iTLB-load-misses          #   29.89% of all iTLB cache hits   (30.78%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      40.348227304 seconds time elapsed
+
+       6.120758000 seconds user
+      33.741325000 seconds sys
+
+

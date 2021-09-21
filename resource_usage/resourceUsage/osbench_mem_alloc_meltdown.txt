@@ -1,0 +1,300 @@
+
+ Performance counter stats for './osbench mem_alloc':
+
+         23,397.78 msec task-clock                #    0.999 CPUs utilized          
+                75      context-switches          #    0.003 K/sec                  
+                 2      cpu-migrations            #    0.000 K/sec                  
+         5,924,535      page-faults               #    0.253 M/sec                  
+    97,416,762,839      cycles                    #    4.164 GHz                      (30.75%)
+   133,505,074,902      instructions              #    1.37  insn per cycle           (38.46%)
+    25,714,399,816      branches                  # 1099.010 M/sec                    (38.48%)
+        31,669,994      branch-misses             #    0.12% of all branches          (38.48%)
+    30,234,850,501      L1-dcache-loads           # 1292.210 M/sec                    (38.49%)
+     1,604,813,507      L1-dcache-load-misses     #    5.31% of all L1-dcache hits    (38.48%)
+       326,727,706      LLC-loads                 #   13.964 M/sec                    (30.76%)
+       269,347,540      LLC-load-misses           #   82.44% of all LL-cache hits     (30.77%)
+   <not supported>      L1-icache-loads                                             
+        74,676,047      L1-icache-load-misses                                         (30.77%)
+    28,593,096,064      dTLB-loads                # 1222.043 M/sec                    (30.76%)
+        39,835,848      dTLB-load-misses          #    0.14% of all dTLB cache hits   (30.76%)
+            39,719      iTLB-loads                #    0.002 M/sec                    (30.75%)
+            38,134      iTLB-load-misses          #   96.01% of all iTLB cache hits   (30.75%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      23.410276146 seconds time elapsed
+
+      18.438293000 seconds user
+       4.959452000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+         23,488.99 msec task-clock                #    1.000 CPUs utilized          
+                48      context-switches          #    0.002 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+         5,924,534      page-faults               #    0.252 M/sec                  
+    97,772,554,894      cycles                    #    4.162 GHz                      (30.73%)
+   137,852,630,698      instructions              #    1.41  insn per cycle           (38.43%)
+    27,184,077,262      branches                  # 1157.311 M/sec                    (38.45%)
+        30,995,415      branch-misses             #    0.11% of all branches          (38.47%)
+    28,801,978,496      L1-dcache-loads           # 1226.190 M/sec                    (38.48%)
+     1,563,283,304      L1-dcache-load-misses     #    5.43% of all L1-dcache hits    (38.49%)
+       298,566,331      LLC-loads                 #   12.711 M/sec                    (30.79%)
+       255,992,427      LLC-load-misses           #   85.74% of all LL-cache hits     (30.79%)
+   <not supported>      L1-icache-loads                                             
+        62,025,334      L1-icache-load-misses                                         (30.79%)
+    28,600,997,283      dTLB-loads                # 1217.634 M/sec                    (30.78%)
+        41,802,310      dTLB-load-misses          #    0.15% of all dTLB cache hits   (30.76%)
+            41,499      iTLB-loads                #    0.002 M/sec                    (30.75%)
+            36,904      iTLB-load-misses          #   88.93% of all iTLB cache hits   (30.73%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      23.490001191 seconds time elapsed
+
+      18.653932000 seconds user
+       4.835207000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+         23,452.03 msec task-clock                #    1.000 CPUs utilized          
+                86      context-switches          #    0.004 K/sec                  
+                 1      cpu-migrations            #    0.000 K/sec                  
+         5,924,539      page-faults               #    0.253 M/sec                  
+    97,613,600,379      cycles                    #    4.162 GHz                      (30.78%)
+   136,971,297,734      instructions              #    1.40  insn per cycle           (38.47%)
+    27,050,367,032      branches                  # 1153.434 M/sec                    (38.47%)
+        30,772,794      branch-misses             #    0.11% of all branches          (38.47%)
+    28,775,514,746      L1-dcache-loads           # 1226.995 M/sec                    (38.47%)
+     1,567,104,371      L1-dcache-load-misses     #    5.45% of all L1-dcache hits    (38.46%)
+       305,428,732      LLC-loads                 #   13.024 M/sec                    (30.77%)
+       265,376,106      LLC-load-misses           #   86.89% of all LL-cache hits     (30.77%)
+   <not supported>      L1-icache-loads                                             
+        57,957,130      L1-icache-load-misses                                         (30.77%)
+    28,279,823,780      dTLB-loads                # 1205.858 M/sec                    (30.77%)
+        40,873,355      dTLB-load-misses          #    0.14% of all dTLB cache hits   (30.77%)
+            37,366      iTLB-loads                #    0.002 M/sec                    (30.77%)
+            36,364      iTLB-load-misses          #   97.32% of all iTLB cache hits   (30.77%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      23.454133156 seconds time elapsed
+
+      18.635632000 seconds user
+       4.815652000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+         23,498.88 msec task-clock                #    1.000 CPUs utilized          
+                31      context-switches          #    0.001 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+         5,924,534      page-faults               #    0.252 M/sec                  
+    97,774,502,573      cycles                    #    4.161 GHz                      (30.76%)
+   138,697,212,201      instructions              #    1.42  insn per cycle           (38.45%)
+    27,424,547,119      branches                  # 1167.058 M/sec                    (38.45%)
+        31,167,355      branch-misses             #    0.11% of all branches          (38.45%)
+    28,835,603,049      L1-dcache-loads           # 1227.105 M/sec                    (38.46%)
+     1,558,375,320      L1-dcache-load-misses     #    5.40% of all L1-dcache hits    (38.47%)
+       292,941,964      LLC-loads                 #   12.466 M/sec                    (30.78%)
+       250,794,549      LLC-load-misses           #   85.61% of all LL-cache hits     (30.78%)
+   <not supported>      L1-icache-loads                                             
+        61,489,231      L1-icache-load-misses                                         (30.78%)
+    29,135,858,749      dTLB-loads                # 1239.883 M/sec                    (30.78%)
+        43,742,134      dTLB-load-misses          #    0.15% of all dTLB cache hits   (30.77%)
+            41,427      iTLB-loads                #    0.002 M/sec                    (30.77%)
+            38,748      iTLB-load-misses          #   93.53% of all iTLB cache hits   (30.76%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      23.499747870 seconds time elapsed
+
+      18.667521000 seconds user
+       4.831611000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+         23,509.09 msec task-clock                #    1.000 CPUs utilized          
+                44      context-switches          #    0.002 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+         5,924,534      page-faults               #    0.252 M/sec                  
+    97,852,084,276      cycles                    #    4.162 GHz                      (30.77%)
+   137,666,009,764      instructions              #    1.41  insn per cycle           (38.47%)
+    27,180,127,573      branches                  # 1156.154 M/sec                    (38.48%)
+        31,075,705      branch-misses             #    0.11% of all branches          (38.48%)
+    29,242,120,669      L1-dcache-loads           # 1243.864 M/sec                    (38.48%)
+     1,579,254,262      L1-dcache-load-misses     #    5.40% of all L1-dcache hits    (38.47%)
+       299,848,086      LLC-loads                 #   12.755 M/sec                    (30.76%)
+       252,924,883      LLC-load-misses           #   84.35% of all LL-cache hits     (30.76%)
+   <not supported>      L1-icache-loads                                             
+        60,029,780      L1-icache-load-misses                                         (30.76%)
+    29,393,265,968      dTLB-loads                # 1250.294 M/sec                    (30.76%)
+        42,695,404      dTLB-load-misses          #    0.15% of all dTLB cache hits   (30.76%)
+            37,860      iTLB-loads                #    0.002 M/sec                    (30.76%)
+         7,391,895      iTLB-load-misses          # 19524.29% of all iTLB cache hits  (30.76%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      23.510205570 seconds time elapsed
+
+      18.765478000 seconds user
+       4.744120000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+         23,470.18 msec task-clock                #    0.999 CPUs utilized          
+                79      context-switches          #    0.003 K/sec                  
+                 1      cpu-migrations            #    0.000 K/sec                  
+         5,924,541      page-faults               #    0.252 M/sec                  
+    97,614,612,397      cycles                    #    4.159 GHz                      (30.75%)
+   138,782,626,156      instructions              #    1.42  insn per cycle           (38.45%)
+    27,428,671,656      branches                  # 1168.661 M/sec                    (38.47%)
+        30,659,884      branch-misses             #    0.11% of all branches          (38.48%)
+    28,440,418,869      L1-dcache-loads           # 1211.768 M/sec                    (38.50%)
+     1,539,716,067      L1-dcache-load-misses     #    5.41% of all L1-dcache hits    (38.50%)
+       296,480,429      LLC-loads                 #   12.632 M/sec                    (30.79%)
+       259,955,965      LLC-load-misses           #   87.68% of all LL-cache hits     (30.77%)
+   <not supported>      L1-icache-loads                                             
+        61,637,851      L1-icache-load-misses                                         (30.75%)
+    28,780,820,030      dTLB-loads                # 1226.272 M/sec                    (30.75%)
+        42,381,166      dTLB-load-misses          #    0.15% of all dTLB cache hits   (30.75%)
+            49,712      iTLB-loads                #    0.002 M/sec                    (30.75%)
+            45,365      iTLB-load-misses          #   91.26% of all iTLB cache hits   (30.75%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      23.483578683 seconds time elapsed
+
+      18.568671000 seconds user
+       4.900744000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+         23,529.40 msec task-clock                #    1.000 CPUs utilized          
+                39      context-switches          #    0.002 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+         5,924,537      page-faults               #    0.252 M/sec                  
+    97,937,547,349      cycles                    #    4.162 GHz                      (30.75%)
+   138,180,673,946      instructions              #    1.41  insn per cycle           (38.45%)
+    27,385,054,838      branches                  # 1163.866 M/sec                    (38.47%)
+        30,955,196      branch-misses             #    0.11% of all branches          (38.48%)
+    29,054,045,392      L1-dcache-loads           # 1234.798 M/sec                    (38.50%)
+     1,554,151,857      L1-dcache-load-misses     #    5.35% of all L1-dcache hits    (38.50%)
+       297,191,361      LLC-loads                 #   12.631 M/sec                    (30.80%)
+       252,447,191      LLC-load-misses           #   84.94% of all LL-cache hits     (30.78%)
+   <not supported>      L1-icache-loads                                             
+        62,678,621      L1-icache-load-misses                                         (30.77%)
+    29,348,674,463      dTLB-loads                # 1247.319 M/sec                    (30.75%)
+        42,533,382      dTLB-load-misses          #    0.14% of all dTLB cache hits   (30.73%)
+            35,351      iTLB-loads                #    0.002 M/sec                    (30.73%)
+            37,514      iTLB-load-misses          #  106.12% of all iTLB cache hits   (30.73%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      23.530385589 seconds time elapsed
+
+      18.534605000 seconds user
+       4.995346000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+         23,481.45 msec task-clock                #    1.000 CPUs utilized          
+                30      context-switches          #    0.001 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+         5,924,531      page-faults               #    0.252 M/sec                  
+    97,691,385,947      cycles                    #    4.160 GHz                      (30.74%)
+   137,896,871,374      instructions              #    1.41  insn per cycle           (38.44%)
+    27,286,127,226      branches                  # 1162.029 M/sec                    (38.46%)
+        30,730,238      branch-misses             #    0.11% of all branches          (38.48%)
+    28,951,903,087      L1-dcache-loads           # 1232.969 M/sec                    (38.49%)
+     1,562,835,908      L1-dcache-load-misses     #    5.40% of all L1-dcache hits    (38.50%)
+       302,455,816      LLC-loads                 #   12.881 M/sec                    (30.80%)
+       259,100,177      LLC-load-misses           #   85.67% of all LL-cache hits     (30.79%)
+   <not supported>      L1-icache-loads                                             
+        63,653,447      L1-icache-load-misses                                         (30.78%)
+    28,905,077,436      dTLB-loads                # 1230.975 M/sec                    (30.76%)
+        41,835,787      dTLB-load-misses          #    0.14% of all dTLB cache hits   (30.74%)
+            32,857      iTLB-loads                #    0.001 M/sec                    (30.73%)
+            39,264      iTLB-load-misses          #  119.50% of all iTLB cache hits   (30.73%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      23.482275331 seconds time elapsed
+
+      18.710481000 seconds user
+       4.771353000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+         23,445.74 msec task-clock                #    0.999 CPUs utilized          
+                74      context-switches          #    0.003 K/sec                  
+                 1      cpu-migrations            #    0.000 K/sec                  
+         5,924,537      page-faults               #    0.253 M/sec                  
+    97,597,238,768      cycles                    #    4.163 GHz                      (30.79%)
+   138,057,640,300      instructions              #    1.41  insn per cycle           (38.49%)
+    27,280,359,265      branches                  # 1163.553 M/sec                    (38.48%)
+        31,190,857      branch-misses             #    0.11% of all branches          (38.45%)
+    29,316,958,424      L1-dcache-loads           # 1250.417 M/sec                    (38.45%)
+     1,566,942,664      L1-dcache-load-misses     #    5.34% of all L1-dcache hits    (38.44%)
+       304,607,229      LLC-loads                 #   12.992 M/sec                    (30.75%)
+       254,863,578      LLC-load-misses           #   83.67% of all LL-cache hits     (30.76%)
+   <not supported>      L1-icache-loads                                             
+        64,755,710      L1-icache-load-misses                                         (30.76%)
+    29,461,320,632      dTLB-loads                # 1256.574 M/sec                    (30.77%)
+        42,745,535      dTLB-load-misses          #    0.15% of all dTLB cache hits   (30.77%)
+            36,981      iTLB-loads                #    0.002 M/sec                    (30.79%)
+            55,270      iTLB-load-misses          #  149.46% of all iTLB cache hits   (30.79%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      23.459921663 seconds time elapsed
+
+      18.403459000 seconds user
+       5.042821000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+         23,439.35 msec task-clock                #    1.000 CPUs utilized          
+                82      context-switches          #    0.003 K/sec                  
+                 1      cpu-migrations            #    0.000 K/sec                  
+         5,924,535      page-faults               #    0.253 M/sec                  
+    97,512,176,066      cycles                    #    4.160 GHz                      (30.74%)
+   139,057,462,638      instructions              #    1.43  insn per cycle           (38.43%)
+    27,795,150,503      branches                  # 1185.833 M/sec                    (38.43%)
+        30,764,121      branch-misses             #    0.11% of all branches          (38.45%)
+    28,341,079,711      L1-dcache-loads           # 1209.124 M/sec                    (38.46%)
+     1,540,286,929      L1-dcache-load-misses     #    5.43% of all L1-dcache hits    (38.48%)
+       292,380,406      LLC-loads                 #   12.474 M/sec                    (30.78%)
+       256,169,910      LLC-load-misses           #   87.62% of all LL-cache hits     (30.78%)
+   <not supported>      L1-icache-loads                                             
+        63,022,340      L1-icache-load-misses                                         (30.78%)
+    29,099,263,391      dTLB-loads                # 1241.471 M/sec                    (30.78%)
+        42,898,781      dTLB-load-misses          #    0.15% of all dTLB cache hits   (30.78%)
+            42,077      iTLB-loads                #    0.002 M/sec                    (30.77%)
+            45,304      iTLB-load-misses          #  107.67% of all iTLB cache hits   (30.75%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      23.441395018 seconds time elapsed
+
+      18.815843000 seconds user
+       4.623713000 seconds sys
+
+

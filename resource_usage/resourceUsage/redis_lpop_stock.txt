@@ -1,0 +1,300 @@
+
+ Performance counter stats for './redis lpop':
+
+         72,067.74 msec task-clock                #    0.762 CPUs utilized          
+           274,215      context-switches          #    0.004 M/sec                  
+                59      cpu-migrations            #    0.001 K/sec                  
+             1,025      page-faults               #    0.014 K/sec                  
+   290,477,419,628      cycles                    #    4.031 GHz                      (30.57%)
+   206,483,964,090      instructions              #    0.71  insn per cycle           (38.25%)
+    43,081,047,704      branches                  #  597.785 M/sec                    (38.09%)
+     1,170,656,895      branch-misses             #    2.72% of all branches          (38.16%)
+    61,072,728,804      L1-dcache-loads           #  847.435 M/sec                    (38.32%)
+     4,773,079,690      L1-dcache-load-misses     #    7.82% of all L1-dcache hits    (38.46%)
+     1,258,633,295      LLC-loads                 #   17.465 M/sec                    (30.78%)
+         1,606,918      LLC-load-misses           #    0.13% of all LL-cache hits     (30.87%)
+   <not supported>      L1-icache-loads                                             
+    15,195,962,370      L1-icache-load-misses                                         (30.93%)
+    61,088,632,589      dTLB-loads                #  847.656 M/sec                    (30.98%)
+        76,680,891      dTLB-load-misses          #    0.13% of all dTLB cache hits   (31.13%)
+        13,112,756      iTLB-loads                #    0.182 M/sec                    (30.97%)
+         3,384,550      iTLB-load-misses          #   25.81% of all iTLB cache hits   (30.75%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      94.589439930 seconds time elapsed
+
+      21.090688000 seconds user
+      52.071554000 seconds sys
+
+
+
+ Performance counter stats for './redis lpop':
+
+         72,548.38 msec task-clock                #    0.773 CPUs utilized          
+           276,212      context-switches          #    0.004 M/sec                  
+                40      cpu-migrations            #    0.001 K/sec                  
+             1,023      page-faults               #    0.014 K/sec                  
+   292,777,230,956      cycles                    #    4.036 GHz                      (30.61%)
+   206,362,189,266      instructions              #    0.70  insn per cycle           (38.40%)
+    43,070,816,746      branches                  #  593.684 M/sec                    (38.24%)
+     1,215,207,940      branch-misses             #    2.82% of all branches          (38.37%)
+    61,061,353,643      L1-dcache-loads           #  841.664 M/sec                    (38.34%)
+     4,761,198,879      L1-dcache-load-misses     #    7.80% of all L1-dcache hits    (38.38%)
+     1,215,417,963      LLC-loads                 #   16.753 M/sec                    (30.85%)
+         1,435,175      LLC-load-misses           #    0.12% of all LL-cache hits     (31.08%)
+   <not supported>      L1-icache-loads                                             
+    15,057,606,882      L1-icache-load-misses                                         (31.07%)
+    61,093,246,417      dTLB-loads                #  842.104 M/sec                    (31.00%)
+        74,725,760      dTLB-load-misses          #    0.12% of all dTLB cache hits   (30.91%)
+        16,362,609      iTLB-loads                #    0.226 M/sec                    (30.55%)
+       124,361,808      iTLB-load-misses          #  760.04% of all iTLB cache hits   (30.59%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      93.813032518 seconds time elapsed
+
+      21.597141000 seconds user
+      51.933477000 seconds sys
+
+
+
+ Performance counter stats for './redis lpop':
+
+         71,703.44 msec task-clock                #    0.758 CPUs utilized          
+           274,602      context-switches          #    0.004 M/sec                  
+                61      cpu-migrations            #    0.001 K/sec                  
+             1,028      page-faults               #    0.014 K/sec                  
+   289,320,667,238      cycles                    #    4.035 GHz                      (30.70%)
+   206,481,943,078      instructions              #    0.71  insn per cycle           (38.34%)
+    43,063,646,540      branches                  #  600.580 M/sec                    (38.32%)
+     1,177,781,024      branch-misses             #    2.73% of all branches          (38.51%)
+    61,025,264,085      L1-dcache-loads           #  851.079 M/sec                    (38.53%)
+     4,636,794,302      L1-dcache-load-misses     #    7.60% of all L1-dcache hits    (38.53%)
+     1,233,186,035      LLC-loads                 #   17.198 M/sec                    (30.95%)
+         1,269,598      LLC-load-misses           #    0.10% of all LL-cache hits     (30.91%)
+   <not supported>      L1-icache-loads                                             
+    15,243,455,990      L1-icache-load-misses                                         (30.74%)
+    61,090,976,580      dTLB-loads                #  851.995 M/sec                    (30.77%)
+        77,626,806      dTLB-load-misses          #    0.13% of all dTLB cache hits   (30.73%)
+        14,964,198      iTLB-loads                #    0.209 M/sec                    (30.58%)
+         3,062,590      iTLB-load-misses          #   20.47% of all iTLB cache hits   (30.74%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      94.656354648 seconds time elapsed
+
+      21.359177000 seconds user
+      51.454859000 seconds sys
+
+
+
+ Performance counter stats for './redis lpop':
+
+         71,799.41 msec task-clock                #    0.763 CPUs utilized          
+           275,418      context-switches          #    0.004 M/sec                  
+                54      cpu-migrations            #    0.001 K/sec                  
+             1,028      page-faults               #    0.014 K/sec                  
+   289,969,559,542      cycles                    #    4.039 GHz                      (30.40%)
+   206,399,064,672      instructions              #    0.71  insn per cycle           (38.13%)
+    43,057,529,003      branches                  #  599.692 M/sec                    (38.40%)
+     1,178,694,940      branch-misses             #    2.74% of all branches          (38.47%)
+    61,034,629,602      L1-dcache-loads           #  850.072 M/sec                    (38.69%)
+     4,699,676,687      L1-dcache-load-misses     #    7.70% of all L1-dcache hits    (38.81%)
+     1,222,778,803      LLC-loads                 #   17.030 M/sec                    (30.84%)
+         1,285,848      LLC-load-misses           #    0.11% of all LL-cache hits     (30.95%)
+   <not supported>      L1-icache-loads                                             
+    14,951,527,837      L1-icache-load-misses                                         (30.93%)
+    61,096,468,642      dTLB-loads                #  850.933 M/sec                    (30.79%)
+        76,202,333      dTLB-load-misses          #    0.12% of all dTLB cache hits   (30.76%)
+        16,045,799      iTLB-loads                #    0.223 M/sec                    (30.59%)
+         3,263,563      iTLB-load-misses          #   20.34% of all iTLB cache hits   (30.38%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      94.107859232 seconds time elapsed
+
+      21.086680000 seconds user
+      51.776841000 seconds sys
+
+
+
+ Performance counter stats for './redis lpop':
+
+         72,250.22 msec task-clock                #    0.766 CPUs utilized          
+           275,201      context-switches          #    0.004 M/sec                  
+                42      cpu-migrations            #    0.001 K/sec                  
+               513      page-faults               #    0.007 K/sec                  
+   291,702,904,639      cycles                    #    4.037 GHz                      (30.55%)
+   206,427,730,562      instructions              #    0.71  insn per cycle           (38.17%)
+    43,068,065,881      branches                  #  596.096 M/sec                    (38.08%)
+     1,183,640,354      branch-misses             #    2.75% of all branches          (38.20%)
+    61,031,060,380      L1-dcache-loads           #  844.718 M/sec                    (38.36%)
+     4,836,618,968      L1-dcache-load-misses     #    7.92% of all L1-dcache hits    (38.27%)
+     1,298,789,097      LLC-loads                 #   17.976 M/sec                    (30.89%)
+         1,275,648      LLC-load-misses           #    0.10% of all LL-cache hits     (30.79%)
+   <not supported>      L1-icache-loads                                             
+    15,129,011,508      L1-icache-load-misses                                         (30.99%)
+    61,101,983,950      dTLB-loads                #  845.700 M/sec                    (31.18%)
+        75,955,919      dTLB-load-misses          #    0.12% of all dTLB cache hits   (31.03%)
+        15,981,752      iTLB-loads                #    0.221 M/sec                    (31.01%)
+        21,985,863      iTLB-load-misses          #  137.57% of all iTLB cache hits   (30.65%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      94.301792552 seconds time elapsed
+
+      21.275366000 seconds user
+      52.033161000 seconds sys
+
+
+
+ Performance counter stats for './redis lpop':
+
+         72,147.71 msec task-clock                #    0.767 CPUs utilized          
+           275,661      context-switches          #    0.004 M/sec                  
+                48      cpu-migrations            #    0.001 K/sec                  
+             1,025      page-faults               #    0.014 K/sec                  
+   291,300,656,734      cycles                    #    4.038 GHz                      (30.37%)
+   206,449,242,592      instructions              #    0.71  insn per cycle           (38.09%)
+    43,065,136,688      branches                  #  596.902 M/sec                    (38.29%)
+     1,190,991,978      branch-misses             #    2.77% of all branches          (38.35%)
+    61,039,698,230      L1-dcache-loads           #  846.038 M/sec                    (38.53%)
+     4,772,247,850      L1-dcache-load-misses     #    7.82% of all L1-dcache hits    (38.81%)
+     1,237,050,235      LLC-loads                 #   17.146 M/sec                    (31.02%)
+         1,329,571      LLC-load-misses           #    0.11% of all LL-cache hits     (30.92%)
+   <not supported>      L1-icache-loads                                             
+    15,355,252,643      L1-icache-load-misses                                         (30.80%)
+    61,101,946,613      dTLB-loads                #  846.901 M/sec                    (30.83%)
+        75,791,520      dTLB-load-misses          #    0.12% of all dTLB cache hits   (30.68%)
+        16,106,785      iTLB-loads                #    0.223 M/sec                    (30.73%)
+         3,791,635      iTLB-load-misses          #   23.54% of all iTLB cache hits   (30.67%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      94.030612745 seconds time elapsed
+
+      21.175991000 seconds user
+      51.985031000 seconds sys
+
+
+
+ Performance counter stats for './redis lpop':
+
+         71,889.16 msec task-clock                #    0.765 CPUs utilized          
+           275,414      context-switches          #    0.004 M/sec                  
+                52      cpu-migrations            #    0.001 K/sec                  
+             1,022      page-faults               #    0.014 K/sec                  
+   290,138,415,488      cycles                    #    4.036 GHz                      (30.87%)
+   206,480,351,226      instructions              #    0.71  insn per cycle           (38.62%)
+    43,072,562,476      branches                  #  599.152 M/sec                    (38.58%)
+     1,170,468,058      branch-misses             #    2.72% of all branches          (38.67%)
+    61,043,118,738      L1-dcache-loads           #  849.128 M/sec                    (38.56%)
+     4,697,193,501      L1-dcache-load-misses     #    7.69% of all L1-dcache hits    (38.61%)
+     1,214,011,234      LLC-loads                 #   16.887 M/sec                    (30.78%)
+         1,545,433      LLC-load-misses           #    0.13% of all LL-cache hits     (30.58%)
+   <not supported>      L1-icache-loads                                             
+    15,114,708,653      L1-icache-load-misses                                         (30.68%)
+    61,105,665,419      dTLB-loads                #  849.998 M/sec                    (30.52%)
+        75,805,744      dTLB-load-misses          #    0.12% of all dTLB cache hits   (30.64%)
+        14,549,173      iTLB-loads                #    0.202 M/sec                    (30.75%)
+         3,253,715      iTLB-load-misses          #   22.36% of all iTLB cache hits   (30.77%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      93.932173728 seconds time elapsed
+
+      21.208811000 seconds user
+      51.714470000 seconds sys
+
+
+
+ Performance counter stats for './redis lpop':
+
+         72,018.67 msec task-clock                #    0.763 CPUs utilized          
+           275,365      context-switches          #    0.004 M/sec                  
+                33      cpu-migrations            #    0.000 K/sec                  
+               513      page-faults               #    0.007 K/sec                  
+   290,583,324,298      cycles                    #    4.035 GHz                      (30.72%)
+   206,337,407,925      instructions              #    0.71  insn per cycle           (38.46%)
+    43,050,521,521      branches                  #  597.769 M/sec                    (38.38%)
+     1,183,293,043      branch-misses             #    2.75% of all branches          (38.54%)
+    61,022,377,119      L1-dcache-loads           #  847.313 M/sec                    (38.48%)
+     4,729,142,175      L1-dcache-load-misses     #    7.75% of all L1-dcache hits    (38.49%)
+     1,228,731,494      LLC-loads                 #   17.061 M/sec                    (30.81%)
+         1,334,215      LLC-load-misses           #    0.11% of all LL-cache hits     (30.60%)
+   <not supported>      L1-icache-loads                                             
+    15,063,951,932      L1-icache-load-misses                                         (30.92%)
+    61,071,574,904      dTLB-loads                #  847.996 M/sec                    (30.78%)
+        76,694,254      dTLB-load-misses          #    0.13% of all dTLB cache hits   (30.81%)
+        16,044,416      iTLB-loads                #    0.223 M/sec                    (30.86%)
+           532,413      iTLB-load-misses          #    3.32% of all iTLB cache hits   (30.60%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      94.328450207 seconds time elapsed
+
+      21.427777000 seconds user
+      51.678778000 seconds sys
+
+
+
+ Performance counter stats for './redis lpop':
+
+         72,073.06 msec task-clock                #    0.767 CPUs utilized          
+           275,618      context-switches          #    0.004 M/sec                  
+                53      cpu-migrations            #    0.001 K/sec                  
+             1,024      page-faults               #    0.014 K/sec                  
+   290,888,290,639      cycles                    #    4.036 GHz                      (30.96%)
+   206,493,076,925      instructions              #    0.71  insn per cycle           (38.57%)
+    43,065,307,932      branches                  #  597.523 M/sec                    (38.45%)
+     1,175,947,170      branch-misses             #    2.73% of all branches          (38.37%)
+    61,043,470,316      L1-dcache-loads           #  846.967 M/sec                    (38.57%)
+     4,714,921,605      L1-dcache-load-misses     #    7.72% of all L1-dcache hits    (38.40%)
+     1,217,962,891      LLC-loads                 #   16.899 M/sec                    (30.61%)
+         1,243,060      LLC-load-misses           #    0.10% of all LL-cache hits     (30.75%)
+   <not supported>      L1-icache-loads                                             
+    15,023,772,061      L1-icache-load-misses                                         (30.51%)
+    61,102,549,834      dTLB-loads                #  847.786 M/sec                    (30.64%)
+        75,908,514      dTLB-load-misses          #    0.12% of all dTLB cache hits   (30.94%)
+        14,264,445      iTLB-loads                #    0.198 M/sec                    (30.89%)
+         2,285,678      iTLB-load-misses          #   16.02% of all iTLB cache hits   (30.93%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      94.014774460 seconds time elapsed
+
+      21.444520000 seconds user
+      51.666387000 seconds sys
+
+
+
+ Performance counter stats for './redis lpop':
+
+         72,803.92 msec task-clock                #    0.773 CPUs utilized          
+           276,206      context-switches          #    0.004 M/sec                  
+                31      cpu-migrations            #    0.000 K/sec                  
+             1,023      page-faults               #    0.014 K/sec                  
+   293,563,038,348      cycles                    #    4.032 GHz                      (30.84%)
+   206,404,456,117      instructions              #    0.70  insn per cycle           (38.74%)
+    43,064,843,069      branches                  #  591.518 M/sec                    (38.41%)
+     1,192,354,115      branch-misses             #    2.77% of all branches          (38.50%)
+    61,053,503,857      L1-dcache-loads           #  838.602 M/sec                    (38.49%)
+     4,907,244,882      L1-dcache-load-misses     #    8.04% of all L1-dcache hits    (38.55%)
+     1,238,637,569      LLC-loads                 #   17.013 M/sec                    (30.84%)
+         1,161,426      LLC-load-misses           #    0.09% of all LL-cache hits     (30.86%)
+   <not supported>      L1-icache-loads                                             
+    15,510,752,631      L1-icache-load-misses                                         (30.73%)
+    61,087,379,314      dTLB-loads                #  839.067 M/sec                    (30.61%)
+        74,860,674      dTLB-load-misses          #    0.12% of all dTLB cache hits   (30.75%)
+        14,892,554      iTLB-loads                #    0.205 M/sec                    (30.64%)
+        24,739,597      iTLB-load-misses          #  166.12% of all iTLB cache hits   (30.78%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      94.174998223 seconds time elapsed
+
+      21.217032000 seconds user
+      52.595186000 seconds sys
+
+

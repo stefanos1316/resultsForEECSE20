@@ -1,0 +1,300 @@
+
+ Performance counter stats for './redis get':
+
+         61,832.33 msec task-clock                #    0.676 CPUs utilized          
+           255,573      context-switches          #    0.004 M/sec                  
+                46      cpu-migrations            #    0.001 K/sec                  
+            18,912      page-faults               #    0.306 K/sec                  
+   249,451,157,394      cycles                    #    4.034 GHz                      (30.47%)
+   204,471,374,152      instructions              #    0.82  insn per cycle           (37.96%)
+    42,800,323,845      branches                  #  692.200 M/sec                    (37.69%)
+     1,111,920,244      branch-misses             #    2.60% of all branches          (37.98%)
+    60,668,655,424      L1-dcache-loads           #  981.180 M/sec                    (38.22%)
+     4,224,977,378      L1-dcache-load-misses     #    6.96% of all L1-dcache hits    (38.38%)
+     1,292,420,854      LLC-loads                 #   20.902 M/sec                    (31.11%)
+         1,328,444      LLC-load-misses           #    0.10% of all LL-cache hits     (31.02%)
+   <not supported>      L1-icache-loads                                             
+    15,497,335,439      L1-icache-load-misses                                         (31.18%)
+    60,655,987,161      dTLB-loads                #  980.975 M/sec                    (31.15%)
+        19,973,628      dTLB-load-misses          #    0.03% of all dTLB cache hits   (31.20%)
+         8,481,885      iTLB-loads                #    0.137 M/sec                    (31.00%)
+        11,527,066      iTLB-load-misses          #  135.90% of all iTLB cache hits   (30.60%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      91.449809550 seconds time elapsed
+
+      16.808087000 seconds user
+      46.970585000 seconds sys
+
+
+
+ Performance counter stats for './redis get':
+
+         61,301.61 msec task-clock                #    0.672 CPUs utilized          
+           254,762      context-switches          #    0.004 M/sec                  
+                56      cpu-migrations            #    0.001 K/sec                  
+            14,313      page-faults               #    0.233 K/sec                  
+   247,349,325,675      cycles                    #    4.035 GHz                      (29.83%)
+   204,328,710,752      instructions              #    0.83  insn per cycle           (37.34%)
+    42,765,203,627      branches                  #  697.620 M/sec                    (37.74%)
+     1,098,661,111      branch-misses             #    2.57% of all branches          (38.06%)
+    60,636,499,800      L1-dcache-loads           #  989.150 M/sec                    (38.36%)
+     4,304,717,276      L1-dcache-load-misses     #    7.10% of all L1-dcache hits    (38.66%)
+     1,264,845,991      LLC-loads                 #   20.633 M/sec                    (31.64%)
+         1,208,160      LLC-load-misses           #    0.10% of all LL-cache hits     (31.38%)
+   <not supported>      L1-icache-loads                                             
+    15,353,184,580      L1-icache-load-misses                                         (31.60%)
+    60,709,945,970      dTLB-loads                #  990.348 M/sec                    (31.51%)
+        21,064,279      dTLB-load-misses          #    0.03% of all dTLB cache hits   (30.62%)
+         8,289,656      iTLB-loads                #    0.135 M/sec                    (30.57%)
+         2,018,270      iTLB-load-misses          #   24.35% of all iTLB cache hits   (30.04%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      91.230188792 seconds time elapsed
+
+      16.640275000 seconds user
+      46.668343000 seconds sys
+
+
+
+ Performance counter stats for './redis get':
+
+         61,524.69 msec task-clock                #    0.677 CPUs utilized          
+           256,155      context-switches          #    0.004 M/sec                  
+                76      cpu-migrations            #    0.001 K/sec                  
+            12,778      page-faults               #    0.208 K/sec                  
+   248,420,866,088      cycles                    #    4.038 GHz                      (30.20%)
+   204,605,882,463      instructions              #    0.82  insn per cycle           (37.92%)
+    42,806,911,920      branches                  #  695.768 M/sec                    (38.11%)
+     1,108,282,513      branch-misses             #    2.59% of all branches          (38.38%)
+    60,631,396,701      L1-dcache-loads           #  985.481 M/sec                    (38.56%)
+     4,216,872,152      L1-dcache-load-misses     #    6.95% of all L1-dcache hits    (38.81%)
+     1,270,058,921      LLC-loads                 #   20.643 M/sec                    (30.96%)
+         1,524,328      LLC-load-misses           #    0.12% of all LL-cache hits     (30.81%)
+   <not supported>      L1-icache-loads                                             
+    15,447,055,815      L1-icache-load-misses                                         (30.98%)
+    60,674,707,183      dTLB-loads                #  986.185 M/sec                    (30.99%)
+        50,128,744      dTLB-load-misses          #    0.08% of all dTLB cache hits   (30.92%)
+         8,724,395      iTLB-loads                #    0.142 M/sec                    (30.82%)
+         2,334,383      iTLB-load-misses          #   26.76% of all iTLB cache hits   (30.46%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      90.843392398 seconds time elapsed
+
+      17.018469000 seconds user
+      46.369277000 seconds sys
+
+
+
+ Performance counter stats for './redis get':
+
+         61,306.61 msec task-clock                #    0.672 CPUs utilized          
+           254,485      context-switches          #    0.004 M/sec                  
+                73      cpu-migrations            #    0.001 K/sec                  
+             3,581      page-faults               #    0.058 K/sec                  
+   247,457,647,818      cycles                    #    4.036 GHz                      (30.79%)
+   204,365,579,561      instructions              #    0.83  insn per cycle           (38.22%)
+    42,768,213,630      branches                  #  697.612 M/sec                    (38.48%)
+     1,105,641,738      branch-misses             #    2.59% of all branches          (38.38%)
+    60,632,856,498      L1-dcache-loads           #  989.010 M/sec                    (38.47%)
+     4,346,409,753      L1-dcache-load-misses     #    7.17% of all L1-dcache hits    (38.33%)
+     1,301,073,225      LLC-loads                 #   21.222 M/sec                    (30.72%)
+         1,198,762      LLC-load-misses           #    0.09% of all LL-cache hits     (30.59%)
+   <not supported>      L1-icache-loads                                             
+    15,444,828,555      L1-icache-load-misses                                         (31.08%)
+    60,696,859,671      dTLB-loads                #  990.054 M/sec                    (30.88%)
+        20,972,995      dTLB-load-misses          #    0.03% of all dTLB cache hits   (30.80%)
+         8,314,645      iTLB-loads                #    0.136 M/sec                    (31.03%)
+         1,980,008      iTLB-load-misses          #   23.81% of all iTLB cache hits   (30.45%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      91.279273007 seconds time elapsed
+
+      16.814087000 seconds user
+      46.495137000 seconds sys
+
+
+
+ Performance counter stats for './redis get':
+
+         61,732.55 msec task-clock                #    0.678 CPUs utilized          
+           255,737      context-switches          #    0.004 M/sec                  
+                69      cpu-migrations            #    0.001 K/sec                  
+             3,577      page-faults               #    0.058 K/sec                  
+   249,077,507,460      cycles                    #    4.035 GHz                      (30.23%)
+   204,601,920,581      instructions              #    0.82  insn per cycle           (37.90%)
+    42,798,471,231      branches                  #  693.289 M/sec                    (38.11%)
+     1,101,348,469      branch-misses             #    2.57% of all branches          (38.42%)
+    60,654,996,674      L1-dcache-loads           #  982.545 M/sec                    (38.60%)
+     4,417,393,398      L1-dcache-load-misses     #    7.28% of all L1-dcache hits    (38.30%)
+     1,275,544,862      LLC-loads                 #   20.662 M/sec                    (30.43%)
+         1,230,000      LLC-load-misses           #    0.10% of all LL-cache hits     (30.60%)
+   <not supported>      L1-icache-loads                                             
+    15,344,715,922      L1-icache-load-misses                                         (30.88%)
+    60,724,770,594      dTLB-loads                #  983.675 M/sec                    (31.47%)
+        24,925,772      dTLB-load-misses          #    0.04% of all dTLB cache hits   (31.46%)
+         8,630,883      iTLB-loads                #    0.140 M/sec                    (30.99%)
+         2,769,173      iTLB-load-misses          #   32.08% of all iTLB cache hits   (30.51%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      90.997757166 seconds time elapsed
+
+      16.953583000 seconds user
+      46.592663000 seconds sys
+
+
+
+ Performance counter stats for './redis get':
+
+         62,009.68 msec task-clock                #    0.683 CPUs utilized          
+           256,891      context-switches          #    0.004 M/sec                  
+                64      cpu-migrations            #    0.001 K/sec                  
+             3,575      page-faults               #    0.058 K/sec                  
+   250,215,699,105      cycles                    #    4.035 GHz                      (30.56%)
+   204,483,313,786      instructions              #    0.82  insn per cycle           (38.26%)
+    42,780,143,804      branches                  #  689.895 M/sec                    (38.31%)
+     1,114,385,500      branch-misses             #    2.60% of all branches          (38.52%)
+    60,643,899,295      L1-dcache-loads           #  977.975 M/sec                    (38.44%)
+     4,561,996,118      L1-dcache-load-misses     #    7.52% of all L1-dcache hits    (38.40%)
+     1,303,467,338      LLC-loads                 #   21.020 M/sec                    (30.75%)
+         1,067,220      LLC-load-misses           #    0.08% of all LL-cache hits     (30.80%)
+   <not supported>      L1-icache-loads                                             
+    15,397,002,241      L1-icache-load-misses                                         (30.98%)
+    60,672,076,741      dTLB-loads                #  978.429 M/sec                    (31.04%)
+        29,440,213      dTLB-load-misses          #    0.05% of all dTLB cache hits   (30.93%)
+         9,164,186      iTLB-loads                #    0.148 M/sec                    (30.67%)
+         3,598,448      iTLB-load-misses          #   39.27% of all iTLB cache hits   (30.58%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      90.823036077 seconds time elapsed
+
+      16.793927000 seconds user
+      46.923740000 seconds sys
+
+
+
+ Performance counter stats for './redis get':
+
+         61,657.44 msec task-clock                #    0.680 CPUs utilized          
+           256,678      context-switches          #    0.004 M/sec                  
+                78      cpu-migrations            #    0.001 K/sec                  
+             2,556      page-faults               #    0.041 K/sec                  
+   248,805,233,606      cycles                    #    4.035 GHz                      (31.03%)
+   204,498,676,375      instructions              #    0.82  insn per cycle           (38.71%)
+    42,797,620,892      branches                  #  694.119 M/sec                    (38.75%)
+     1,111,676,382      branch-misses             #    2.60% of all branches          (38.43%)
+    60,650,119,321      L1-dcache-loads           #  983.663 M/sec                    (38.43%)
+     4,447,460,980      L1-dcache-load-misses     #    7.33% of all L1-dcache hits    (38.39%)
+     1,309,748,388      LLC-loads                 #   21.242 M/sec                    (30.52%)
+         1,186,245      LLC-load-misses           #    0.09% of all LL-cache hits     (30.45%)
+   <not supported>      L1-icache-loads                                             
+    15,460,510,078      L1-icache-load-misses                                         (30.41%)
+    60,694,826,512      dTLB-loads                #  984.388 M/sec                    (30.58%)
+        24,808,357      dTLB-load-misses          #    0.04% of all dTLB cache hits   (30.74%)
+         8,747,099      iTLB-loads                #    0.142 M/sec                    (31.12%)
+         9,800,453      iTLB-load-misses          #  112.04% of all iTLB cache hits   (31.16%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      90.722576164 seconds time elapsed
+
+      16.967692000 seconds user
+      46.452697000 seconds sys
+
+
+
+ Performance counter stats for './redis get':
+
+         61,627.26 msec task-clock                #    0.679 CPUs utilized          
+           255,951      context-switches          #    0.004 M/sec                  
+                42      cpu-migrations            #    0.001 K/sec                  
+             2,046      page-faults               #    0.033 K/sec                  
+   248,921,358,667      cycles                    #    4.039 GHz                      (30.50%)
+   204,592,148,683      instructions              #    0.82  insn per cycle           (38.15%)
+    42,812,831,630      branches                  #  694.706 M/sec                    (37.64%)
+     1,105,210,557      branch-misses             #    2.58% of all branches          (38.14%)
+    60,669,938,992      L1-dcache-loads           #  984.466 M/sec                    (38.21%)
+     4,206,203,862      L1-dcache-load-misses     #    6.93% of all L1-dcache hits    (38.32%)
+     1,270,176,772      LLC-loads                 #   20.611 M/sec                    (31.04%)
+         1,302,041      LLC-load-misses           #    0.10% of all LL-cache hits     (30.91%)
+   <not supported>      L1-icache-loads                                             
+    15,451,295,753      L1-icache-load-misses                                         (31.16%)
+    60,703,141,268      dTLB-loads                #  985.005 M/sec                    (31.19%)
+        25,432,164      dTLB-load-misses          #    0.04% of all dTLB cache hits   (31.32%)
+         8,558,814      iTLB-loads                #    0.139 M/sec                    (30.95%)
+        10,207,330      iTLB-load-misses          #  119.26% of all iTLB cache hits   (30.63%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      90.792801988 seconds time elapsed
+
+      16.641429000 seconds user
+      46.736683000 seconds sys
+
+
+
+ Performance counter stats for './redis get':
+
+         61,442.90 msec task-clock                #    0.676 CPUs utilized          
+           255,692      context-switches          #    0.004 M/sec                  
+                69      cpu-migrations            #    0.001 K/sec                  
+             1,536      page-faults               #    0.025 K/sec                  
+   248,008,880,708      cycles                    #    4.036 GHz                      (30.20%)
+   204,363,991,486      instructions              #    0.82  insn per cycle           (37.90%)
+    42,764,368,669      branches                  #  696.002 M/sec                    (38.21%)
+     1,103,200,872      branch-misses             #    2.58% of all branches          (38.52%)
+    60,645,914,218      L1-dcache-loads           #  987.029 M/sec                    (38.71%)
+     4,428,059,773      L1-dcache-load-misses     #    7.30% of all L1-dcache hits    (38.63%)
+     1,265,148,231      LLC-loads                 #   20.591 M/sec                    (30.81%)
+         1,442,216      LLC-load-misses           #    0.11% of all LL-cache hits     (30.99%)
+   <not supported>      L1-icache-loads                                             
+    15,470,017,672      L1-icache-load-misses                                         (31.04%)
+    60,660,122,908      dTLB-loads                #  987.260 M/sec                    (31.18%)
+        22,395,606      dTLB-load-misses          #    0.04% of all dTLB cache hits   (30.98%)
+         8,463,653      iTLB-loads                #    0.138 M/sec                    (30.50%)
+        11,689,535      iTLB-load-misses          #  138.11% of all iTLB cache hits   (30.26%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      90.897946831 seconds time elapsed
+
+      16.763689000 seconds user
+      46.530241000 seconds sys
+
+
+
+ Performance counter stats for './redis get':
+
+         61,940.17 msec task-clock                #    0.682 CPUs utilized          
+           256,683      context-switches          #    0.004 M/sec                  
+                31      cpu-migrations            #    0.001 K/sec                  
+             1,538      page-faults               #    0.025 K/sec                  
+   249,815,603,299      cycles                    #    4.033 GHz                      (30.63%)
+   204,572,882,550      instructions              #    0.82  insn per cycle           (38.24%)
+    42,810,200,050      branches                  #  691.154 M/sec                    (38.38%)
+     1,106,751,048      branch-misses             #    2.59% of all branches          (38.40%)
+    60,671,488,090      L1-dcache-loads           #  979.518 M/sec                    (38.40%)
+     4,443,573,370      L1-dcache-load-misses     #    7.32% of all L1-dcache hits    (38.54%)
+     1,287,825,651      LLC-loads                 #   20.791 M/sec                    (30.82%)
+         1,266,771      LLC-load-misses           #    0.10% of all LL-cache hits     (30.74%)
+   <not supported>      L1-icache-loads                                             
+    15,449,845,708      L1-icache-load-misses                                         (30.74%)
+    60,690,483,720      dTLB-loads                #  979.824 M/sec                    (30.83%)
+        44,152,760      dTLB-load-misses          #    0.07% of all dTLB cache hits   (30.80%)
+         8,814,270      iTLB-loads                #    0.142 M/sec                    (30.86%)
+         5,567,466      iTLB-load-misses          #   63.16% of all iTLB cache hits   (30.87%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      90.807177212 seconds time elapsed
+
+      16.429388000 seconds user
+      47.196714000 seconds sys
+
+

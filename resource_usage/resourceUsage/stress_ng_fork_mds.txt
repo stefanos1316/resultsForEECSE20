@@ -1,0 +1,330 @@
+stress-ng: info:  [1576] defaulting to a 86400 second run per stressor
+stress-ng: info:  [1576] dispatching hogs: 8 fork
+stress-ng: info:  [1576] successful run completed in 33.27s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+        198,985.50 msec task-clock                #    5.959 CPUs utilized          
+         1,167,757      context-switches          #    0.006 M/sec                  
+           444,153      cpu-migrations            #    0.002 M/sec                  
+        43,142,207      page-faults               #    0.217 M/sec                  
+   762,610,498,491      cycles                    #    3.832 GHz                      (29.25%)
+   495,251,046,133      instructions              #    0.65  insn per cycle           (36.67%)
+   106,629,507,820      branches                  #  535.866 M/sec                    (37.43%)
+     1,115,468,733      branch-misses             #    1.05% of all branches          (37.84%)
+   136,663,068,120      L1-dcache-loads           #  686.799 M/sec                    (38.48%)
+    17,908,772,446      L1-dcache-load-misses     #   13.10% of all L1-dcache hits    (39.05%)
+     4,200,813,764      LLC-loads                 #   21.111 M/sec                    (31.93%)
+        84,692,532      LLC-load-misses           #    2.02% of all LL-cache hits     (30.59%)
+   <not supported>      L1-icache-loads                                             
+     8,037,508,458      L1-icache-load-misses                                         (31.02%)
+   136,977,706,246      dTLB-loads                #  688.380 M/sec                    (31.70%)
+       736,997,126      dTLB-load-misses          #    0.54% of all dTLB cache hits   (30.64%)
+       115,079,504      iTLB-loads                #    0.578 M/sec                    (31.57%)
+       104,584,286      iTLB-load-misses          #   90.88% of all iTLB cache hits   (30.50%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      33.391672316 seconds time elapsed
+
+     117.387168000 seconds user
+      97.588074000 seconds sys
+
+
+stress-ng: info:  [359] defaulting to a 86400 second run per stressor
+stress-ng: info:  [359] dispatching hogs: 8 fork
+stress-ng: info:  [359] successful run completed in 32.94s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+        196,461.83 msec task-clock                #    5.964 CPUs utilized          
+         1,168,861      context-switches          #    0.006 M/sec                  
+           443,302      cpu-migrations            #    0.002 M/sec                  
+        43,106,508      page-faults               #    0.219 M/sec                  
+   752,749,843,582      cycles                    #    3.832 GHz                      (31.05%)
+   485,975,982,689      instructions              #    0.65  insn per cycle           (38.22%)
+   104,742,261,707      branches                  #  533.143 M/sec                    (37.37%)
+     1,107,927,554      branch-misses             #    1.06% of all branches          (37.60%)
+   134,824,676,032      L1-dcache-loads           #  686.264 M/sec                    (38.08%)
+    17,687,924,366      L1-dcache-load-misses     #   13.12% of all L1-dcache hits    (38.17%)
+     4,167,377,541      LLC-loads                 #   21.212 M/sec                    (30.71%)
+        85,098,797      LLC-load-misses           #    2.04% of all LL-cache hits     (30.39%)
+   <not supported>      L1-icache-loads                                             
+     8,136,284,359      L1-icache-load-misses                                         (30.11%)
+   135,302,320,082      dTLB-loads                #  688.695 M/sec                    (30.78%)
+       732,654,013      dTLB-load-misses          #    0.54% of all dTLB cache hits   (31.92%)
+       117,306,816      iTLB-loads                #    0.597 M/sec                    (32.02%)
+       110,252,268      iTLB-load-misses          #   93.99% of all iTLB cache hits   (31.81%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      32.941706934 seconds time elapsed
+
+     115.472645000 seconds user
+      96.811700000 seconds sys
+
+
+stress-ng: info:  [31764] defaulting to a 86400 second run per stressor
+stress-ng: info:  [31764] dispatching hogs: 8 fork
+stress-ng: info:  [31764] successful run completed in 33.13s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+        198,429.45 msec task-clock                #    5.989 CPUs utilized          
+         1,169,493      context-switches          #    0.006 M/sec                  
+           443,759      cpu-migrations            #    0.002 M/sec                  
+        44,101,279      page-faults               #    0.222 M/sec                  
+   760,621,367,007      cycles                    #    3.833 GHz                      (31.03%)
+   492,841,497,947      instructions              #    0.65  insn per cycle           (38.77%)
+   106,118,185,488      branches                  #  534.791 M/sec                    (38.01%)
+     1,121,198,176      branch-misses             #    1.06% of all branches          (39.21%)
+   136,579,459,399      L1-dcache-loads           #  688.302 M/sec                    (39.05%)
+    17,782,715,638      L1-dcache-load-misses     #   13.02% of all L1-dcache hits    (39.52%)
+     4,167,906,241      LLC-loads                 #   21.004 M/sec                    (31.18%)
+        83,371,401      LLC-load-misses           #    2.00% of all LL-cache hits     (30.35%)
+   <not supported>      L1-icache-loads                                             
+     8,131,777,257      L1-icache-load-misses                                         (30.09%)
+   137,008,440,508      dTLB-loads                #  690.464 M/sec                    (29.45%)
+       730,655,874      dTLB-load-misses          #    0.53% of all dTLB cache hits   (30.82%)
+       122,390,044      iTLB-loads                #    0.617 M/sec                    (30.43%)
+       104,342,774      iTLB-load-misses          #   85.25% of all iTLB cache hits   (30.86%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      33.133828289 seconds time elapsed
+
+     117.580162000 seconds user
+      96.905940000 seconds sys
+
+
+stress-ng: info:  [30739] defaulting to a 86400 second run per stressor
+stress-ng: info:  [30739] dispatching hogs: 8 fork
+stress-ng: info:  [30739] successful run completed in 33.00s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+        197,169.64 msec task-clock                #    5.974 CPUs utilized          
+         1,169,328      context-switches          #    0.006 M/sec                  
+           444,387      cpu-migrations            #    0.002 M/sec                  
+        43,108,658      page-faults               #    0.219 M/sec                  
+   755,920,883,305      cycles                    #    3.834 GHz                      (31.99%)
+   488,073,950,325      instructions              #    0.65  insn per cycle           (39.34%)
+   105,225,416,185      branches                  #  533.680 M/sec                    (38.94%)
+     1,108,354,814      branch-misses             #    1.05% of all branches          (38.48%)
+   135,428,991,541      L1-dcache-loads           #  686.865 M/sec                    (37.38%)
+    18,057,749,572      L1-dcache-load-misses     #   13.33% of all L1-dcache hits    (37.65%)
+     4,199,810,647      LLC-loads                 #   21.300 M/sec                    (30.35%)
+        81,717,253      LLC-load-misses           #    1.95% of all LL-cache hits     (30.24%)
+   <not supported>      L1-icache-loads                                             
+     8,201,823,340      L1-icache-load-misses                                         (30.51%)
+   135,461,700,525      dTLB-loads                #  687.031 M/sec                    (30.36%)
+       731,620,166      dTLB-load-misses          #    0.54% of all dTLB cache hits   (30.71%)
+       124,843,954      iTLB-loads                #    0.633 M/sec                    (31.28%)
+       103,234,577      iTLB-load-misses          #   82.69% of all iTLB cache hits   (32.11%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      33.006790445 seconds time elapsed
+
+     116.112834000 seconds user
+      96.850123000 seconds sys
+
+
+stress-ng: info:  [29650] defaulting to a 86400 second run per stressor
+stress-ng: info:  [29650] dispatching hogs: 8 fork
+stress-ng: info:  [29650] successful run completed in 33.41s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+        200,633.29 msec task-clock                #    6.005 CPUs utilized          
+         1,166,118      context-switches          #    0.006 M/sec                  
+           444,021      cpu-migrations            #    0.002 M/sec                  
+        44,109,769      page-faults               #    0.220 M/sec                  
+   769,746,229,301      cycles                    #    3.837 GHz                      (31.22%)
+   498,835,681,684      instructions              #    0.65  insn per cycle           (40.06%)
+   107,510,925,079      branches                  #  535.858 M/sec                    (40.16%)
+     1,134,690,196      branch-misses             #    1.06% of all branches          (39.76%)
+   138,023,957,603      L1-dcache-loads           #  687.941 M/sec                    (39.70%)
+    18,014,092,763      L1-dcache-load-misses     #   13.05% of all L1-dcache hits    (38.81%)
+     4,211,013,008      LLC-loads                 #   20.989 M/sec                    (28.96%)
+        82,173,675      LLC-load-misses           #    1.95% of all LL-cache hits     (29.12%)
+   <not supported>      L1-icache-loads                                             
+     8,096,939,747      L1-icache-load-misses                                         (29.56%)
+   138,391,194,685      dTLB-loads                #  689.772 M/sec                    (29.98%)
+       729,257,416      dTLB-load-misses          #    0.53% of all dTLB cache hits   (30.88%)
+       123,874,255      iTLB-loads                #    0.617 M/sec                    (31.12%)
+       105,540,132      iTLB-load-misses          #   85.20% of all iTLB cache hits   (30.74%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      33.412999861 seconds time elapsed
+
+     118.366079000 seconds user
+      98.388327000 seconds sys
+
+
+stress-ng: info:  [28568] defaulting to a 86400 second run per stressor
+stress-ng: info:  [28568] dispatching hogs: 8 fork
+stress-ng: info:  [28568] successful run completed in 33.13s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+        197,759.07 msec task-clock                #    5.969 CPUs utilized          
+         1,168,708      context-switches          #    0.006 M/sec                  
+           444,902      cpu-migrations            #    0.002 M/sec                  
+        43,132,649      page-faults               #    0.218 M/sec                  
+   757,820,505,961      cycles                    #    3.832 GHz                      (30.77%)
+   490,130,201,672      instructions              #    0.65  insn per cycle           (38.02%)
+   105,602,794,306      branches                  #  533.997 M/sec                    (38.24%)
+     1,116,897,485      branch-misses             #    1.06% of all branches          (39.19%)
+   135,463,210,806      L1-dcache-loads           #  684.991 M/sec                    (39.10%)
+    17,842,042,027      L1-dcache-load-misses     #   13.17% of all L1-dcache hits    (39.32%)
+     4,166,893,750      LLC-loads                 #   21.071 M/sec                    (30.95%)
+        84,562,968      LLC-load-misses           #    2.03% of all LL-cache hits     (30.39%)
+   <not supported>      L1-icache-loads                                             
+     8,149,590,504      L1-icache-load-misses                                         (29.61%)
+   135,915,655,357      dTLB-loads                #  687.279 M/sec                    (29.91%)
+       733,074,076      dTLB-load-misses          #    0.54% of all dTLB cache hits   (30.81%)
+       113,764,865      iTLB-loads                #    0.575 M/sec                    (30.42%)
+       101,427,272      iTLB-load-misses          #   89.16% of all iTLB cache hits   (31.30%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      33.129294751 seconds time elapsed
+
+     116.132706000 seconds user
+      97.572497000 seconds sys
+
+
+stress-ng: info:  [27584] defaulting to a 86400 second run per stressor
+stress-ng: info:  [27584] dispatching hogs: 8 fork
+stress-ng: info:  [27584] successful run completed in 33.24s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+        198,917.21 msec task-clock                #    5.984 CPUs utilized          
+         1,171,913      context-switches          #    0.006 M/sec                  
+           445,529      cpu-migrations            #    0.002 M/sec                  
+        44,100,325      page-faults               #    0.222 M/sec                  
+   762,318,735,544      cycles                    #    3.832 GHz                      (30.49%)
+   492,939,179,785      instructions              #    0.65  insn per cycle           (38.53%)
+   106,220,895,151      branches                  #  533.996 M/sec                    (39.74%)
+     1,121,423,482      branch-misses             #    1.06% of all branches          (40.14%)
+   136,218,934,349      L1-dcache-loads           #  684.802 M/sec                    (40.77%)
+    17,951,141,482      L1-dcache-load-misses     #   13.18% of all L1-dcache hits    (40.01%)
+     4,203,685,652      LLC-loads                 #   21.133 M/sec                    (31.10%)
+        81,173,819      LLC-load-misses           #    1.93% of all LL-cache hits     (30.44%)
+   <not supported>      L1-icache-loads                                             
+     8,163,876,578      L1-icache-load-misses                                         (30.05%)
+   136,684,401,015      dTLB-loads                #  687.142 M/sec                    (29.50%)
+       744,650,654      dTLB-load-misses          #    0.54% of all dTLB cache hits   (29.17%)
+       120,641,156      iTLB-loads                #    0.606 M/sec                    (29.42%)
+       103,119,177      iTLB-load-misses          #   85.48% of all iTLB cache hits   (29.17%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      33.241264398 seconds time elapsed
+
+     117.375130000 seconds user
+      97.497344000 seconds sys
+
+
+stress-ng: info:  [26571] defaulting to a 86400 second run per stressor
+stress-ng: info:  [26571] dispatching hogs: 8 fork
+stress-ng: info:  [26571] successful run completed in 32.91s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+        196,801.73 msec task-clock                #    5.979 CPUs utilized          
+         1,167,566      context-switches          #    0.006 M/sec                  
+           443,908      cpu-migrations            #    0.002 M/sec                  
+        43,106,327      page-faults               #    0.219 M/sec                  
+   754,393,277,405      cycles                    #    3.833 GHz                      (32.40%)
+   486,457,938,089      instructions              #    0.64  insn per cycle           (40.33%)
+   104,865,010,310      branches                  #  532.846 M/sec                    (40.41%)
+     1,130,574,273      branch-misses             #    1.08% of all branches          (39.13%)
+   134,648,847,962      L1-dcache-loads           #  684.185 M/sec                    (38.10%)
+    17,727,376,895      L1-dcache-load-misses     #   13.17% of all L1-dcache hits    (37.63%)
+     4,191,218,993      LLC-loads                 #   21.297 M/sec                    (29.57%)
+        88,666,159      LLC-load-misses           #    2.12% of all LL-cache hits     (30.14%)
+   <not supported>      L1-icache-loads                                             
+     8,122,031,416      L1-icache-load-misses                                         (30.52%)
+   135,168,091,854      dTLB-loads                #  686.824 M/sec                    (29.96%)
+       729,841,075      dTLB-load-misses          #    0.54% of all dTLB cache hits   (30.02%)
+       116,527,685      iTLB-loads                #    0.592 M/sec                    (30.73%)
+        99,567,135      iTLB-load-misses          #   85.45% of all iTLB cache hits   (31.39%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      32.915240062 seconds time elapsed
+
+     115.071179000 seconds user
+      97.767600000 seconds sys
+
+
+stress-ng: info:  [25540] defaulting to a 86400 second run per stressor
+stress-ng: info:  [25540] dispatching hogs: 8 fork
+stress-ng: info:  [25540] successful run completed in 33.02s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+        197,744.49 msec task-clock                #    5.988 CPUs utilized          
+         1,168,088      context-switches          #    0.006 M/sec                  
+           442,897      cpu-migrations            #    0.002 M/sec                  
+        44,109,939      page-faults               #    0.223 M/sec                  
+   757,821,660,851      cycles                    #    3.832 GHz                      (31.28%)
+   483,943,819,042      instructions              #    0.64  insn per cycle           (39.22%)
+   103,800,781,753      branches                  #  524.924 M/sec                    (39.93%)
+     1,112,183,875      branch-misses             #    1.07% of all branches          (39.24%)
+   134,810,523,849      L1-dcache-loads           #  681.741 M/sec                    (38.94%)
+    17,785,790,886      L1-dcache-load-misses     #   13.19% of all L1-dcache hits    (38.93%)
+     4,194,620,126      LLC-loads                 #   21.212 M/sec                    (30.24%)
+        87,398,279      LLC-load-misses           #    2.08% of all LL-cache hits     (30.08%)
+   <not supported>      L1-icache-loads                                             
+     8,047,319,298      L1-icache-load-misses                                         (29.84%)
+   135,460,822,563      dTLB-loads                #  685.030 M/sec                    (29.79%)
+       741,831,404      dTLB-load-misses          #    0.55% of all dTLB cache hits   (29.83%)
+       123,519,846      iTLB-loads                #    0.625 M/sec                    (30.68%)
+       108,493,790      iTLB-load-misses          #   87.84% of all iTLB cache hits   (31.22%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      33.023510782 seconds time elapsed
+
+     116.934471000 seconds user
+      96.823206000 seconds sys
+
+
+stress-ng: info:  [24507] defaulting to a 86400 second run per stressor
+stress-ng: info:  [24507] dispatching hogs: 8 fork
+stress-ng: info:  [24507] successful run completed in 33.16s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+        199,360.93 msec task-clock                #    6.011 CPUs utilized          
+         1,168,184      context-switches          #    0.006 M/sec                  
+           443,795      cpu-migrations            #    0.002 M/sec                  
+        44,088,826      page-faults               #    0.221 M/sec                  
+   764,043,379,373      cycles                    #    3.832 GHz                      (28.69%)
+   491,484,514,253      instructions              #    0.64  insn per cycle           (35.96%)
+   105,852,085,874      branches                  #  530.957 M/sec                    (36.19%)
+     1,142,646,422      branch-misses             #    1.08% of all branches          (35.71%)
+   136,762,056,912      L1-dcache-loads           #  686.002 M/sec                    (35.25%)
+    17,978,231,457      L1-dcache-load-misses     #   13.15% of all L1-dcache hits    (36.76%)
+     4,238,625,354      LLC-loads                 #   21.261 M/sec                    (30.59%)
+        90,571,733      LLC-load-misses           #    2.14% of all LL-cache hits     (32.97%)
+   <not supported>      L1-icache-loads                                             
+     8,266,147,069      L1-icache-load-misses                                         (34.40%)
+   137,034,181,983      dTLB-loads                #  687.367 M/sec                    (34.55%)
+       752,615,831      dTLB-load-misses          #    0.55% of all dTLB cache hits   (33.22%)
+       126,455,227      iTLB-loads                #    0.634 M/sec                    (31.32%)
+       106,123,864      iTLB-load-misses          #   83.92% of all iTLB cache hits   (30.35%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      33.167627423 seconds time elapsed
+
+     118.500389000 seconds user
+      97.025684000 seconds sys
+
+

@@ -1,0 +1,300 @@
+
+ Performance counter stats for './osbench create_processes':
+
+        104,734.86 msec task-clock                #    2.873 CPUs utilized          
+           123,998      context-switches          #    0.001 M/sec                  
+             8,986      cpu-migrations            #    0.086 K/sec                  
+        25,344,353      page-faults               #    0.242 M/sec                  
+   390,303,186,919      cycles                    #    3.727 GHz                      (30.76%)
+   277,148,856,839      instructions              #    0.71  insn per cycle           (38.38%)
+    58,821,747,548      branches                  #  561.625 M/sec                    (38.22%)
+       556,540,048      branch-misses             #    0.95% of all branches          (38.27%)
+    77,814,667,272      L1-dcache-loads           #  742.968 M/sec                    (38.21%)
+     9,886,582,730      L1-dcache-load-misses     #   12.71% of all L1-dcache hits    (38.08%)
+     2,025,884,256      LLC-loads                 #   19.343 M/sec                    (30.81%)
+       117,474,500      LLC-load-misses           #    5.80% of all LL-cache hits     (30.81%)
+   <not supported>      L1-icache-loads                                             
+     5,402,899,208      L1-icache-load-misses                                         (30.90%)
+    78,113,266,358      dTLB-loads                #  745.819 M/sec                    (31.16%)
+       113,055,353      dTLB-load-misses          #    0.14% of all dTLB cache hits   (30.97%)
+       108,773,441      iTLB-loads                #    1.039 M/sec                    (30.92%)
+        57,412,030      iTLB-load-misses          #   52.78% of all iTLB cache hits   (30.89%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      36.449577277 seconds time elapsed
+
+      82.175017000 seconds user
+      36.744314000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+        104,881.49 msec task-clock                #    2.989 CPUs utilized          
+           138,145      context-switches          #    0.001 M/sec                  
+             8,753      cpu-migrations            #    0.083 K/sec                  
+        26,022,409      page-faults               #    0.248 M/sec                  
+   390,369,353,475      cycles                    #    3.722 GHz                      (30.29%)
+   274,814,372,779      instructions              #    0.70  insn per cycle           (37.91%)
+    57,931,647,961      branches                  #  552.353 M/sec                    (37.95%)
+       546,373,693      branch-misses             #    0.94% of all branches          (38.06%)
+    77,042,628,985      L1-dcache-loads           #  734.568 M/sec                    (38.15%)
+     9,807,774,779      L1-dcache-load-misses     #   12.73% of all L1-dcache hits    (38.12%)
+     1,951,449,229      LLC-loads                 #   18.606 M/sec                    (30.73%)
+        79,497,056      LLC-load-misses           #    4.07% of all LL-cache hits     (31.10%)
+   <not supported>      L1-icache-loads                                             
+     5,451,640,751      L1-icache-load-misses                                         (30.92%)
+    77,618,474,550      dTLB-loads                #  740.059 M/sec                    (31.59%)
+       116,555,991      dTLB-load-misses          #    0.15% of all dTLB cache hits   (31.33%)
+       113,377,460      iTLB-loads                #    1.081 M/sec                    (30.84%)
+        47,430,182      iTLB-load-misses          #   41.83% of all iTLB cache hits   (30.93%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      35.089570061 seconds time elapsed
+
+      83.064922000 seconds user
+      36.044947000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+        102,152.27 msec task-clock                #    2.759 CPUs utilized          
+            93,744      context-switches          #    0.918 K/sec                  
+             8,068      cpu-migrations            #    0.079 K/sec                  
+        24,772,777      page-faults               #    0.243 M/sec                  
+   378,840,485,021      cycles                    #    3.709 GHz                      (31.07%)
+   266,857,221,711      instructions              #    0.70  insn per cycle           (39.28%)
+    56,234,022,338      branches                  #  550.492 M/sec                    (39.26%)
+       527,800,343      branch-misses             #    0.94% of all branches          (39.06%)
+    74,803,658,700      L1-dcache-loads           #  732.276 M/sec                    (39.45%)
+     9,727,893,671      L1-dcache-load-misses     #   13.00% of all L1-dcache hits    (39.25%)
+     1,930,760,122      LLC-loads                 #   18.901 M/sec                    (31.28%)
+        76,857,863      LLC-load-misses           #    3.98% of all LL-cache hits     (31.05%)
+   <not supported>      L1-icache-loads                                             
+     5,275,577,073      L1-icache-load-misses                                         (30.24%)
+    75,117,021,907      dTLB-loads                #  735.344 M/sec                    (29.67%)
+       123,617,676      dTLB-load-misses          #    0.16% of all dTLB cache hits   (29.46%)
+       102,768,759      iTLB-loads                #    1.006 M/sec                    (29.89%)
+        45,641,104      iTLB-load-misses          #   44.41% of all iTLB cache hits   (30.31%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      37.025295495 seconds time elapsed
+
+      78.634456000 seconds user
+      37.401579000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+        102,301.98 msec task-clock                #    2.906 CPUs utilized          
+           125,428      context-switches          #    0.001 M/sec                  
+             8,660      cpu-migrations            #    0.085 K/sec                  
+        25,023,856      page-faults               #    0.245 M/sec                  
+   380,772,415,919      cycles                    #    3.722 GHz                      (30.64%)
+   267,130,057,275      instructions              #    0.70  insn per cycle           (38.24%)
+    56,254,257,355      branches                  #  549.884 M/sec                    (38.48%)
+       551,999,370      branch-misses             #    0.98% of all branches          (39.29%)
+    74,755,057,445      L1-dcache-loads           #  730.729 M/sec                    (38.49%)
+     9,713,242,873      L1-dcache-load-misses     #   12.99% of all L1-dcache hits    (38.57%)
+     1,953,690,120      LLC-loads                 #   19.097 M/sec                    (30.81%)
+        73,952,559      LLC-load-misses           #    3.79% of all LL-cache hits     (30.28%)
+   <not supported>      L1-icache-loads                                             
+     5,314,999,667      L1-icache-load-misses                                         (30.92%)
+    74,931,418,155      dTLB-loads                #  732.453 M/sec                    (30.79%)
+       125,529,167      dTLB-load-misses          #    0.17% of all dTLB cache hits   (30.71%)
+       104,057,466      iTLB-loads                #    1.017 M/sec                    (30.44%)
+        46,767,715      iTLB-load-misses          #   44.94% of all iTLB cache hits   (30.59%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      35.197678208 seconds time elapsed
+
+      80.547178000 seconds user
+      35.907224000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+        102,597.36 msec task-clock                #    2.987 CPUs utilized          
+           131,080      context-switches          #    0.001 M/sec                  
+             8,682      cpu-migrations            #    0.085 K/sec                  
+        25,032,098      page-faults               #    0.244 M/sec                  
+   382,348,638,919      cycles                    #    3.727 GHz                      (31.26%)
+   268,464,255,175      instructions              #    0.70  insn per cycle           (38.72%)
+    56,427,307,558      branches                  #  549.988 M/sec                    (38.84%)
+       537,637,061      branch-misses             #    0.95% of all branches          (38.70%)
+    75,053,820,678      L1-dcache-loads           #  731.538 M/sec                    (38.90%)
+     9,689,635,460      L1-dcache-load-misses     #   12.91% of all L1-dcache hits    (38.32%)
+     1,953,710,688      LLC-loads                 #   19.043 M/sec                    (30.38%)
+        61,014,977      LLC-load-misses           #    3.12% of all LL-cache hits     (30.22%)
+   <not supported>      L1-icache-loads                                             
+     5,409,989,681      L1-icache-load-misses                                         (30.24%)
+    75,418,924,265      dTLB-loads                #  735.096 M/sec                    (30.42%)
+       129,492,374      dTLB-load-misses          #    0.17% of all dTLB cache hits   (30.79%)
+        98,868,612      iTLB-loads                #    0.964 M/sec                    (31.07%)
+        43,456,891      iTLB-load-misses          #   43.95% of all iTLB cache hits   (30.86%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      34.351473237 seconds time elapsed
+
+      81.578869000 seconds user
+      35.303140000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+        101,419.67 msec task-clock                #    2.978 CPUs utilized          
+           130,991      context-switches          #    0.001 M/sec                  
+             9,032      cpu-migrations            #    0.089 K/sec                  
+        25,024,167      page-faults               #    0.247 M/sec                  
+   377,775,693,216      cycles                    #    3.725 GHz                      (31.78%)
+   265,369,195,133      instructions              #    0.70  insn per cycle           (39.68%)
+    55,791,644,488      branches                  #  550.107 M/sec                    (39.65%)
+       526,331,590      branch-misses             #    0.94% of all branches          (39.38%)
+    74,299,412,554      L1-dcache-loads           #  732.594 M/sec                    (38.69%)
+     9,635,548,948      L1-dcache-load-misses     #   12.97% of all L1-dcache hits    (38.24%)
+     1,925,051,687      LLC-loads                 #   18.981 M/sec                    (30.22%)
+        58,654,994      LLC-load-misses           #    3.05% of all LL-cache hits     (29.81%)
+   <not supported>      L1-icache-loads                                             
+     5,399,448,852      L1-icache-load-misses                                         (30.08%)
+    74,503,344,510      dTLB-loads                #  734.605 M/sec                    (29.98%)
+       128,211,842      dTLB-load-misses          #    0.17% of all dTLB cache hits   (30.13%)
+       104,707,452      iTLB-loads                #    1.032 M/sec                    (30.82%)
+        44,184,671      iTLB-load-misses          #   42.20% of all iTLB cache hits   (31.23%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      34.056446208 seconds time elapsed
+
+      80.539490000 seconds user
+      35.025319000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+        102,503.58 msec task-clock                #    2.996 CPUs utilized          
+           133,721      context-switches          #    0.001 M/sec                  
+             8,761      cpu-migrations            #    0.085 K/sec                  
+        25,027,901      page-faults               #    0.244 M/sec                  
+   381,419,945,789      cycles                    #    3.721 GHz                      (30.52%)
+   268,293,267,020      instructions              #    0.70  insn per cycle           (38.10%)
+    56,368,830,183      branches                  #  549.921 M/sec                    (37.63%)
+       533,202,575      branch-misses             #    0.95% of all branches          (38.59%)
+    75,233,724,199      L1-dcache-loads           #  733.962 M/sec                    (38.62%)
+     9,677,686,278      L1-dcache-load-misses     #   12.86% of all L1-dcache hits    (38.55%)
+     1,957,898,081      LLC-loads                 #   19.101 M/sec                    (31.41%)
+        59,214,376      LLC-load-misses           #    3.02% of all LL-cache hits     (30.91%)
+   <not supported>      L1-icache-loads                                             
+     5,371,995,574      L1-icache-load-misses                                         (30.67%)
+    75,532,542,259      dTLB-loads                #  736.877 M/sec                    (30.93%)
+       129,522,126      dTLB-load-misses          #    0.17% of all dTLB cache hits   (30.97%)
+        99,369,118      iTLB-loads                #    0.969 M/sec                    (30.50%)
+        41,427,737      iTLB-load-misses          #   41.69% of all iTLB cache hits   (30.71%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      34.216119898 seconds time elapsed
+
+      81.371086000 seconds user
+      35.438543000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+        103,025.26 msec task-clock                #    3.006 CPUs utilized          
+           139,404      context-switches          #    0.001 M/sec                  
+             9,184      cpu-migrations            #    0.089 K/sec                  
+        25,150,668      page-faults               #    0.244 M/sec                  
+   383,453,180,604      cycles                    #    3.722 GHz                      (31.27%)
+   271,495,076,389      instructions              #    0.71  insn per cycle           (39.00%)
+    57,068,126,415      branches                  #  553.924 M/sec                    (38.33%)
+       531,907,049      branch-misses             #    0.93% of all branches          (38.05%)
+    76,052,553,244      L1-dcache-loads           #  738.193 M/sec                    (37.66%)
+     9,528,348,709      L1-dcache-load-misses     #   12.53% of all L1-dcache hits    (37.61%)
+     1,894,634,169      LLC-loads                 #   18.390 M/sec                    (30.44%)
+        56,209,165      LLC-load-misses           #    2.97% of all LL-cache hits     (30.60%)
+   <not supported>      L1-icache-loads                                             
+     5,414,811,126      L1-icache-load-misses                                         (30.67%)
+    76,485,649,059      dTLB-loads                #  742.397 M/sec                    (31.12%)
+       126,251,462      dTLB-load-misses          #    0.17% of all dTLB cache hits   (31.22%)
+       105,410,331      iTLB-loads                #    1.023 M/sec                    (31.35%)
+        40,180,565      iTLB-load-misses          #   38.12% of all iTLB cache hits   (31.68%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      34.268737523 seconds time elapsed
+
+      82.075165000 seconds user
+      35.151986000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+        102,645.37 msec task-clock                #    2.995 CPUs utilized          
+           140,445      context-switches          #    0.001 M/sec                  
+             9,161      cpu-migrations            #    0.089 K/sec                  
+        25,021,750      page-faults               #    0.244 M/sec                  
+   382,467,725,224      cycles                    #    3.726 GHz                      (30.71%)
+   270,844,194,277      instructions              #    0.71  insn per cycle           (38.47%)
+    56,931,205,245      branches                  #  554.640 M/sec                    (38.55%)
+       530,081,462      branch-misses             #    0.93% of all branches          (38.81%)
+    75,973,036,451      L1-dcache-loads           #  740.151 M/sec                    (38.53%)
+     9,573,868,812      L1-dcache-load-misses     #   12.60% of all L1-dcache hits    (38.42%)
+     1,893,691,140      LLC-loads                 #   18.449 M/sec                    (30.75%)
+        53,234,509      LLC-load-misses           #    2.81% of all LL-cache hits     (31.10%)
+   <not supported>      L1-icache-loads                                             
+     5,341,244,634      L1-icache-load-misses                                         (31.15%)
+    76,354,596,635      dTLB-loads                #  743.868 M/sec                    (30.88%)
+       131,291,702      dTLB-load-misses          #    0.17% of all dTLB cache hits   (30.69%)
+       107,196,374      iTLB-loads                #    1.044 M/sec                    (30.10%)
+        45,693,811      iTLB-load-misses          #   42.63% of all iTLB cache hits   (30.32%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      34.276211844 seconds time elapsed
+
+      81.659487000 seconds user
+      35.019598000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+        104,403.58 msec task-clock                #    3.047 CPUs utilized          
+           147,125      context-switches          #    0.001 M/sec                  
+             9,314      cpu-migrations            #    0.089 K/sec                  
+        26,022,745      page-faults               #    0.249 M/sec                  
+   389,123,713,302      cycles                    #    3.727 GHz                      (30.68%)
+   273,918,800,552      instructions              #    0.70  insn per cycle           (38.42%)
+    57,586,266,781      branches                  #  551.574 M/sec                    (38.66%)
+       532,778,352      branch-misses             #    0.93% of all branches          (38.66%)
+    76,858,759,437      L1-dcache-loads           #  736.170 M/sec                    (38.93%)
+     9,695,566,856      L1-dcache-load-misses     #   12.61% of all L1-dcache hits    (39.39%)
+     1,935,956,412      LLC-loads                 #   18.543 M/sec                    (31.10%)
+        55,268,496      LLC-load-misses           #    2.85% of all LL-cache hits     (30.73%)
+   <not supported>      L1-icache-loads                                             
+     5,496,836,848      L1-icache-load-misses                                         (30.25%)
+    77,217,380,404      dTLB-loads                #  739.605 M/sec                    (29.93%)
+       129,478,855      dTLB-load-misses          #    0.17% of all dTLB cache hits   (30.24%)
+       109,996,098      iTLB-loads                #    1.054 M/sec                    (30.61%)
+        44,154,365      iTLB-load-misses          #   40.14% of all iTLB cache hits   (30.82%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      34.262385726 seconds time elapsed
+
+      83.145335000 seconds user
+      35.349885000 seconds sys
+
+

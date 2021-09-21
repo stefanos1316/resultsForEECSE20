@@ -1,0 +1,56 @@
+
+ Performance counter stats for 'make -s -j 8':
+
+    11,620,560,567      dTLB-load-misses                                            
+
+    1375.630324787 seconds time elapsed
+
+    9019.713519000 seconds user
+     882.589834000 seconds sys
+
+
+
+
+ Performance counter stats for 'make -s -j 8':
+
+    11,786,709,866      dTLB-load-misses                                            
+
+    1339.217585092 seconds time elapsed
+
+    8995.587266000 seconds user
+     879.959482000 seconds sys
+
+
+
+ Performance counter stats for 'make -s -j 8':
+
+    11,852,339,975      dTLB-load-misses                                            
+
+    1328.950489189 seconds time elapsed
+
+    9003.536642000 seconds user
+     882.618489000 seconds sys
+
+
+
+ Performance counter stats for 'make -s -j 8':
+
+    11,882,762,411      dTLB-load-misses                                            
+
+    1331.748759170 seconds time elapsed
+
+    9030.708967000 seconds user
+     882.846279000 seconds sys
+
+
+
+ Performance counter stats for 'make -s -j 8':
+
+    11,890,946,997      dTLB-load-misses                                            
+
+    1333.001740848 seconds time elapsed
+
+    9026.917459000 seconds user
+     883.935186000 seconds sys
+
+

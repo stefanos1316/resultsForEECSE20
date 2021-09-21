@@ -1,0 +1,300 @@
+
+ Performance counter stats for './osbench create_threads':
+
+         57,418.05 msec task-clock                #    1.356 CPUs utilized          
+           209,995      context-switches          #    0.004 M/sec                  
+            13,682      cpu-migrations            #    0.238 K/sec                  
+         2,880,272      page-faults               #    0.050 M/sec                  
+   191,852,774,395      cycles                    #    3.341 GHz                      (30.84%)
+   117,694,252,896      instructions              #    0.61  insn per cycle           (38.46%)
+    25,562,778,363      branches                  #  445.205 M/sec                    (38.41%)
+       375,281,100      branch-misses             #    1.47% of all branches          (38.48%)
+    33,224,782,598      L1-dcache-loads           #  578.647 M/sec                    (38.20%)
+     5,926,061,467      L1-dcache-load-misses     #   17.84% of all L1-dcache hits    (38.42%)
+       975,671,928      LLC-loads                 #   16.992 M/sec                    (31.18%)
+        31,747,210      LLC-load-misses           #    3.25% of all LL-cache hits     (30.91%)
+   <not supported>      L1-icache-loads                                             
+     4,700,065,136      L1-icache-load-misses                                         (30.80%)
+    33,883,310,489      dTLB-loads                #  590.116 M/sec                    (30.75%)
+       138,444,013      dTLB-load-misses          #    0.41% of all dTLB cache hits   (30.41%)
+        49,365,317      iTLB-loads                #    0.860 M/sec                    (30.61%)
+        30,327,111      iTLB-load-misses          #   61.43% of all iTLB cache hits   (30.99%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      42.341781071 seconds time elapsed
+
+       6.101517000 seconds user
+      68.565686000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+         57,612.18 msec task-clock                #    1.357 CPUs utilized          
+           209,975      context-switches          #    0.004 M/sec                  
+            13,793      cpu-migrations            #    0.239 K/sec                  
+         2,880,276      page-faults               #    0.050 M/sec                  
+   193,073,981,135      cycles                    #    3.351 GHz                      (31.33%)
+   117,980,227,895      instructions              #    0.61  insn per cycle           (39.21%)
+    25,607,616,585      branches                  #  444.483 M/sec                    (38.64%)
+       373,937,828      branch-misses             #    1.46% of all branches          (38.40%)
+    33,256,842,076      L1-dcache-loads           #  577.254 M/sec                    (37.94%)
+     5,971,553,202      L1-dcache-load-misses     #   17.96% of all L1-dcache hits    (38.21%)
+       978,041,168      LLC-loads                 #   16.976 M/sec                    (30.68%)
+        33,331,610      LLC-load-misses           #    3.41% of all LL-cache hits     (30.79%)
+   <not supported>      L1-icache-loads                                             
+     4,720,911,684      L1-icache-load-misses                                         (31.10%)
+    34,023,834,384      dTLB-loads                #  590.567 M/sec                    (30.46%)
+       137,269,843      dTLB-load-misses          #    0.40% of all dTLB cache hits   (30.68%)
+        49,695,523      iTLB-loads                #    0.863 M/sec                    (30.80%)
+        30,880,617      iTLB-load-misses          #   62.14% of all iTLB cache hits   (30.95%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      42.454709460 seconds time elapsed
+
+       5.878507000 seconds user
+      69.150606000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+         57,682.03 msec task-clock                #    1.358 CPUs utilized          
+           214,183      context-switches          #    0.004 M/sec                  
+            13,829      cpu-migrations            #    0.240 K/sec                  
+         2,880,276      page-faults               #    0.050 M/sec                  
+   192,859,635,779      cycles                    #    3.343 GHz                      (30.88%)
+   117,996,538,499      instructions              #    0.61  insn per cycle           (38.54%)
+    25,599,407,488      branches                  #  443.802 M/sec                    (38.31%)
+       374,055,934      branch-misses             #    1.46% of all branches          (38.38%)
+    33,224,041,358      L1-dcache-loads           #  575.986 M/sec                    (38.21%)
+     5,942,918,540      L1-dcache-load-misses     #   17.89% of all L1-dcache hits    (38.51%)
+       970,962,919      LLC-loads                 #   16.833 M/sec                    (30.37%)
+        32,830,263      LLC-load-misses           #    3.38% of all LL-cache hits     (30.79%)
+   <not supported>      L1-icache-loads                                             
+     4,713,124,705      L1-icache-load-misses                                         (30.90%)
+    33,914,683,646      dTLB-loads                #  587.959 M/sec                    (30.61%)
+       139,474,247      dTLB-load-misses          #    0.41% of all dTLB cache hits   (31.32%)
+        50,156,933      iTLB-loads                #    0.870 M/sec                    (30.84%)
+        30,053,138      iTLB-load-misses          #   59.92% of all iTLB cache hits   (30.89%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      42.474952083 seconds time elapsed
+
+       5.901685000 seconds user
+      69.150533000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+         57,759.69 msec task-clock                #    1.356 CPUs utilized          
+           206,560      context-switches          #    0.004 M/sec                  
+            13,299      cpu-migrations            #    0.230 K/sec                  
+         2,880,275      page-faults               #    0.050 M/sec                  
+   193,408,994,037      cycles                    #    3.349 GHz                      (30.65%)
+   118,018,346,746      instructions              #    0.61  insn per cycle           (38.47%)
+    25,617,637,527      branches                  #  443.521 M/sec                    (38.47%)
+       374,166,124      branch-misses             #    1.46% of all branches          (38.60%)
+    33,275,968,233      L1-dcache-loads           #  576.111 M/sec                    (38.97%)
+     6,004,545,511      L1-dcache-load-misses     #   18.04% of all L1-dcache hits    (38.62%)
+       974,967,855      LLC-loads                 #   16.880 M/sec                    (30.43%)
+        34,168,317      LLC-load-misses           #    3.50% of all LL-cache hits     (30.24%)
+   <not supported>      L1-icache-loads                                             
+     4,718,899,783      L1-icache-load-misses                                         (30.18%)
+    34,027,673,406      dTLB-loads                #  589.125 M/sec                    (30.74%)
+       139,839,829      dTLB-load-misses          #    0.41% of all dTLB cache hits   (31.10%)
+        50,022,858      iTLB-loads                #    0.866 M/sec                    (31.16%)
+        33,302,369      iTLB-load-misses          #   66.57% of all iTLB cache hits   (30.85%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      42.583069899 seconds time elapsed
+
+       5.758072000 seconds user
+      69.349999000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+         57,744.51 msec task-clock                #    1.357 CPUs utilized          
+           207,558      context-switches          #    0.004 M/sec                  
+            13,251      cpu-migrations            #    0.229 K/sec                  
+         2,880,271      page-faults               #    0.050 M/sec                  
+   193,174,816,114      cycles                    #    3.345 GHz                      (31.28%)
+   118,348,699,264      instructions              #    0.61  insn per cycle           (38.82%)
+    25,713,265,992      branches                  #  445.294 M/sec                    (38.38%)
+       375,026,918      branch-misses             #    1.46% of all branches          (38.36%)
+    33,290,372,514      L1-dcache-loads           #  576.512 M/sec                    (38.15%)
+     5,952,890,867      L1-dcache-load-misses     #   17.88% of all L1-dcache hits    (38.15%)
+       990,618,683      LLC-loads                 #   17.155 M/sec                    (30.84%)
+        34,426,445      LLC-load-misses           #    3.48% of all LL-cache hits     (30.35%)
+   <not supported>      L1-icache-loads                                             
+     4,732,467,141      L1-icache-load-misses                                         (30.54%)
+    33,864,371,156      dTLB-loads                #  586.452 M/sec                    (30.57%)
+       140,285,262      dTLB-load-misses          #    0.41% of all dTLB cache hits   (30.78%)
+        49,598,683      iTLB-loads                #    0.859 M/sec                    (31.29%)
+        29,853,706      iTLB-load-misses          #   60.19% of all iTLB cache hits   (31.31%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      42.566433053 seconds time elapsed
+
+       5.936873000 seconds user
+      69.250972000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+         64,266.45 msec task-clock                #    1.333 CPUs utilized          
+           284,996      context-switches          #    0.004 M/sec                  
+            15,654      cpu-migrations            #    0.244 K/sec                  
+         2,865,301      page-faults               #    0.045 M/sec                  
+   218,169,704,852      cycles                    #    3.395 GHz                      (31.06%)
+   125,194,663,528      instructions              #    0.57  insn per cycle           (39.26%)
+    27,033,578,101      branches                  #  420.648 M/sec                    (39.09%)
+       391,221,721      branch-misses             #    1.45% of all branches          (39.09%)
+    35,191,843,735      L1-dcache-loads           #  547.593 M/sec                    (38.72%)
+     7,109,516,355      L1-dcache-load-misses     #   20.20% of all L1-dcache hits    (38.50%)
+     1,032,881,205      LLC-loads                 #   16.072 M/sec                    (30.09%)
+        47,192,060      LLC-load-misses           #    4.57% of all LL-cache hits     (30.41%)
+   <not supported>      L1-icache-loads                                             
+     4,825,268,231      L1-icache-load-misses                                         (30.42%)
+    35,766,588,091      dTLB-loads                #  556.536 M/sec                    (30.44%)
+       128,652,129      dTLB-load-misses          #    0.36% of all dTLB cache hits   (30.81%)
+        69,513,476      iTLB-loads                #    1.082 M/sec                    (30.50%)
+        24,616,133      iTLB-load-misses          #   35.41% of all iTLB cache hits   (30.86%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      48.220781954 seconds time elapsed
+
+       5.715395000 seconds user
+      76.858260000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+         57,819.17 msec task-clock                #    1.357 CPUs utilized          
+           206,032      context-switches          #    0.004 M/sec                  
+            13,296      cpu-migrations            #    0.230 K/sec                  
+         2,880,274      page-faults               #    0.050 M/sec                  
+   193,446,058,580      cycles                    #    3.346 GHz                      (31.32%)
+   118,636,964,628      instructions              #    0.61  insn per cycle           (38.92%)
+    25,780,786,097      branches                  #  445.886 M/sec                    (38.77%)
+       374,599,944      branch-misses             #    1.45% of all branches          (38.82%)
+    33,417,198,024      L1-dcache-loads           #  577.961 M/sec                    (38.24%)
+     6,004,624,571      L1-dcache-load-misses     #   17.97% of all L1-dcache hits    (37.74%)
+       972,714,392      LLC-loads                 #   16.823 M/sec                    (30.43%)
+        34,754,464      LLC-load-misses           #    3.57% of all LL-cache hits     (30.23%)
+   <not supported>      L1-icache-loads                                             
+     4,786,099,664      L1-icache-load-misses                                         (30.61%)
+    33,811,427,053      dTLB-loads                #  584.779 M/sec                    (30.95%)
+       138,683,979      dTLB-load-misses          #    0.41% of all dTLB cache hits   (30.80%)
+        49,378,294      iTLB-loads                #    0.854 M/sec                    (30.95%)
+        28,683,113      iTLB-load-misses          #   58.09% of all iTLB cache hits   (31.15%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      42.607770533 seconds time elapsed
+
+       5.935141000 seconds user
+      69.415582000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+         57,780.59 msec task-clock                #    1.359 CPUs utilized          
+           212,083      context-switches          #    0.004 M/sec                  
+            13,004      cpu-migrations            #    0.225 K/sec                  
+         2,880,277      page-faults               #    0.050 M/sec                  
+   193,480,395,090      cycles                    #    3.349 GHz                      (31.60%)
+   117,775,853,918      instructions              #    0.61  insn per cycle           (39.49%)
+    25,552,891,925      branches                  #  442.240 M/sec                    (38.84%)
+       373,573,988      branch-misses             #    1.46% of all branches          (38.83%)
+    33,214,541,359      L1-dcache-loads           #  574.839 M/sec                    (38.55%)
+     6,009,756,576      L1-dcache-load-misses     #   18.09% of all L1-dcache hits    (37.93%)
+       960,882,941      LLC-loads                 #   16.630 M/sec                    (30.37%)
+        30,887,412      LLC-load-misses           #    3.21% of all LL-cache hits     (30.05%)
+   <not supported>      L1-icache-loads                                             
+     4,697,094,335      L1-icache-load-misses                                         (30.05%)
+    33,803,950,648      dTLB-loads                #  585.040 M/sec                    (30.47%)
+       141,905,840      dTLB-load-misses          #    0.42% of all dTLB cache hits   (30.79%)
+        49,652,910      iTLB-loads                #    0.859 M/sec                    (31.12%)
+        38,558,341      iTLB-load-misses          #   77.66% of all iTLB cache hits   (31.41%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      42.532155266 seconds time elapsed
+
+       5.851162000 seconds user
+      69.422537000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+         64,837.39 msec task-clock                #    1.328 CPUs utilized          
+           291,568      context-switches          #    0.004 M/sec                  
+            15,931      cpu-migrations            #    0.246 K/sec                  
+         2,865,324      page-faults               #    0.044 M/sec                  
+   220,342,123,537      cycles                    #    3.398 GHz                      (31.14%)
+   125,577,101,301      instructions              #    0.57  insn per cycle           (38.61%)
+    27,070,814,588      branches                  #  417.519 M/sec                    (38.25%)
+       394,555,038      branch-misses             #    1.46% of all branches          (38.23%)
+    35,231,879,958      L1-dcache-loads           #  543.388 M/sec                    (37.85%)
+     7,117,452,706      L1-dcache-load-misses     #   20.20% of all L1-dcache hits    (37.78%)
+     1,014,953,204      LLC-loads                 #   15.654 M/sec                    (30.94%)
+        48,024,839      LLC-load-misses           #    4.73% of all LL-cache hits     (30.86%)
+   <not supported>      L1-icache-loads                                             
+     4,831,515,793      L1-icache-load-misses                                         (31.05%)
+    35,741,887,099      dTLB-loads                #  551.254 M/sec                    (31.08%)
+       127,642,973      dTLB-load-misses          #    0.36% of all dTLB cache hits   (30.81%)
+        74,010,379      iTLB-loads                #    1.141 M/sec                    (30.91%)
+        31,588,684      iTLB-load-misses          #   42.68% of all iTLB cache hits   (31.10%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      48.817074471 seconds time elapsed
+
+       5.922780000 seconds user
+      77.414666000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+         57,770.80 msec task-clock                #    1.356 CPUs utilized          
+           202,841      context-switches          #    0.004 M/sec                  
+            13,890      cpu-migrations            #    0.240 K/sec                  
+         2,880,277      page-faults               #    0.050 M/sec                  
+   193,366,602,541      cycles                    #    3.347 GHz                      (31.61%)
+   117,472,798,510      instructions              #    0.61  insn per cycle           (39.29%)
+    25,384,784,070      branches                  #  439.405 M/sec                    (38.85%)
+       371,076,410      branch-misses             #    1.46% of all branches          (38.32%)
+    33,026,912,608      L1-dcache-loads           #  571.689 M/sec                    (38.37%)
+     5,963,672,026      L1-dcache-load-misses     #   18.06% of all L1-dcache hits    (38.14%)
+     1,000,801,790      LLC-loads                 #   17.324 M/sec                    (30.59%)
+        28,636,088      LLC-load-misses           #    2.86% of all LL-cache hits     (30.42%)
+   <not supported>      L1-icache-loads                                             
+     4,731,426,645      L1-icache-load-misses                                         (30.48%)
+    33,814,586,203      dTLB-loads                #  585.323 M/sec                    (30.25%)
+       144,592,196      dTLB-load-misses          #    0.43% of all dTLB cache hits   (30.56%)
+        49,913,020      iTLB-loads                #    0.864 M/sec                    (31.26%)
+        41,516,404      iTLB-load-misses          #   83.18% of all iTLB cache hits   (31.15%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      42.593040140 seconds time elapsed
+
+       6.120715000 seconds user
+      69.054146000 seconds sys
+
+

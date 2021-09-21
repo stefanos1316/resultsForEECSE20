@@ -1,0 +1,300 @@
+
+ Performance counter stats for './ctx_clock':
+
+        350,958.55 msec task-clock                #    1.000 CPUs utilized          
+               549      context-switches          #    0.002 K/sec                  
+                10      cpu-migrations            #    0.000 K/sec                  
+             1,218      page-faults               #    0.003 K/sec                  
+ 1,383,796,282,960      cycles                    #    3.943 GHz                      (30.75%)
+   181,495,106,714      instructions              #    0.13  insn per cycle           (38.45%)
+    25,093,935,142      branches                  #   71.501 M/sec                    (38.46%)
+     1,004,601,213      branch-misses             #    4.00% of all branches          (38.47%)
+    56,149,224,231      L1-dcache-loads           #  159.988 M/sec                    (38.48%)
+         9,357,186      L1-dcache-load-misses     #    0.02% of all L1-dcache hits    (38.48%)
+         2,069,021      LLC-loads                 #    0.006 M/sec                    (30.78%)
+           144,424      LLC-load-misses           #    6.98% of all LL-cache hits     (30.78%)
+   <not supported>      L1-icache-loads                                             
+        31,876,818      L1-icache-load-misses                                         (30.77%)
+    56,148,354,202      dTLB-loads                #  159.986 M/sec                    (30.77%)
+     1,000,208,298      dTLB-load-misses          #    1.78% of all dTLB cache hits   (30.76%)
+        11,163,570      iTLB-loads                #    0.032 M/sec                    (30.76%)
+       159,378,964      iTLB-load-misses          # 1427.67% of all iTLB cache hits   (30.75%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+     350.988955487 seconds time elapsed
+
+     260.225632000 seconds user
+      90.736735000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+        350,892.92 msec task-clock                #    1.000 CPUs utilized          
+               583      context-switches          #    0.002 K/sec                  
+                 6      cpu-migrations            #    0.000 K/sec                  
+             1,215      page-faults               #    0.003 K/sec                  
+ 1,383,863,889,907      cycles                    #    3.944 GHz                      (30.75%)
+   181,495,085,419      instructions              #    0.13  insn per cycle           (38.45%)
+    25,093,848,202      branches                  #   71.514 M/sec                    (38.46%)
+     1,004,521,790      branch-misses             #    4.00% of all branches          (38.47%)
+    56,146,960,890      L1-dcache-loads           #  160.012 M/sec                    (38.47%)
+        12,011,732      L1-dcache-load-misses     #    0.02% of all L1-dcache hits    (38.48%)
+         2,392,487      LLC-loads                 #    0.007 M/sec                    (30.78%)
+           138,962      LLC-load-misses           #    5.81% of all LL-cache hits     (30.77%)
+   <not supported>      L1-icache-loads                                             
+        36,002,232      L1-icache-load-misses                                         (30.77%)
+    56,150,094,369      dTLB-loads                #  160.021 M/sec                    (30.77%)
+     1,000,265,512      dTLB-load-misses          #    1.78% of all dTLB cache hits   (30.76%)
+        11,852,154      iTLB-loads                #    0.034 M/sec                    (30.76%)
+       216,741,155      iTLB-load-misses          # 1828.71% of all iTLB cache hits   (30.76%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+     350.905372564 seconds time elapsed
+
+     260.811733000 seconds user
+      90.085337000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+        350,825.22 msec task-clock                #    1.000 CPUs utilized          
+               386      context-switches          #    0.001 K/sec                  
+                11      cpu-migrations            #    0.000 K/sec                  
+             1,214      page-faults               #    0.003 K/sec                  
+ 1,382,774,170,667      cycles                    #    3.941 GHz                      (30.76%)
+   181,494,725,669      instructions              #    0.13  insn per cycle           (38.46%)
+    25,094,355,800      branches                  #   71.530 M/sec                    (38.46%)
+     1,004,659,504      branch-misses             #    4.00% of all branches          (38.47%)
+    56,148,489,251      L1-dcache-loads           #  160.047 M/sec                    (38.48%)
+         8,537,081      L1-dcache-load-misses     #    0.02% of all L1-dcache hits    (38.48%)
+         1,951,513      LLC-loads                 #    0.006 M/sec                    (30.78%)
+           137,007      LLC-load-misses           #    7.02% of all LL-cache hits     (30.77%)
+   <not supported>      L1-icache-loads                                             
+        31,808,872      L1-icache-load-misses                                         (30.76%)
+    56,148,680,738      dTLB-loads                #  160.047 M/sec                    (30.76%)
+     1,000,207,955      dTLB-load-misses          #    1.78% of all dTLB cache hits   (30.76%)
+        11,995,527      iTLB-loads                #    0.034 M/sec                    (30.76%)
+       185,443,229      iTLB-load-misses          # 1545.94% of all iTLB cache hits   (30.76%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+     350.837382781 seconds time elapsed
+
+     260.106613000 seconds user
+      90.721147000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+        333,127.26 msec task-clock                #    1.000 CPUs utilized          
+               911      context-switches          #    0.003 K/sec                  
+                 1      cpu-migrations            #    0.000 K/sec                  
+             1,236      page-faults               #    0.004 K/sec                  
+ 1,379,387,325,504      cycles                    #    4.141 GHz                      (30.75%)
+   181,454,697,457      instructions              #    0.13  insn per cycle           (38.45%)
+    25,087,071,001      branches                  #   75.308 M/sec                    (38.45%)
+     1,003,673,283      branch-misses             #    4.00% of all branches          (38.46%)
+    56,140,047,616      L1-dcache-loads           #  168.524 M/sec                    (38.47%)
+         6,909,374      L1-dcache-load-misses     #    0.01% of all L1-dcache hits    (38.48%)
+         1,315,781      LLC-loads                 #    0.004 M/sec                    (30.78%)
+           136,247      LLC-load-misses           #   10.35% of all LL-cache hits     (30.78%)
+   <not supported>      L1-icache-loads                                             
+        28,285,251      L1-icache-load-misses                                         (30.78%)
+    56,139,221,841      dTLB-loads                #  168.522 M/sec                    (30.77%)
+     1,000,179,107      dTLB-load-misses          #    1.78% of all dTLB cache hits   (30.77%)
+         2,228,196      iTLB-loads                #    0.007 M/sec                    (30.76%)
+       168,377,978      iTLB-load-misses          # 7556.70% of all iTLB cache hits   (30.76%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+     333.141155377 seconds time elapsed
+
+     247.094252000 seconds user
+      86.037018000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+        331,111.04 msec task-clock                #    1.000 CPUs utilized          
+               700      context-switches          #    0.002 K/sec                  
+                 2      cpu-migrations            #    0.000 K/sec                  
+             1,207      page-faults               #    0.004 K/sec                  
+ 1,378,617,695,135      cycles                    #    4.164 GHz                      (30.75%)
+   181,470,221,675      instructions              #    0.13  insn per cycle           (38.45%)
+    25,088,643,834      branches                  #   75.771 M/sec                    (38.45%)
+     1,003,661,701      branch-misses             #    4.00% of all branches          (38.46%)
+    56,140,831,033      L1-dcache-loads           #  169.553 M/sec                    (38.47%)
+         7,281,080      L1-dcache-load-misses     #    0.01% of all L1-dcache hits    (38.48%)
+         1,357,037      LLC-loads                 #    0.004 M/sec                    (30.78%)
+           171,639      LLC-load-misses           #   12.65% of all LL-cache hits     (30.78%)
+   <not supported>      L1-icache-loads                                             
+        28,563,567      L1-icache-load-misses                                         (30.78%)
+    56,139,290,048      dTLB-loads                #  169.548 M/sec                    (30.77%)
+     1,000,204,743      dTLB-load-misses          #    1.78% of all dTLB cache hits   (30.76%)
+         1,416,808      iTLB-loads                #    0.004 M/sec                    (30.76%)
+        90,275,618      iTLB-load-misses          # 6371.76% of all iTLB cache hits   (30.76%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+     331.158948624 seconds time elapsed
+
+     246.085345000 seconds user
+      85.028276000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+        330,861.78 msec task-clock                #    1.000 CPUs utilized          
+               241      context-switches          #    0.001 K/sec                  
+                 4      cpu-migrations            #    0.000 K/sec                  
+             1,226      page-faults               #    0.004 K/sec                  
+ 1,378,051,390,643      cycles                    #    4.165 GHz                      (30.76%)
+   181,457,545,539      instructions              #    0.13  insn per cycle           (38.46%)
+    25,086,205,272      branches                  #   75.821 M/sec                    (38.47%)
+     1,003,506,451      branch-misses             #    4.00% of all branches          (38.48%)
+    56,138,848,101      L1-dcache-loads           #  169.675 M/sec                    (38.48%)
+         6,588,364      L1-dcache-load-misses     #    0.01% of all L1-dcache hits    (38.48%)
+         1,186,113      LLC-loads                 #    0.004 M/sec                    (30.78%)
+           125,145      LLC-load-misses           #   10.55% of all LL-cache hits     (30.77%)
+   <not supported>      L1-icache-loads                                             
+        26,973,137      L1-icache-load-misses                                         (30.76%)
+    56,137,797,101      dTLB-loads                #  169.671 M/sec                    (30.76%)
+     1,000,205,732      dTLB-load-misses          #    1.78% of all dTLB cache hits   (30.76%)
+         1,261,050      iTLB-loads                #    0.004 M/sec                    (30.75%)
+       388,012,361      iTLB-load-misses          # 30768.99% of all iTLB cache hits  (30.75%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+     330.866565041 seconds time elapsed
+
+     245.383904000 seconds user
+      85.479003000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+        331,081.92 msec task-clock                #    1.000 CPUs utilized          
+               276      context-switches          #    0.001 K/sec                  
+                 5      cpu-migrations            #    0.000 K/sec                  
+             1,184      page-faults               #    0.004 K/sec                  
+ 1,378,399,093,712      cycles                    #    4.163 GHz                      (30.76%)
+   181,451,793,362      instructions              #    0.13  insn per cycle           (38.46%)
+    25,085,237,401      branches                  #   75.767 M/sec                    (38.47%)
+     1,003,436,645      branch-misses             #    4.00% of all branches          (38.47%)
+    56,137,600,695      L1-dcache-loads           #  169.558 M/sec                    (38.48%)
+         5,972,837      L1-dcache-load-misses     #    0.01% of all L1-dcache hits    (38.48%)
+         1,093,814      LLC-loads                 #    0.003 M/sec                    (30.77%)
+           138,647      LLC-load-misses           #   12.68% of all LL-cache hits     (30.77%)
+   <not supported>      L1-icache-loads                                             
+        26,359,437      L1-icache-load-misses                                         (30.76%)
+    56,137,937,749      dTLB-loads                #  169.559 M/sec                    (30.76%)
+     1,000,203,509      dTLB-load-misses          #    1.78% of all dTLB cache hits   (30.76%)
+         1,388,937      iTLB-loads                #    0.004 M/sec                    (30.76%)
+       453,207,356      iTLB-load-misses          # 32629.80% of all iTLB cache hits  (30.76%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+     331.086831223 seconds time elapsed
+
+     245.609565000 seconds user
+      85.473731000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+        331,162.33 msec task-clock                #    1.000 CPUs utilized          
+               574      context-switches          #    0.002 K/sec                  
+                 9      cpu-migrations            #    0.000 K/sec                  
+             1,214      page-faults               #    0.004 K/sec                  
+ 1,378,935,711,492      cycles                    #    4.164 GHz                      (30.76%)
+   181,455,442,101      instructions              #    0.13  insn per cycle           (38.45%)
+    25,087,345,887      branches                  #   75.755 M/sec                    (38.46%)
+     1,003,503,000      branch-misses             #    4.00% of all branches          (38.47%)
+    56,139,538,866      L1-dcache-loads           #  169.523 M/sec                    (38.48%)
+         6,309,872      L1-dcache-load-misses     #    0.01% of all L1-dcache hits    (38.48%)
+         1,208,219      LLC-loads                 #    0.004 M/sec                    (30.78%)
+           141,609      LLC-load-misses           #   11.72% of all LL-cache hits     (30.77%)
+   <not supported>      L1-icache-loads                                             
+        26,569,742      L1-icache-load-misses                                         (30.77%)
+    56,140,121,586      dTLB-loads                #  169.524 M/sec                    (30.76%)
+     1,000,192,411      dTLB-load-misses          #    1.78% of all dTLB cache hits   (30.76%)
+         1,366,217      iTLB-loads                #    0.004 M/sec                    (30.76%)
+       179,920,939      iTLB-load-misses          # 13169.28% of all iTLB cache hits  (30.75%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+     331.171937253 seconds time elapsed
+
+     244.922981000 seconds user
+      86.241314000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+        331,223.56 msec task-clock                #    1.000 CPUs utilized          
+               830      context-switches          #    0.003 K/sec                  
+                 1      cpu-migrations            #    0.000 K/sec                  
+             1,222      page-faults               #    0.004 K/sec                  
+ 1,379,054,921,663      cycles                    #    4.164 GHz                      (30.75%)
+   181,461,264,377      instructions              #    0.13  insn per cycle           (38.45%)
+    25,087,470,037      branches                  #   75.742 M/sec                    (38.45%)
+     1,003,580,398      branch-misses             #    4.00% of all branches          (38.46%)
+    56,138,580,412      L1-dcache-loads           #  169.488 M/sec                    (38.47%)
+         6,659,370      L1-dcache-load-misses     #    0.01% of all L1-dcache hits    (38.48%)
+         1,183,762      LLC-loads                 #    0.004 M/sec                    (30.78%)
+           154,119      LLC-load-misses           #   13.02% of all LL-cache hits     (30.78%)
+   <not supported>      L1-icache-loads                                             
+        27,501,370      L1-icache-load-misses                                         (30.78%)
+    56,141,391,358      dTLB-loads                #  169.497 M/sec                    (30.77%)
+     1,000,227,915      dTLB-load-misses          #    1.78% of all dTLB cache hits   (30.76%)
+         1,326,901      iTLB-loads                #    0.004 M/sec                    (30.76%)
+       201,082,966      iTLB-load-misses          # 15154.33% of all iTLB cache hits  (30.75%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+     331.254825171 seconds time elapsed
+
+     245.826932000 seconds user
+      85.399845000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+        330,933.45 msec task-clock                #    1.000 CPUs utilized          
+               638      context-switches          #    0.002 K/sec                  
+                 3      cpu-migrations            #    0.000 K/sec                  
+             1,232      page-faults               #    0.004 K/sec                  
+ 1,378,248,466,444      cycles                    #    4.165 GHz                      (30.75%)
+   181,458,802,843      instructions              #    0.13  insn per cycle           (38.45%)
+    25,086,213,561      branches                  #   75.804 M/sec                    (38.46%)
+     1,003,460,844      branch-misses             #    4.00% of all branches          (38.47%)
+    56,139,507,894      L1-dcache-loads           #  169.640 M/sec                    (38.47%)
+         7,003,220      L1-dcache-load-misses     #    0.01% of all L1-dcache hits    (38.48%)
+         1,255,727      LLC-loads                 #    0.004 M/sec                    (30.78%)
+           145,405      LLC-load-misses           #   11.58% of all LL-cache hits     (30.78%)
+   <not supported>      L1-icache-loads                                             
+        27,572,024      L1-icache-load-misses                                         (30.77%)
+    56,137,481,169      dTLB-loads                #  169.634 M/sec                    (30.76%)
+     1,000,199,278      dTLB-load-misses          #    1.78% of all dTLB cache hits   (30.76%)
+         1,350,738      iTLB-loads                #    0.004 M/sec                    (30.76%)
+       113,514,129      iTLB-load-misses          # 8403.86% of all iTLB cache hits   (30.75%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+     330.949477661 seconds time elapsed
+
+     245.367022000 seconds user
+      85.569388000 seconds sys
+
+

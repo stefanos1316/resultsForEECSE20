@@ -1,0 +1,300 @@
+
+ Performance counter stats for './t-test1':
+
+         11,696.86 msec task-clock                #    1.956 CPUs utilized          
+            11,754      context-switches          #    0.001 M/sec                  
+               373      cpu-migrations            #    0.032 K/sec                  
+         6,848,589      page-faults               #    0.586 M/sec                  
+    46,334,223,164      cycles                    #    3.961 GHz                      (26.15%)
+    37,876,640,790      instructions              #    0.82  insn per cycle           (35.83%)
+     7,569,455,863      branches                  #  647.136 M/sec                    (41.66%)
+       181,560,631      branch-misses             #    2.40% of all branches          (49.62%)
+     8,958,525,916      L1-dcache-loads           #  765.891 M/sec                    (53.89%)
+       973,176,427      L1-dcache-load-misses     #   10.86% of all L1-dcache hits    (50.54%)
+       140,096,355      LLC-loads                 #   11.977 M/sec                    (37.67%)
+        13,917,940      LLC-load-misses           #    9.93% of all LL-cache hits     (30.19%)
+   <not supported>      L1-icache-loads                                             
+       137,957,660      L1-icache-load-misses                                         (26.67%)
+     9,096,190,738      dTLB-loads                #  777.661 M/sec                    (23.30%)
+        24,438,461      dTLB-load-misses          #    0.27% of all dTLB cache hits   (20.67%)
+         1,098,068      iTLB-loads                #    0.094 M/sec                    (20.19%)
+         8,569,034      iTLB-load-misses          #  780.37% of all iTLB cache hits   (19.44%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+       5.981206386 seconds time elapsed
+
+       5.405384000 seconds user
+       6.626346000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+         11,738.04 msec task-clock                #    1.963 CPUs utilized          
+            11,698      context-switches          #    0.997 K/sec                  
+               365      cpu-migrations            #    0.031 K/sec                  
+         6,848,588      page-faults               #    0.583 M/sec                  
+    46,520,209,876      cycles                    #    3.963 GHz                      (30.95%)
+    37,692,371,617      instructions              #    0.81  insn per cycle           (44.10%)
+     7,666,749,463      branches                  #  653.154 M/sec                    (45.38%)
+       184,863,904      branch-misses             #    2.41% of all branches          (44.74%)
+     8,976,243,379      L1-dcache-loads           #  764.714 M/sec                    (43.63%)
+       973,940,576      L1-dcache-load-misses     #   10.85% of all L1-dcache hits    (43.67%)
+       142,303,648      LLC-loads                 #   12.123 M/sec                    (22.10%)
+        14,295,673      LLC-load-misses           #   10.05% of all LL-cache hits     (18.22%)
+   <not supported>      L1-icache-loads                                             
+       141,176,667      L1-icache-load-misses                                         (19.76%)
+     8,892,946,625      dTLB-loads                #  757.618 M/sec                    (25.38%)
+        23,708,421      dTLB-load-misses          #    0.27% of all dTLB cache hits   (32.52%)
+         1,042,729      iTLB-loads                #    0.089 M/sec                    (37.04%)
+         7,801,631      iTLB-load-misses          #  748.19% of all iTLB cache hits   (36.62%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+       5.979286952 seconds time elapsed
+
+       5.327443000 seconds user
+       6.745132000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+         11,739.47 msec task-clock                #    1.962 CPUs utilized          
+            11,742      context-switches          #    0.001 M/sec                  
+               334      cpu-migrations            #    0.028 K/sec                  
+         6,848,589      page-faults               #    0.583 M/sec                  
+    46,515,163,106      cycles                    #    3.962 GHz                      (26.84%)
+    37,833,580,584      instructions              #    0.81  insn per cycle           (33.92%)
+     7,607,664,347      branches                  #  648.041 M/sec                    (37.45%)
+       186,634,133      branch-misses             #    2.45% of all branches          (37.27%)
+     9,027,044,642      L1-dcache-loads           #  768.948 M/sec                    (32.96%)
+       968,913,827      L1-dcache-load-misses     #   10.73% of all L1-dcache hits    (33.46%)
+       130,176,575      LLC-loads                 #   11.089 M/sec                    (33.61%)
+        13,980,174      LLC-load-misses           #   10.74% of all LL-cache hits     (41.54%)
+   <not supported>      L1-icache-loads                                             
+       141,548,269      L1-icache-load-misses                                         (42.36%)
+     9,033,427,699      dTLB-loads                #  769.492 M/sec                    (39.70%)
+        26,461,688      dTLB-load-misses          #    0.29% of all dTLB cache hits   (28.94%)
+         1,069,637      iTLB-loads                #    0.091 M/sec                    (21.20%)
+         8,105,483      iTLB-load-misses          #  757.78% of all iTLB cache hits   (24.68%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+       5.982161816 seconds time elapsed
+
+       5.256888000 seconds user
+       6.819420000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+         11,738.59 msec task-clock                #    1.964 CPUs utilized          
+            11,633      context-switches          #    0.991 K/sec                  
+               325      cpu-migrations            #    0.028 K/sec                  
+         6,848,585      page-faults               #    0.583 M/sec                  
+    46,498,782,720      cycles                    #    3.961 GHz                      (22.07%)
+    37,918,441,061      instructions              #    0.82  insn per cycle           (28.41%)
+     7,536,201,933      branches                  #  642.002 M/sec                    (32.85%)
+       183,011,768      branch-misses             #    2.43% of all branches          (37.35%)
+     8,894,711,635      L1-dcache-loads           #  757.732 M/sec                    (44.54%)
+       976,742,844      L1-dcache-load-misses     #   10.98% of all L1-dcache hits    (48.60%)
+       138,551,797      LLC-loads                 #   11.803 M/sec                    (38.47%)
+        14,291,949      LLC-load-misses           #   10.32% of all LL-cache hits     (37.04%)
+   <not supported>      L1-icache-loads                                             
+       137,396,380      L1-icache-load-misses                                         (31.56%)
+     8,968,521,398      dTLB-loads                #  764.020 M/sec                    (29.33%)
+        24,986,351      dTLB-load-misses          #    0.28% of all dTLB cache hits   (28.68%)
+         1,076,767      iTLB-loads                #    0.092 M/sec                    (25.61%)
+         7,817,729      iTLB-load-misses          #  726.04% of all iTLB cache hits   (23.90%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+       5.975548150 seconds time elapsed
+
+       5.094874000 seconds user
+       6.977675000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+         11,739.88 msec task-clock                #    1.963 CPUs utilized          
+            11,714      context-switches          #    0.998 K/sec                  
+               344      cpu-migrations            #    0.029 K/sec                  
+         6,848,589      page-faults               #    0.583 M/sec                  
+    46,600,976,441      cycles                    #    3.969 GHz                      (28.72%)
+    37,615,381,674      instructions              #    0.81  insn per cycle           (37.39%)
+     7,636,318,172      branches                  #  650.460 M/sec                    (39.87%)
+       184,340,466      branch-misses             #    2.41% of all branches          (40.47%)
+     8,962,449,008      L1-dcache-loads           #  763.419 M/sec                    (41.23%)
+       969,729,037      L1-dcache-load-misses     #   10.82% of all L1-dcache hits    (44.93%)
+       137,702,443      LLC-loads                 #   11.729 M/sec                    (32.51%)
+        14,421,686      LLC-load-misses           #   10.47% of all LL-cache hits     (30.47%)
+   <not supported>      L1-icache-loads                                             
+       138,780,133      L1-icache-load-misses                                         (27.40%)
+     8,984,098,862      dTLB-loads                #  765.263 M/sec                    (26.35%)
+        24,448,710      dTLB-load-misses          #    0.27% of all dTLB cache hits   (27.62%)
+         1,054,594      iTLB-loads                #    0.090 M/sec                    (29.06%)
+         7,925,960      iTLB-load-misses          #  751.57% of all iTLB cache hits   (31.37%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+       5.980560818 seconds time elapsed
+
+       5.134757000 seconds user
+       6.942030000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+         11,737.69 msec task-clock                #    1.963 CPUs utilized          
+            11,770      context-switches          #    0.001 M/sec                  
+               341      cpu-migrations            #    0.029 K/sec                  
+         6,848,589      page-faults               #    0.583 M/sec                  
+    46,530,710,142      cycles                    #    3.964 GHz                      (30.51%)
+    37,988,145,364      instructions              #    0.82  insn per cycle           (36.07%)
+     7,796,178,146      branches                  #  664.200 M/sec                    (30.02%)
+       181,248,526      branch-misses             #    2.32% of all branches          (29.44%)
+     8,889,908,957      L1-dcache-loads           #  757.381 M/sec                    (35.72%)
+       970,594,221      L1-dcache-load-misses     #   10.92% of all L1-dcache hits    (40.82%)
+       140,807,883      LLC-loads                 #   11.996 M/sec                    (31.14%)
+        14,062,755      LLC-load-misses           #    9.99% of all LL-cache hits     (29.63%)
+   <not supported>      L1-icache-loads                                             
+       140,035,823      L1-icache-load-misses                                         (28.57%)
+     8,966,338,053      dTLB-loads                #  763.893 M/sec                    (28.67%)
+        23,310,675      dTLB-load-misses          #    0.26% of all dTLB cache hits   (38.85%)
+         1,068,377      iTLB-loads                #    0.091 M/sec                    (40.93%)
+         8,985,678      iTLB-load-misses          #  841.06% of all iTLB cache hits   (35.72%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+       5.979782497 seconds time elapsed
+
+       5.301361000 seconds user
+       6.773962000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+         11,738.66 msec task-clock                #    1.963 CPUs utilized          
+            11,796      context-switches          #    0.001 M/sec                  
+               378      cpu-migrations            #    0.032 K/sec                  
+         6,848,587      page-faults               #    0.583 M/sec                  
+    46,502,700,146      cycles                    #    3.962 GHz                      (35.67%)
+    37,814,498,639      instructions              #    0.81  insn per cycle           (47.47%)
+     7,659,721,741      branches                  #  652.521 M/sec                    (47.78%)
+       182,578,378      branch-misses             #    2.38% of all branches          (50.15%)
+     8,994,577,267      L1-dcache-loads           #  766.236 M/sec                    (48.88%)
+       977,338,535      L1-dcache-load-misses     #   10.87% of all L1-dcache hits    (40.91%)
+       137,434,261      LLC-loads                 #   11.708 M/sec                    (31.01%)
+        14,595,584      LLC-load-misses           #   10.62% of all LL-cache hits     (26.80%)
+   <not supported>      L1-icache-loads                                             
+       139,107,058      L1-icache-load-misses                                         (27.10%)
+     9,100,125,362      dTLB-loads                #  775.227 M/sec                    (23.42%)
+        24,576,588      dTLB-load-misses          #    0.27% of all dTLB cache hits   (21.21%)
+         1,050,301      iTLB-loads                #    0.089 M/sec                    (23.05%)
+         7,949,541      iTLB-load-misses          #  756.88% of all iTLB cache hits   (24.02%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+       5.979798121 seconds time elapsed
+
+       5.299515000 seconds user
+       6.774972000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+         11,729.68 msec task-clock                #    1.963 CPUs utilized          
+            11,705      context-switches          #    0.998 K/sec                  
+               361      cpu-migrations            #    0.031 K/sec                  
+         6,848,587      page-faults               #    0.584 M/sec                  
+    46,489,408,293      cycles                    #    3.963 GHz                      (30.99%)
+    37,521,608,686      instructions              #    0.81  insn per cycle           (39.87%)
+     7,630,017,097      branches                  #  650.488 M/sec                    (43.22%)
+       182,139,395      branch-misses             #    2.39% of all branches          (47.26%)
+     9,003,728,538      L1-dcache-loads           #  767.602 M/sec                    (45.56%)
+       967,793,302      L1-dcache-load-misses     #   10.75% of all L1-dcache hits    (45.87%)
+       138,393,081      LLC-loads                 #   11.799 M/sec                    (33.35%)
+        14,161,224      LLC-load-misses           #   10.23% of all LL-cache hits     (32.56%)
+   <not supported>      L1-icache-loads                                             
+       138,050,857      L1-icache-load-misses                                         (29.03%)
+     9,108,315,241      dTLB-loads                #  776.519 M/sec                    (23.15%)
+        24,278,349      dTLB-load-misses          #    0.27% of all dTLB cache hits   (23.43%)
+         1,107,747      iTLB-loads                #    0.094 M/sec                    (20.18%)
+         8,160,561      iTLB-load-misses          #  736.68% of all iTLB cache hits   (25.41%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+       5.974753926 seconds time elapsed
+
+       5.300976000 seconds user
+       6.764287000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+         11,717.66 msec task-clock                #    1.963 CPUs utilized          
+            11,763      context-switches          #    0.001 M/sec                  
+               323      cpu-migrations            #    0.028 K/sec                  
+         6,848,586      page-faults               #    0.584 M/sec                  
+    46,682,589,443      cycles                    #    3.984 GHz                      (31.51%)
+    38,151,500,549      instructions              #    0.82  insn per cycle           (39.99%)
+     7,559,889,499      branches                  #  645.170 M/sec                    (44.58%)
+       188,798,952      branch-misses             #    2.50% of all branches          (42.59%)
+     8,950,456,297      L1-dcache-loads           #  763.843 M/sec                    (38.82%)
+       968,509,649      L1-dcache-load-misses     #   10.82% of all L1-dcache hits    (39.46%)
+       145,468,515      LLC-loads                 #   12.414 M/sec                    (25.05%)
+        13,905,316      LLC-load-misses           #    9.56% of all LL-cache hits     (23.85%)
+   <not supported>      L1-icache-loads                                             
+       139,929,510      L1-icache-load-misses                                         (26.29%)
+     8,960,687,675      dTLB-loads                #  764.716 M/sec                    (29.03%)
+        24,675,382      dTLB-load-misses          #    0.28% of all dTLB cache hits   (30.37%)
+         1,106,385      iTLB-loads                #    0.094 M/sec                    (33.56%)
+         7,894,445      iTLB-load-misses          #  713.54% of all iTLB cache hits   (34.89%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+       5.970295334 seconds time elapsed
+
+       5.208714000 seconds user
+       6.846317000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+         11,729.39 msec task-clock                #    1.963 CPUs utilized          
+            11,718      context-switches          #    0.999 K/sec                  
+               334      cpu-migrations            #    0.028 K/sec                  
+         6,848,591      page-faults               #    0.584 M/sec                  
+    46,530,844,811      cycles                    #    3.967 GHz                      (25.79%)
+    38,297,127,617      instructions              #    0.82  insn per cycle           (33.41%)
+     7,534,881,885      branches                  #  642.393 M/sec                    (35.43%)
+       183,250,586      branch-misses             #    2.43% of all branches          (39.01%)
+     8,924,601,126      L1-dcache-loads           #  760.875 M/sec                    (41.71%)
+       966,419,892      L1-dcache-load-misses     #   10.83% of all L1-dcache hits    (47.18%)
+       140,189,624      LLC-loads                 #   11.952 M/sec                    (36.97%)
+        14,306,257      LLC-load-misses           #   10.20% of all LL-cache hits     (32.12%)
+   <not supported>      L1-icache-loads                                             
+       138,810,048      L1-icache-load-misses                                         (26.89%)
+     8,959,643,097      dTLB-loads                #  763.863 M/sec                    (27.03%)
+        24,706,494      dTLB-load-misses          #    0.28% of all dTLB cache hits   (27.60%)
+         1,041,338      iTLB-loads                #    0.089 M/sec                    (28.88%)
+         7,971,389      iTLB-load-misses          #  765.49% of all iTLB cache hits   (31.40%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+       5.976575425 seconds time elapsed
+
+       5.112723000 seconds user
+       6.953948000 seconds sys
+
+

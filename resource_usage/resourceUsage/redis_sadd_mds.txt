@@ -1,0 +1,300 @@
+
+ Performance counter stats for './redis sadd':
+
+         60,759.43 msec task-clock                #    0.677 CPUs utilized          
+           257,452      context-switches          #    0.004 M/sec                  
+                72      cpu-migrations            #    0.001 K/sec                  
+            15,845      page-faults               #    0.261 K/sec                  
+   245,232,984,342      cycles                    #    4.036 GHz                      (30.73%)
+   206,454,784,000      instructions              #    0.84  insn per cycle           (38.47%)
+    43,161,083,250      branches                  #  710.360 M/sec                    (38.69%)
+     1,169,509,593      branch-misses             #    2.71% of all branches          (38.47%)
+    61,016,868,197      L1-dcache-loads           # 1004.237 M/sec                    (38.63%)
+     4,341,007,833      L1-dcache-load-misses     #    7.11% of all L1-dcache hits    (38.45%)
+     1,272,623,076      LLC-loads                 #   20.945 M/sec                    (30.60%)
+         1,696,265      LLC-load-misses           #    0.13% of all LL-cache hits     (30.68%)
+   <not supported>      L1-icache-loads                                             
+    14,978,978,009      L1-icache-load-misses                                         (30.62%)
+    61,025,856,713      dTLB-loads                # 1004.385 M/sec                    (30.82%)
+        18,132,775      dTLB-load-misses          #    0.03% of all dTLB cache hits   (30.70%)
+        11,006,897      iTLB-loads                #    0.181 M/sec                    (30.85%)
+         4,911,649      iTLB-load-misses          #   44.62% of all iTLB cache hits   (30.74%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      89.703977395 seconds time elapsed
+
+       9.586822000 seconds user
+      52.954071000 seconds sys
+
+
+
+ Performance counter stats for './redis sadd':
+
+         60,438.88 msec task-clock                #    0.671 CPUs utilized          
+           256,123      context-switches          #    0.004 M/sec                  
+                74      cpu-migrations            #    0.001 K/sec                  
+            10,735      page-faults               #    0.178 K/sec                  
+   243,977,419,800      cycles                    #    4.037 GHz                      (30.59%)
+   206,113,135,082      instructions              #    0.84  insn per cycle           (38.41%)
+    43,082,664,994      branches                  #  712.830 M/sec                    (38.35%)
+     1,160,723,811      branch-misses             #    2.69% of all branches          (38.16%)
+    60,896,210,012      L1-dcache-loads           # 1007.567 M/sec                    (38.05%)
+     4,357,168,494      L1-dcache-load-misses     #    7.16% of all L1-dcache hits    (38.35%)
+     1,254,368,803      LLC-loads                 #   20.754 M/sec                    (30.76%)
+         1,411,869      LLC-load-misses           #    0.11% of all LL-cache hits     (30.85%)
+   <not supported>      L1-icache-loads                                             
+    14,773,090,226      L1-icache-load-misses                                         (31.01%)
+    60,969,547,224      dTLB-loads                # 1008.780 M/sec                    (31.06%)
+        19,916,157      dTLB-load-misses          #    0.03% of all dTLB cache hits   (30.89%)
+        11,202,042      iTLB-loads                #    0.185 M/sec                    (30.99%)
+         8,976,725      iTLB-load-misses          #   80.13% of all iTLB cache hits   (30.94%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      90.016453188 seconds time elapsed
+
+       9.013054000 seconds user
+      53.454215000 seconds sys
+
+
+
+ Performance counter stats for './redis sadd':
+
+         60,786.24 msec task-clock                #    0.675 CPUs utilized          
+           256,464      context-switches          #    0.004 M/sec                  
+                56      cpu-migrations            #    0.001 K/sec                  
+             9,715      page-faults               #    0.160 K/sec                  
+   245,404,340,936      cycles                    #    4.037 GHz                      (31.12%)
+   206,241,925,682      instructions              #    0.84  insn per cycle           (38.71%)
+    43,099,986,120      branches                  #  709.042 M/sec                    (38.59%)
+     1,174,974,679      branch-misses             #    2.73% of all branches          (38.59%)
+    60,912,251,356      L1-dcache-loads           # 1002.073 M/sec                    (38.25%)
+     4,241,070,118      L1-dcache-load-misses     #    6.96% of all L1-dcache hits    (38.03%)
+     1,229,086,939      LLC-loads                 #   20.220 M/sec                    (30.55%)
+         1,569,838      LLC-load-misses           #    0.13% of all LL-cache hits     (30.52%)
+   <not supported>      L1-icache-loads                                             
+    15,020,725,865      L1-icache-load-misses                                         (30.73%)
+    60,990,087,969      dTLB-loads                # 1003.353 M/sec                    (30.85%)
+        19,033,183      dTLB-load-misses          #    0.03% of all dTLB cache hits   (30.86%)
+        10,562,235      iTLB-loads                #    0.174 M/sec                    (30.89%)
+         7,925,771      iTLB-load-misses          #   75.04% of all iTLB cache hits   (31.02%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      90.072015987 seconds time elapsed
+
+       9.229397000 seconds user
+      53.451066000 seconds sys
+
+
+
+ Performance counter stats for './redis sadd':
+
+         60,097.40 msec task-clock                #    0.665 CPUs utilized          
+           254,492      context-switches          #    0.004 M/sec                  
+                45      cpu-migrations            #    0.001 K/sec                  
+             8,694      page-faults               #    0.145 K/sec                  
+   242,540,108,044      cycles                    #    4.036 GHz                      (30.65%)
+   205,932,771,608      instructions              #    0.85  insn per cycle           (38.32%)
+    43,047,849,997      branches                  #  716.301 M/sec                    (38.64%)
+     1,166,437,363      branch-misses             #    2.71% of all branches          (38.80%)
+    60,848,053,534      L1-dcache-loads           # 1012.491 M/sec                    (38.69%)
+     4,271,824,083      L1-dcache-load-misses     #    7.02% of all L1-dcache hits    (38.59%)
+     1,244,710,214      LLC-loads                 #   20.712 M/sec                    (30.71%)
+         1,508,752      LLC-load-misses           #    0.12% of all LL-cache hits     (30.49%)
+   <not supported>      L1-icache-loads                                             
+    14,808,988,606      L1-icache-load-misses                                         (30.53%)
+    60,931,212,465      dTLB-loads                # 1013.874 M/sec                    (30.77%)
+        20,858,488      dTLB-load-misses          #    0.03% of all dTLB cache hits   (30.65%)
+        10,823,347      iTLB-loads                #    0.180 M/sec                    (30.72%)
+         6,926,567      iTLB-load-misses          #   64.00% of all iTLB cache hits   (30.78%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      90.339081759 seconds time elapsed
+
+       8.916411000 seconds user
+      53.242374000 seconds sys
+
+
+
+ Performance counter stats for './redis sadd':
+
+         61,573.31 msec task-clock                #    0.684 CPUs utilized          
+           258,022      context-switches          #    0.004 M/sec                  
+                52      cpu-migrations            #    0.001 K/sec                  
+             5,112      page-faults               #    0.083 K/sec                  
+   248,470,127,797      cycles                    #    4.035 GHz                      (30.75%)
+   206,249,613,372      instructions              #    0.83  insn per cycle           (38.52%)
+    43,120,764,362      branches                  #  700.316 M/sec                    (38.51%)
+     1,162,933,845      branch-misses             #    2.70% of all branches          (38.61%)
+    60,952,867,674      L1-dcache-loads           #  989.924 M/sec                    (38.49%)
+     4,354,394,767      L1-dcache-load-misses     #    7.14% of all L1-dcache hits    (38.63%)
+     1,273,621,538      LLC-loads                 #   20.685 M/sec                    (30.73%)
+         1,532,785      LLC-load-misses           #    0.12% of all LL-cache hits     (30.60%)
+   <not supported>      L1-icache-loads                                             
+    14,862,569,842      L1-icache-load-misses                                         (30.58%)
+    61,017,425,057      dTLB-loads                #  990.972 M/sec                    (30.62%)
+        16,695,873      dTLB-load-misses          #    0.03% of all dTLB cache hits   (30.76%)
+        11,080,732      iTLB-loads                #    0.180 M/sec                    (30.79%)
+        80,042,293      iTLB-load-misses          #  722.36% of all iTLB cache hits   (30.93%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      89.989973870 seconds time elapsed
+
+       9.880902000 seconds user
+      53.402930000 seconds sys
+
+
+
+ Performance counter stats for './redis sadd':
+
+         60,828.84 msec task-clock                #    0.676 CPUs utilized          
+           256,817      context-switches          #    0.004 M/sec                  
+                54      cpu-migrations            #    0.001 K/sec                  
+             3,065      page-faults               #    0.050 K/sec                  
+   245,399,151,112      cycles                    #    4.034 GHz                      (30.65%)
+   206,122,062,852      instructions              #    0.84  insn per cycle           (38.39%)
+    43,081,890,967      branches                  #  708.248 M/sec                    (38.35%)
+     1,174,816,697      branch-misses             #    2.73% of all branches          (38.23%)
+    60,917,584,940      L1-dcache-loads           # 1001.459 M/sec                    (38.42%)
+     4,288,318,081      L1-dcache-load-misses     #    7.04% of all L1-dcache hits    (38.40%)
+     1,233,308,302      LLC-loads                 #   20.275 M/sec                    (30.67%)
+         1,516,501      LLC-load-misses           #    0.12% of all LL-cache hits     (30.76%)
+   <not supported>      L1-icache-loads                                             
+    15,103,628,561      L1-icache-load-misses                                         (30.59%)
+    61,027,644,048      dTLB-loads                # 1003.268 M/sec                    (30.94%)
+        18,033,734      dTLB-load-misses          #    0.03% of all dTLB cache hits   (30.97%)
+        10,543,608      iTLB-loads                #    0.173 M/sec                    (31.02%)
+         2,912,714      iTLB-load-misses          #   27.63% of all iTLB cache hits   (30.99%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      90.033250004 seconds time elapsed
+
+       9.572426000 seconds user
+      53.135184000 seconds sys
+
+
+
+ Performance counter stats for './redis sadd':
+
+         60,560.38 msec task-clock                #    0.672 CPUs utilized          
+           256,087      context-switches          #    0.004 M/sec                  
+                75      cpu-migrations            #    0.001 K/sec                  
+             2,558      page-faults               #    0.042 K/sec                  
+   244,351,914,547      cycles                    #    4.035 GHz                      (30.71%)
+   205,883,986,040      instructions              #    0.84  insn per cycle           (38.53%)
+    43,032,340,633      branches                  #  710.569 M/sec                    (38.57%)
+     1,168,897,796      branch-misses             #    2.72% of all branches          (38.43%)
+    60,827,653,907      L1-dcache-loads           # 1004.413 M/sec                    (38.53%)
+     4,310,583,977      L1-dcache-load-misses     #    7.09% of all L1-dcache hits    (38.51%)
+     1,283,132,409      LLC-loads                 #   21.188 M/sec                    (30.73%)
+         1,299,725      LLC-load-misses           #    0.10% of all LL-cache hits     (30.74%)
+   <not supported>      L1-icache-loads                                             
+    14,819,583,544      L1-icache-load-misses                                         (30.75%)
+    60,916,864,754      dTLB-loads                # 1005.886 M/sec                    (30.78%)
+        19,688,880      dTLB-load-misses          #    0.03% of all dTLB cache hits   (30.70%)
+        11,415,887      iTLB-loads                #    0.189 M/sec                    (30.83%)
+         7,257,655      iTLB-load-misses          #   63.58% of all iTLB cache hits   (30.72%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      90.160095987 seconds time elapsed
+
+       9.193126000 seconds user
+      53.283854000 seconds sys
+
+
+
+ Performance counter stats for './redis sadd':
+
+         60,877.23 msec task-clock                #    0.678 CPUs utilized          
+           257,314      context-switches          #    0.004 M/sec                  
+                58      cpu-migrations            #    0.001 K/sec                  
+             2,562      page-faults               #    0.042 K/sec                  
+   245,537,521,024      cycles                    #    4.033 GHz                      (30.87%)
+   206,139,634,759      instructions              #    0.84  insn per cycle           (38.63%)
+    43,106,707,764      branches                  #  708.092 M/sec                    (38.97%)
+     1,167,612,144      branch-misses             #    2.71% of all branches          (38.81%)
+    60,924,778,700      L1-dcache-loads           # 1000.781 M/sec                    (38.66%)
+     4,308,566,893      L1-dcache-load-misses     #    7.07% of all L1-dcache hits    (38.61%)
+     1,248,403,494      LLC-loads                 #   20.507 M/sec                    (30.73%)
+         1,544,515      LLC-load-misses           #    0.12% of all LL-cache hits     (30.72%)
+   <not supported>      L1-icache-loads                                             
+    14,863,797,566      L1-icache-load-misses                                         (30.63%)
+    60,974,901,467      dTLB-loads                # 1001.604 M/sec                    (30.52%)
+        17,478,244      dTLB-load-misses          #    0.03% of all dTLB cache hits   (30.31%)
+        12,293,271      iTLB-loads                #    0.202 M/sec                    (30.48%)
+         3,685,976      iTLB-load-misses          #   29.98% of all iTLB cache hits   (30.71%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      89.855637820 seconds time elapsed
+
+       9.064123000 seconds user
+      53.686934000 seconds sys
+
+
+
+ Performance counter stats for './redis sadd':
+
+         60,761.05 msec task-clock                #    0.675 CPUs utilized          
+           256,855      context-switches          #    0.004 M/sec                  
+                50      cpu-migrations            #    0.001 K/sec                  
+             1,532      page-faults               #    0.025 K/sec                  
+   245,155,128,569      cycles                    #    4.035 GHz                      (31.03%)
+   206,262,715,733      instructions              #    0.84  insn per cycle           (38.50%)
+    43,121,893,155      branches                  #  709.696 M/sec                    (38.43%)
+     1,174,533,950      branch-misses             #    2.72% of all branches          (38.32%)
+    60,953,441,924      L1-dcache-loads           # 1003.166 M/sec                    (38.35%)
+     4,293,302,193      L1-dcache-load-misses     #    7.04% of all L1-dcache hits    (38.41%)
+     1,250,594,039      LLC-loads                 #   20.582 M/sec                    (31.12%)
+         1,407,669      LLC-load-misses           #    0.11% of all LL-cache hits     (31.03%)
+   <not supported>      L1-icache-loads                                             
+    15,137,935,612      L1-icache-load-misses                                         (30.75%)
+    60,992,956,063      dTLB-loads                # 1003.817 M/sec                    (30.56%)
+        18,925,347      dTLB-load-misses          #    0.03% of all dTLB cache hits   (30.44%)
+        14,234,942      iTLB-loads                #    0.234 M/sec                    (30.66%)
+         3,627,246      iTLB-load-misses          #   25.48% of all iTLB cache hits   (30.89%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      90.023443528 seconds time elapsed
+
+       9.478393000 seconds user
+      53.139313000 seconds sys
+
+
+
+ Performance counter stats for './redis sadd':
+
+         60,944.47 msec task-clock                #    0.679 CPUs utilized          
+           257,238      context-switches          #    0.004 M/sec                  
+                58      cpu-migrations            #    0.001 K/sec                  
+             1,535      page-faults               #    0.025 K/sec                  
+   245,946,200,375      cycles                    #    4.036 GHz                      (30.90%)
+   206,281,678,499      instructions              #    0.84  insn per cycle           (38.54%)
+    43,123,082,692      branches                  #  707.580 M/sec                    (38.59%)
+     1,175,738,228      branch-misses             #    2.73% of all branches          (38.53%)
+    60,937,878,165      L1-dcache-loads           #  999.892 M/sec                    (38.54%)
+     4,334,798,614      L1-dcache-load-misses     #    7.11% of all L1-dcache hits    (38.35%)
+     1,258,999,147      LLC-loads                 #   20.658 M/sec                    (30.57%)
+         1,463,659      LLC-load-misses           #    0.12% of all LL-cache hits     (30.58%)
+   <not supported>      L1-icache-loads                                             
+    14,976,553,355      L1-icache-load-misses                                         (30.74%)
+    60,992,554,454      dTLB-loads                # 1000.789 M/sec                    (30.75%)
+        18,133,807      dTLB-load-misses          #    0.03% of all dTLB cache hits   (30.84%)
+        10,332,563      iTLB-loads                #    0.170 M/sec                    (30.88%)
+        18,483,492      iTLB-load-misses          #  178.89% of all iTLB cache hits   (30.72%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      89.771724808 seconds time elapsed
+
+       9.489042000 seconds user
+      53.253505000 seconds sys
+
+

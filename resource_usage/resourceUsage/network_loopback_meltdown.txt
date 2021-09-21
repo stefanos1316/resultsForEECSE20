@@ -1,0 +1,330 @@
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 50.9324 s, 2.1 GB/s
+
+ Performance counter stats for './network-loopback':
+
+        105,431.39 msec task-clock                #    1.757 CPUs utilized          
+         5,739,614      context-switches          #    0.054 M/sec                  
+               102      cpu-migrations            #    0.001 K/sec                  
+               948      page-faults               #    0.009 K/sec                  
+   385,761,035,958      cycles                    #    3.659 GHz                      (30.82%)
+   303,818,142,333      instructions              #    0.79  insn per cycle           (38.51%)
+    64,480,901,463      branches                  #  611.591 M/sec                    (38.55%)
+     1,116,846,782      branch-misses             #    1.73% of all branches          (38.49%)
+    74,229,246,244      L1-dcache-loads           #  704.053 M/sec                    (38.57%)
+    17,019,205,467      L1-dcache-load-misses     #   22.93% of all L1-dcache hits    (38.47%)
+     4,362,594,938      LLC-loads                 #   41.379 M/sec                    (30.77%)
+         2,131,274      LLC-load-misses           #    0.05% of all LL-cache hits     (30.77%)
+   <not supported>      L1-icache-loads                                             
+    10,714,132,765      L1-icache-load-misses                                         (30.76%)
+    74,656,419,999      dTLB-loads                #  708.104 M/sec                    (30.71%)
+         3,888,981      dTLB-load-misses          #    0.01% of all dTLB cache hits   (30.68%)
+        20,021,318      iTLB-loads                #    0.190 M/sec                    (30.74%)
+         3,147,519      iTLB-load-misses          #   15.72% of all iTLB cache hits   (30.68%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      59.999369299 seconds time elapsed
+
+      14.689797000 seconds user
+     106.651912000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 51.2445 s, 2.0 GB/s
+
+ Performance counter stats for './network-loopback':
+
+        106,025.55 msec task-clock                #    1.760 CPUs utilized          
+         5,760,670      context-switches          #    0.054 M/sec                  
+               146      cpu-migrations            #    0.001 K/sec                  
+               960      page-faults               #    0.009 K/sec                  
+   387,644,379,212      cycles                    #    3.656 GHz                      (30.96%)
+   303,843,428,053      instructions              #    0.78  insn per cycle           (38.56%)
+    64,461,105,804      branches                  #  607.977 M/sec                    (38.49%)
+     1,115,400,534      branch-misses             #    1.73% of all branches          (38.43%)
+    74,032,574,427      L1-dcache-loads           #  698.252 M/sec                    (38.24%)
+    17,322,288,299      L1-dcache-load-misses     #   23.40% of all L1-dcache hits    (38.37%)
+     4,338,233,196      LLC-loads                 #   40.917 M/sec                    (30.72%)
+         2,247,368      LLC-load-misses           #    0.05% of all LL-cache hits     (30.62%)
+   <not supported>      L1-icache-loads                                             
+    10,765,779,833      L1-icache-load-misses                                         (30.72%)
+    74,674,771,132      dTLB-loads                #  704.309 M/sec                    (30.67%)
+         5,172,808      dTLB-load-misses          #    0.01% of all dTLB cache hits   (30.79%)
+        20,236,155      iTLB-loads                #    0.191 M/sec                    (30.94%)
+         1,013,750      iTLB-load-misses          #    5.01% of all iTLB cache hits   (31.04%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      60.254543113 seconds time elapsed
+
+      14.823758000 seconds user
+     107.211669000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 51.0512 s, 2.1 GB/s
+
+ Performance counter stats for './network-loopback':
+
+        105,760.51 msec task-clock                #    1.761 CPUs utilized          
+         5,735,514      context-switches          #    0.054 M/sec                  
+               116      cpu-migrations            #    0.001 K/sec                  
+               942      page-faults               #    0.009 K/sec                  
+   385,982,200,483      cycles                    #    3.650 GHz                      (30.83%)
+   303,564,420,744      instructions              #    0.79  insn per cycle           (38.63%)
+    64,382,488,629      branches                  #  608.757 M/sec                    (38.48%)
+     1,113,227,943      branch-misses             #    1.73% of all branches          (38.65%)
+    74,167,325,090      L1-dcache-loads           #  701.276 M/sec                    (38.39%)
+    17,329,833,853      L1-dcache-load-misses     #   23.37% of all L1-dcache hits    (38.45%)
+     4,292,332,629      LLC-loads                 #   40.585 M/sec                    (30.81%)
+         2,986,886      LLC-load-misses           #    0.07% of all LL-cache hits     (30.70%)
+   <not supported>      L1-icache-loads                                             
+    10,795,158,807      L1-icache-load-misses                                         (30.84%)
+    74,669,492,842      dTLB-loads                #  706.024 M/sec                    (30.72%)
+         2,185,125      dTLB-load-misses          #    0.00% of all dTLB cache hits   (30.71%)
+        20,478,637      iTLB-loads                #    0.194 M/sec                    (30.65%)
+        13,152,635      iTLB-load-misses          #   64.23% of all iTLB cache hits   (30.77%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      60.061355686 seconds time elapsed
+
+      14.783486000 seconds user
+     106.831215000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 51.1297 s, 2.1 GB/s
+
+ Performance counter stats for './network-loopback':
+
+        105,685.62 msec task-clock                #    1.757 CPUs utilized          
+         5,753,103      context-switches          #    0.054 M/sec                  
+               119      cpu-migrations            #    0.001 K/sec                  
+               957      page-faults               #    0.009 K/sec                  
+   386,801,032,557      cycles                    #    3.660 GHz                      (30.82%)
+   303,641,673,356      instructions              #    0.79  insn per cycle           (38.52%)
+    64,453,511,312      branches                  #  609.861 M/sec                    (38.49%)
+     1,118,097,390      branch-misses             #    1.73% of all branches          (38.66%)
+    74,094,103,767      L1-dcache-loads           #  701.080 M/sec                    (38.55%)
+    17,139,273,896      L1-dcache-load-misses     #   23.13% of all L1-dcache hits    (38.49%)
+     4,357,610,066      LLC-loads                 #   41.232 M/sec                    (30.82%)
+         2,790,914      LLC-load-misses           #    0.06% of all LL-cache hits     (30.78%)
+   <not supported>      L1-icache-loads                                             
+    10,729,684,997      L1-icache-load-misses                                         (30.79%)
+    74,619,511,898      dTLB-loads                #  706.052 M/sec                    (30.70%)
+         4,852,247      dTLB-load-misses          #    0.01% of all dTLB cache hits   (30.69%)
+        20,378,480      iTLB-loads                #    0.193 M/sec                    (30.55%)
+           285,395      iTLB-load-misses          #    1.40% of all iTLB cache hits   (30.66%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      60.139742309 seconds time elapsed
+
+      14.964821000 seconds user
+     106.694631000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 51.1368 s, 2.1 GB/s
+
+ Performance counter stats for './network-loopback':
+
+        105,709.21 msec task-clock                #    1.758 CPUs utilized          
+         5,762,718      context-switches          #    0.055 M/sec                  
+                66      cpu-migrations            #    0.001 K/sec                  
+               950      page-faults               #    0.009 K/sec                  
+   386,497,835,018      cycles                    #    3.656 GHz                      (30.84%)
+   304,091,820,831      instructions              #    0.79  insn per cycle           (38.54%)
+    64,448,674,613      branches                  #  609.679 M/sec                    (38.37%)
+     1,117,189,545      branch-misses             #    1.73% of all branches          (38.35%)
+    74,326,587,001      L1-dcache-loads           #  703.123 M/sec                    (38.24%)
+    16,996,323,556      L1-dcache-load-misses     #   22.87% of all L1-dcache hits    (38.28%)
+     4,284,807,457      LLC-loads                 #   40.534 M/sec                    (30.68%)
+         2,413,683      LLC-load-misses           #    0.06% of all LL-cache hits     (30.78%)
+   <not supported>      L1-icache-loads                                             
+    10,821,005,205      L1-icache-load-misses                                         (30.94%)
+    74,618,050,432      dTLB-loads                #  705.880 M/sec                    (30.89%)
+        24,130,108      dTLB-load-misses          #    0.03% of all dTLB cache hits   (30.94%)
+        20,490,234      iTLB-loads                #    0.194 M/sec                    (30.87%)
+            61,538      iTLB-load-misses          #    0.30% of all iTLB cache hits   (30.81%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      60.146953886 seconds time elapsed
+
+       7.228320000 seconds user
+      79.202576000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 50.8849 s, 2.1 GB/s
+
+ Performance counter stats for './network-loopback':
+
+        105,413.07 msec task-clock                #    1.760 CPUs utilized          
+         5,704,910      context-switches          #    0.054 M/sec                  
+               110      cpu-migrations            #    0.001 K/sec                  
+               946      page-faults               #    0.009 K/sec                  
+   384,699,886,079      cycles                    #    3.649 GHz                      (30.78%)
+   302,784,506,424      instructions              #    0.79  insn per cycle           (38.39%)
+    64,302,395,704      branches                  #  610.004 M/sec                    (38.41%)
+     1,121,270,537      branch-misses             #    1.74% of all branches          (38.40%)
+    73,936,389,638      L1-dcache-loads           #  701.397 M/sec                    (38.48%)
+    17,184,849,934      L1-dcache-load-misses     #   23.24% of all L1-dcache hits    (38.42%)
+     4,346,446,436      LLC-loads                 #   41.233 M/sec                    (30.79%)
+         2,089,112      LLC-load-misses           #    0.05% of all LL-cache hits     (30.70%)
+   <not supported>      L1-icache-loads                                             
+    10,706,680,591      L1-icache-load-misses                                         (30.71%)
+    74,690,537,685      dTLB-loads                #  708.551 M/sec                    (30.80%)
+         7,818,750      dTLB-load-misses          #    0.01% of all dTLB cache hits   (30.80%)
+        20,278,059      iTLB-loads                #    0.192 M/sec                    (30.89%)
+        20,406,997      iTLB-load-misses          #  100.64% of all iTLB cache hits   (30.81%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      59.895129979 seconds time elapsed
+
+      14.681674000 seconds user
+     106.479018000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 51.1682 s, 2.0 GB/s
+
+ Performance counter stats for './network-loopback':
+
+        105,836.39 msec task-clock                #    1.759 CPUs utilized          
+         5,758,763      context-switches          #    0.054 M/sec                  
+               106      cpu-migrations            #    0.001 K/sec                  
+               947      page-faults               #    0.009 K/sec                  
+   387,405,294,472      cycles                    #    3.660 GHz                      (30.83%)
+   304,108,435,913      instructions              #    0.78  insn per cycle           (38.50%)
+    64,497,450,825      branches                  #  609.407 M/sec                    (38.35%)
+     1,118,228,411      branch-misses             #    1.73% of all branches          (38.42%)
+    74,199,968,072      L1-dcache-loads           #  701.082 M/sec                    (38.45%)
+    17,241,186,445      L1-dcache-load-misses     #   23.24% of all L1-dcache hits    (38.49%)
+     4,426,149,377      LLC-loads                 #   41.821 M/sec                    (30.99%)
+         1,497,850      LLC-load-misses           #    0.03% of all LL-cache hits     (30.80%)
+   <not supported>      L1-icache-loads                                             
+    10,788,271,730      L1-icache-load-misses                                         (30.74%)
+    74,712,214,326      dTLB-loads                #  705.922 M/sec                    (30.68%)
+         2,754,750      dTLB-load-misses          #    0.00% of all dTLB cache hits   (30.65%)
+        20,307,595      iTLB-loads                #    0.192 M/sec                    (30.78%)
+        14,729,982      iTLB-load-misses          #   72.53% of all iTLB cache hits   (30.81%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      60.178419826 seconds time elapsed
+
+      14.917519000 seconds user
+     106.856985000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 50.8564 s, 2.1 GB/s
+
+ Performance counter stats for './network-loopback':
+
+        105,360.86 msec task-clock                #    1.760 CPUs utilized          
+         5,732,247      context-switches          #    0.054 M/sec                  
+               123      cpu-migrations            #    0.001 K/sec                  
+               939      page-faults               #    0.009 K/sec                  
+   384,549,134,338      cycles                    #    3.650 GHz                      (30.62%)
+   302,912,987,971      instructions              #    0.79  insn per cycle           (38.43%)
+    64,337,052,119      branches                  #  610.635 M/sec                    (38.52%)
+     1,114,764,985      branch-misses             #    1.73% of all branches          (38.49%)
+    74,083,889,480      L1-dcache-loads           #  703.144 M/sec                    (38.51%)
+    17,097,878,981      L1-dcache-load-misses     #   23.08% of all L1-dcache hits    (38.46%)
+     4,371,583,276      LLC-loads                 #   41.492 M/sec                    (30.68%)
+         2,766,439      LLC-load-misses           #    0.06% of all LL-cache hits     (30.83%)
+   <not supported>      L1-icache-loads                                             
+    10,791,833,152      L1-icache-load-misses                                         (31.02%)
+    74,596,599,007      dTLB-loads                #  708.011 M/sec                    (30.93%)
+         9,230,290      dTLB-load-misses          #    0.01% of all dTLB cache hits   (30.80%)
+        20,240,438      iTLB-loads                #    0.192 M/sec                    (30.68%)
+         7,349,861      iTLB-load-misses          #   36.31% of all iTLB cache hits   (30.47%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      59.866500814 seconds time elapsed
+
+      14.670036000 seconds user
+     106.458529000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 50.8993 s, 2.1 GB/s
+
+ Performance counter stats for './network-loopback':
+
+        105,449.73 msec task-clock                #    1.760 CPUs utilized          
+         5,708,651      context-switches          #    0.054 M/sec                  
+                99      cpu-migrations            #    0.001 K/sec                  
+               954      page-faults               #    0.009 K/sec                  
+   386,005,805,471      cycles                    #    3.661 GHz                      (30.67%)
+   303,471,142,807      instructions              #    0.79  insn per cycle           (38.38%)
+    64,375,424,880      branches                  #  610.484 M/sec                    (38.42%)
+     1,118,118,679      branch-misses             #    1.74% of all branches          (38.49%)
+    74,090,787,882      L1-dcache-loads           #  702.617 M/sec                    (38.49%)
+    17,086,977,944      L1-dcache-load-misses     #   23.06% of all L1-dcache hits    (38.50%)
+     4,264,543,940      LLC-loads                 #   40.441 M/sec                    (30.77%)
+         2,159,728      LLC-load-misses           #    0.05% of all LL-cache hits     (30.77%)
+   <not supported>      L1-icache-loads                                             
+    10,857,566,757      L1-icache-load-misses                                         (30.78%)
+    74,597,436,234      dTLB-loads                #  707.422 M/sec                    (30.82%)
+         2,495,962      dTLB-load-misses          #    0.00% of all dTLB cache hits   (30.82%)
+        20,208,059      iTLB-loads                #    0.192 M/sec                    (30.73%)
+            78,729      iTLB-load-misses          #    0.39% of all iTLB cache hits   (30.73%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      59.909368814 seconds time elapsed
+
+      14.531033000 seconds user
+     106.761986000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 51.0627 s, 2.1 GB/s
+
+ Performance counter stats for './network-loopback':
+
+        105,472.53 msec task-clock                #    1.756 CPUs utilized          
+         5,747,292      context-switches          #    0.054 M/sec                  
+                93      cpu-migrations            #    0.001 K/sec                  
+               962      page-faults               #    0.009 K/sec                  
+   385,945,349,044      cycles                    #    3.659 GHz                      (30.82%)
+   303,413,265,261      instructions              #    0.79  insn per cycle           (38.46%)
+    64,344,445,852      branches                  #  610.059 M/sec                    (38.36%)
+     1,116,990,603      branch-misses             #    1.74% of all branches          (38.32%)
+    74,075,178,544      L1-dcache-loads           #  702.317 M/sec                    (38.46%)
+    17,255,150,434      L1-dcache-load-misses     #   23.29% of all L1-dcache hits    (38.41%)
+     4,319,915,587      LLC-loads                 #   40.958 M/sec                    (30.94%)
+         2,667,201      LLC-load-misses           #    0.06% of all LL-cache hits     (30.80%)
+   <not supported>      L1-icache-loads                                             
+    10,716,587,115      L1-icache-load-misses                                         (30.91%)
+    74,437,510,833      dTLB-loads                #  705.753 M/sec                    (30.77%)
+        20,607,852      dTLB-load-misses          #    0.03% of all dTLB cache hits   (30.70%)
+        20,490,775      iTLB-loads                #    0.194 M/sec                    (30.87%)
+        22,987,635      iTLB-load-misses          #  112.19% of all iTLB cache hits   (30.63%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      60.070629199 seconds time elapsed
+
+      14.587699000 seconds user
+     106.855056000 seconds sys
+
+

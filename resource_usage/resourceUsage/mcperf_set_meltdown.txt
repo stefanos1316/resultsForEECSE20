@@ -1,0 +1,550 @@
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 33.794 s
+
+Connection rate: 0.0 conn/s (33794.1 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 33794.1 min 33794.1 max 33794.1 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 59181.9 req/s (0.0 ms/req)
+Request size [B]: avg 5150.0 min 5150.0 max 5150.0 stddev 0.00
+
+Response rate: 59181.9 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 8.0 min 8.0 max 8.0 stddev 0.00
+Response time [ms]: avg 0.0 min 0.0 max 1.1 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 2000000 not_stored 0 exists 0 not_found 0
+Response type: num 0 deleted 0 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 2.96 system 21.00 (user 8.8% system 62.1% total 70.9%)
+Net I/O: bytes 9.6 GB rate 298105.7 KB/s (2442.1*10^6 bps)
+
+
+ Performance counter stats for './mcperf set':
+
+         17,845.87 msec task-clock                #    0.528 CPUs utilized          
+         1,999,634      context-switches          #    0.112 M/sec                  
+                70      cpu-migrations            #    0.004 K/sec                  
+               737      page-faults               #    0.041 K/sec                  
+    57,512,916,503      cycles                    #    3.223 GHz                      (30.87%)
+    46,858,794,230      instructions              #    0.81  insn per cycle           (38.94%)
+     9,639,859,557      branches                  #  540.173 M/sec                    (38.74%)
+       185,150,161      branch-misses             #    1.92% of all branches          (38.83%)
+    13,747,056,255      L1-dcache-loads           #  770.321 M/sec                    (38.97%)
+     1,969,680,049      L1-dcache-load-misses     #   14.33% of all L1-dcache hits    (38.68%)
+       433,226,724      LLC-loads                 #   24.276 M/sec                    (30.35%)
+           137,426      LLC-load-misses           #    0.03% of all LL-cache hits     (30.42%)
+   <not supported>      L1-icache-loads                                             
+     4,207,173,604      L1-icache-load-misses                                         (30.36%)
+    14,066,316,610      dTLB-loads                #  788.211 M/sec                    (30.45%)
+         2,230,480      dTLB-load-misses          #    0.02% of all dTLB cache hits   (30.90%)
+        58,335,672      iTLB-loads                #    3.269 M/sec                    (30.75%)
+        13,765,719      iTLB-load-misses          #   23.60% of all iTLB cache hits   (30.67%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      33.796588630 seconds time elapsed
+
+       2.961861000 seconds user
+      20.998466000 seconds sys
+
+
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 34.138 s
+
+Connection rate: 0.0 conn/s (34137.5 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 34137.5 min 34137.5 max 34137.5 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 58586.6 req/s (0.0 ms/req)
+Request size [B]: avg 5150.0 min 5150.0 max 5150.0 stddev 0.00
+
+Response rate: 58586.6 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 8.0 min 8.0 max 8.0 stddev 0.00
+Response time [ms]: avg 0.0 min 0.0 max 1.0 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 2000000 not_stored 0 exists 0 not_found 0
+Response type: num 0 deleted 0 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 3.25 system 20.99 (user 9.5% system 61.5% total 71.0%)
+Net I/O: bytes 9.6 GB rate 295107.0 KB/s (2417.5*10^6 bps)
+
+
+ Performance counter stats for './mcperf set':
+
+         18,228.37 msec task-clock                #    0.534 CPUs utilized          
+         1,999,631      context-switches          #    0.110 M/sec                  
+                97      cpu-migrations            #    0.005 K/sec                  
+               741      page-faults               #    0.041 K/sec                  
+    59,020,495,662      cycles                    #    3.238 GHz                      (31.16%)
+    46,851,589,512      instructions              #    0.79  insn per cycle           (38.53%)
+     9,639,303,861      branches                  #  528.808 M/sec                    (38.62%)
+       188,815,167      branch-misses             #    1.96% of all branches          (38.14%)
+    13,729,999,614      L1-dcache-loads           #  753.221 M/sec                    (37.77%)
+     1,943,620,280      L1-dcache-load-misses     #   14.16% of all L1-dcache hits    (38.00%)
+       477,805,781      LLC-loads                 #   26.212 M/sec                    (30.66%)
+            89,729      LLC-load-misses           #    0.02% of all LL-cache hits     (30.76%)
+   <not supported>      L1-icache-loads                                             
+     4,454,749,192      L1-icache-load-misses                                         (31.04%)
+    14,044,556,238      dTLB-loads                #  770.478 M/sec                    (30.84%)
+         4,090,090      dTLB-load-misses          #    0.03% of all dTLB cache hits   (30.72%)
+        59,656,596      iTLB-loads                #    3.273 M/sec                    (31.10%)
+         1,980,406      iTLB-load-misses          #    3.32% of all iTLB cache hits   (31.19%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      34.140047357 seconds time elapsed
+
+       3.247277000 seconds user
+      20.994884000 seconds sys
+
+
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 33.996 s
+
+Connection rate: 0.0 conn/s (33995.9 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 33995.9 min 33995.9 max 33995.9 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 58830.6 req/s (0.0 ms/req)
+Request size [B]: avg 5150.0 min 5150.0 max 5150.0 stddev 0.00
+
+Response rate: 58830.6 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 8.0 min 8.0 max 8.0 stddev 0.00
+Response time [ms]: avg 0.0 min 0.0 max 1.1 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 2000000 not_stored 0 exists 0 not_found 0
+Response type: num 0 deleted 0 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 3.06 system 20.95 (user 9.0% system 61.6% total 70.6%)
+Net I/O: bytes 9.6 GB rate 296336.3 KB/s (2427.6*10^6 bps)
+
+
+ Performance counter stats for './mcperf set':
+
+         17,948.75 msec task-clock                #    0.528 CPUs utilized          
+         1,999,637      context-switches          #    0.111 M/sec                  
+               114      cpu-migrations            #    0.006 K/sec                  
+               743      page-faults               #    0.041 K/sec                  
+    57,918,623,549      cycles                    #    3.227 GHz                      (29.92%)
+    46,856,420,342      instructions              #    0.81  insn per cycle           (37.84%)
+     9,639,926,319      branches                  #  537.081 M/sec                    (38.67%)
+       189,447,566      branch-misses             #    1.97% of all branches          (38.73%)
+    13,716,331,332      L1-dcache-loads           #  764.194 M/sec                    (39.07%)
+     1,938,019,979      L1-dcache-load-misses     #   14.13% of all L1-dcache hits    (39.44%)
+       434,888,779      LLC-loads                 #   24.229 M/sec                    (30.85%)
+            88,486      LLC-load-misses           #    0.02% of all LL-cache hits     (30.92%)
+   <not supported>      L1-icache-loads                                             
+     4,351,635,839      L1-icache-load-misses                                         (30.82%)
+    14,058,100,683      dTLB-loads                #  783.236 M/sec                    (30.64%)
+         2,808,488      dTLB-load-misses          #    0.02% of all dTLB cache hits   (30.48%)
+        59,159,125      iTLB-loads                #    3.296 M/sec                    (30.35%)
+           131,063      iTLB-load-misses          #    0.22% of all iTLB cache hits   (30.12%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      33.998474042 seconds time elapsed
+
+       3.056961000 seconds user
+      20.949450000 seconds sys
+
+
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 34.045 s
+
+Connection rate: 0.0 conn/s (34045.2 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 34045.2 min 34045.2 max 34045.2 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 58745.4 req/s (0.0 ms/req)
+Request size [B]: avg 5150.0 min 5150.0 max 5150.0 stddev 0.00
+
+Response rate: 58745.4 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 8.0 min 8.0 max 8.0 stddev 0.00
+Response time [ms]: avg 0.0 min 0.0 max 1.1 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 2000000 not_stored 0 exists 0 not_found 0
+Response type: num 0 deleted 0 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 3.74 system 20.48 (user 11.0% system 60.1% total 71.1%)
+Net I/O: bytes 9.6 GB rate 295907.2 KB/s (2424.1*10^6 bps)
+
+
+ Performance counter stats for './mcperf set':
+
+         18,162.53 msec task-clock                #    0.533 CPUs utilized          
+         1,999,557      context-switches          #    0.110 M/sec                  
+                66      cpu-migrations            #    0.004 K/sec                  
+               744      page-faults               #    0.041 K/sec                  
+    58,659,140,005      cycles                    #    3.230 GHz                      (31.06%)
+    46,982,115,511      instructions              #    0.80  insn per cycle           (38.87%)
+     9,662,083,245      branches                  #  531.979 M/sec                    (38.30%)
+       189,238,356      branch-misses             #    1.96% of all branches          (37.66%)
+    13,763,451,582      L1-dcache-loads           #  757.794 M/sec                    (37.86%)
+     1,954,846,129      L1-dcache-load-misses     #   14.20% of all L1-dcache hits    (37.93%)
+       413,502,345      LLC-loads                 #   22.767 M/sec                    (30.37%)
+           112,161      LLC-load-misses           #    0.03% of all LL-cache hits     (30.56%)
+   <not supported>      L1-icache-loads                                             
+     4,341,780,579      L1-icache-load-misses                                         (30.56%)
+    14,058,424,620      dTLB-loads                #  774.035 M/sec                    (31.01%)
+         4,078,835      dTLB-load-misses          #    0.03% of all dTLB cache hits   (31.34%)
+        58,353,169      iTLB-loads                #    3.213 M/sec                    (31.79%)
+           101,158      iTLB-load-misses          #    0.17% of all iTLB cache hits   (31.59%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      34.047733697 seconds time elapsed
+
+       3.745458000 seconds user
+      20.478734000 seconds sys
+
+
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 33.927 s
+
+Connection rate: 0.0 conn/s (33927.5 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 33927.5 min 33927.5 max 33927.5 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 58949.3 req/s (0.0 ms/req)
+Request size [B]: avg 5150.0 min 5150.0 max 5150.0 stddev 0.00
+
+Response rate: 58949.3 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 8.0 min 8.0 max 8.0 stddev 0.00
+Response time [ms]: avg 0.0 min 0.0 max 0.9 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 2000000 not_stored 0 exists 0 not_found 0
+Response type: num 0 deleted 0 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 3.21 system 21.04 (user 9.5% system 62.0% total 71.5%)
+Net I/O: bytes 9.6 GB rate 296934.0 KB/s (2432.5*10^6 bps)
+
+
+ Performance counter stats for './mcperf set':
+
+         18,236.48 msec task-clock                #    0.537 CPUs utilized          
+         1,999,570      context-switches          #    0.110 M/sec                  
+                66      cpu-migrations            #    0.004 K/sec                  
+               738      page-faults               #    0.040 K/sec                  
+    58,979,242,538      cycles                    #    3.234 GHz                      (30.97%)
+    46,925,098,043      instructions              #    0.80  insn per cycle           (38.70%)
+     9,651,421,611      branches                  #  529.237 M/sec                    (38.57%)
+       186,575,516      branch-misses             #    1.93% of all branches          (38.84%)
+    13,763,313,031      L1-dcache-loads           #  754.713 M/sec                    (38.44%)
+     1,960,650,520      L1-dcache-load-misses     #   14.25% of all L1-dcache hits    (38.07%)
+       461,413,462      LLC-loads                 #   25.302 M/sec                    (30.16%)
+            96,713      LLC-load-misses           #    0.02% of all LL-cache hits     (30.45%)
+   <not supported>      L1-icache-loads                                             
+     4,331,743,968      L1-icache-load-misses                                         (30.61%)
+    14,073,045,113      dTLB-loads                #  771.697 M/sec                    (30.95%)
+         3,691,897      dTLB-load-misses          #    0.03% of all dTLB cache hits   (31.27%)
+        58,307,876      iTLB-loads                #    3.197 M/sec                    (30.71%)
+           109,273      iTLB-load-misses          #    0.19% of all iTLB cache hits   (30.95%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      33.929934985 seconds time elapsed
+
+       3.213860000 seconds user
+      21.041923000 seconds sys
+
+
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 34.089 s
+
+Connection rate: 0.0 conn/s (34089.2 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 34089.2 min 34089.2 max 34089.2 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 58669.5 req/s (0.0 ms/req)
+Request size [B]: avg 5150.0 min 5150.0 max 5150.0 stddev 0.00
+
+Response rate: 58669.5 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 8.0 min 8.0 max 8.0 stddev 0.00
+Response time [ms]: avg 0.0 min 0.0 max 1.1 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 2000000 not_stored 0 exists 0 not_found 0
+Response type: num 0 deleted 0 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 3.35 system 21.05 (user 9.8% system 61.7% total 71.6%)
+Net I/O: bytes 9.6 GB rate 295524.9 KB/s (2420.9*10^6 bps)
+
+
+ Performance counter stats for './mcperf set':
+
+         18,354.83 msec task-clock                #    0.538 CPUs utilized          
+         1,999,538      context-switches          #    0.109 M/sec                  
+                87      cpu-migrations            #    0.005 K/sec                  
+               742      page-faults               #    0.040 K/sec                  
+    59,702,920,259      cycles                    #    3.253 GHz                      (31.20%)
+    46,915,308,759      instructions              #    0.79  insn per cycle           (38.50%)
+     9,651,818,236      branches                  #  525.846 M/sec                    (38.45%)
+       187,258,359      branch-misses             #    1.94% of all branches          (38.19%)
+    13,778,053,921      L1-dcache-loads           #  750.650 M/sec                    (38.51%)
+     1,944,701,211      L1-dcache-load-misses     #   14.11% of all L1-dcache hits    (38.45%)
+       461,775,662      LLC-loads                 #   25.158 M/sec                    (30.73%)
+            89,562      LLC-load-misses           #    0.02% of all LL-cache hits     (30.86%)
+   <not supported>      L1-icache-loads                                             
+     4,406,840,092      L1-icache-load-misses                                         (30.50%)
+    14,076,213,968      dTLB-loads                #  766.894 M/sec                    (30.36%)
+         4,108,008      dTLB-load-misses          #    0.03% of all dTLB cache hits   (30.82%)
+        58,073,021      iTLB-loads                #    3.164 M/sec                    (30.95%)
+           174,412      iTLB-load-misses          #    0.30% of all iTLB cache hits   (31.00%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      34.091698560 seconds time elapsed
+
+       3.352686000 seconds user
+      21.051159000 seconds sys
+
+
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 33.750 s
+
+Connection rate: 0.0 conn/s (33749.5 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 33749.5 min 33749.5 max 33749.5 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 59260.1 req/s (0.0 ms/req)
+Request size [B]: avg 5150.0 min 5150.0 max 5150.0 stddev 0.00
+
+Response rate: 59260.1 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 8.0 min 8.0 max 8.0 stddev 0.00
+Response time [ms]: avg 0.0 min 0.0 max 1.1 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 2000000 not_stored 0 exists 0 not_found 0
+Response type: num 0 deleted 0 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 3.20 system 20.86 (user 9.5% system 61.8% total 71.3%)
+Net I/O: bytes 9.6 GB rate 298499.6 KB/s (2445.3*10^6 bps)
+
+
+ Performance counter stats for './mcperf set':
+
+         18,050.35 msec task-clock                #    0.535 CPUs utilized          
+         1,999,615      context-switches          #    0.111 M/sec                  
+                94      cpu-migrations            #    0.005 K/sec                  
+               743      page-faults               #    0.041 K/sec                  
+    58,289,981,521      cycles                    #    3.229 GHz                      (31.09%)
+    46,965,022,671      instructions              #    0.81  insn per cycle           (38.81%)
+     9,658,948,062      branches                  #  535.111 M/sec                    (38.36%)
+       189,138,474      branch-misses             #    1.96% of all branches          (38.33%)
+    13,792,106,027      L1-dcache-loads           #  764.091 M/sec                    (38.52%)
+     1,971,290,447      L1-dcache-load-misses     #   14.29% of all L1-dcache hits    (38.51%)
+       414,418,689      LLC-loads                 #   22.959 M/sec                    (30.69%)
+           110,719      LLC-load-misses           #    0.03% of all LL-cache hits     (30.33%)
+   <not supported>      L1-icache-loads                                             
+     4,442,354,642      L1-icache-load-misses                                         (30.60%)
+    14,061,839,063      dTLB-loads                #  779.034 M/sec                    (30.40%)
+         3,744,194      dTLB-load-misses          #    0.03% of all dTLB cache hits   (30.95%)
+        57,987,751      iTLB-loads                #    3.213 M/sec                    (31.34%)
+            90,710      iTLB-load-misses          #    0.16% of all iTLB cache hits   (30.88%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      33.752028921 seconds time elapsed
+
+       3.199696000 seconds user
+      20.856818000 seconds sys
+
+
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 34.042 s
+
+Connection rate: 0.0 conn/s (34041.5 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 34041.5 min 34041.5 max 34041.5 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 58751.8 req/s (0.0 ms/req)
+Request size [B]: avg 5150.0 min 5150.0 max 5150.0 stddev 0.00
+
+Response rate: 58751.8 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 8.0 min 8.0 max 8.0 stddev 0.00
+Response time [ms]: avg 0.0 min 0.0 max 0.9 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 2000000 not_stored 0 exists 0 not_found 0
+Response type: num 0 deleted 0 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 3.30 system 21.06 (user 9.7% system 61.9% total 71.6%)
+Net I/O: bytes 9.6 GB rate 295939.3 KB/s (2424.3*10^6 bps)
+
+
+ Performance counter stats for './mcperf set':
+
+         18,304.69 msec task-clock                #    0.538 CPUs utilized          
+         1,999,571      context-switches          #    0.109 M/sec                  
+                94      cpu-migrations            #    0.005 K/sec                  
+               743      page-faults               #    0.041 K/sec                  
+    59,364,713,890      cycles                    #    3.243 GHz                      (30.63%)
+    46,864,574,143      instructions              #    0.79  insn per cycle           (38.14%)
+     9,643,364,467      branches                  #  526.825 M/sec                    (38.06%)
+       188,156,397      branch-misses             #    1.95% of all branches          (38.27%)
+    13,763,932,266      L1-dcache-loads           #  751.935 M/sec                    (38.22%)
+     1,961,447,389      L1-dcache-load-misses     #   14.25% of all L1-dcache hits    (38.44%)
+       436,052,476      LLC-loads                 #   23.822 M/sec                    (31.21%)
+           140,347      LLC-load-misses           #    0.03% of all LL-cache hits     (31.28%)
+   <not supported>      L1-icache-loads                                             
+     4,400,868,250      L1-icache-load-misses                                         (31.37%)
+    14,102,038,441      dTLB-loads                #  770.406 M/sec                    (30.93%)
+         3,208,983      dTLB-load-misses          #    0.02% of all dTLB cache hits   (30.73%)
+        59,494,286      iTLB-loads                #    3.250 M/sec                    (30.45%)
+         8,984,960      iTLB-load-misses          #   15.10% of all iTLB cache hits   (30.41%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      34.044067018 seconds time elapsed
+
+       3.303629000 seconds user
+      21.059708000 seconds sys
+
+
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 33.655 s
+
+Connection rate: 0.0 conn/s (33655.1 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 33655.1 min 33655.1 max 33655.1 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 59426.4 req/s (0.0 ms/req)
+Request size [B]: avg 5150.0 min 5150.0 max 5150.0 stddev 0.00
+
+Response rate: 59426.4 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 8.0 min 8.0 max 8.0 stddev 0.00
+Response time [ms]: avg 0.0 min 0.0 max 1.1 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 2000000 not_stored 0 exists 0 not_found 0
+Response type: num 0 deleted 0 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 3.22 system 20.74 (user 9.6% system 61.6% total 71.2%)
+Net I/O: bytes 9.6 GB rate 299337.0 KB/s (2452.2*10^6 bps)
+
+
+ Performance counter stats for './mcperf set':
+
+         17,870.08 msec task-clock                #    0.531 CPUs utilized          
+         1,999,563      context-switches          #    0.112 M/sec                  
+                64      cpu-migrations            #    0.004 K/sec                  
+               743      page-faults               #    0.042 K/sec                  
+    57,727,296,326      cycles                    #    3.230 GHz                      (30.33%)
+    46,832,892,029      instructions              #    0.81  insn per cycle           (38.05%)
+     9,631,477,938      branches                  #  538.972 M/sec                    (38.21%)
+       186,296,072      branch-misses             #    1.93% of all branches          (37.95%)
+    13,755,012,189      L1-dcache-loads           #  769.723 M/sec                    (38.54%)
+     1,964,403,859      L1-dcache-load-misses     #   14.28% of all L1-dcache hits    (38.43%)
+       432,148,392      LLC-loads                 #   24.183 M/sec                    (31.02%)
+           134,273      LLC-load-misses           #    0.03% of all LL-cache hits     (30.97%)
+   <not supported>      L1-icache-loads                                             
+     4,242,978,396      L1-icache-load-misses                                         (31.26%)
+    14,088,795,613      dTLB-loads                #  788.401 M/sec                    (31.24%)
+         3,483,958      dTLB-load-misses          #    0.02% of all dTLB cache hits   (30.77%)
+        58,675,193      iTLB-loads                #    3.283 M/sec                    (31.08%)
+         3,497,136      iTLB-load-misses          #    5.96% of all iTLB cache hits   (30.20%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      33.657522553 seconds time elapsed
+
+       3.224290000 seconds user
+      20.741282000 seconds sys
+
+
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 34.255 s
+
+Connection rate: 0.0 conn/s (34255.3 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 34255.3 min 34255.3 max 34255.3 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 58385.1 req/s (0.0 ms/req)
+Request size [B]: avg 5150.0 min 5150.0 max 5150.0 stddev 0.00
+
+Response rate: 58385.1 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 8.0 min 8.0 max 8.0 stddev 0.00
+Response time [ms]: avg 0.0 min 0.0 max 1.1 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 2000000 not_stored 0 exists 0 not_found 0
+Response type: num 0 deleted 0 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 3.53 system 21.16 (user 10.3% system 61.8% total 72.1%)
+Net I/O: bytes 9.6 GB rate 294092.3 KB/s (2409.2*10^6 bps)
+
+
+ Performance counter stats for './mcperf set':
+
+         18,766.27 msec task-clock                #    0.548 CPUs utilized          
+         1,999,521      context-switches          #    0.107 M/sec                  
+                60      cpu-migrations            #    0.003 K/sec                  
+               743      page-faults               #    0.040 K/sec                  
+    61,281,093,020      cycles                    #    3.265 GHz                      (30.38%)
+    46,983,767,332      instructions              #    0.77  insn per cycle           (38.00%)
+     9,663,940,024      branches                  #  514.963 M/sec                    (38.57%)
+       191,879,568      branch-misses             #    1.99% of all branches          (38.54%)
+    13,782,323,076      L1-dcache-loads           #  734.420 M/sec                    (38.68%)
+     1,988,253,104      L1-dcache-load-misses     #   14.43% of all L1-dcache hits    (38.32%)
+       488,652,389      LLC-loads                 #   26.039 M/sec                    (30.64%)
+            68,637      LLC-load-misses           #    0.01% of all LL-cache hits     (30.64%)
+   <not supported>      L1-icache-loads                                             
+     4,414,805,082      L1-icache-load-misses                                         (30.81%)
+    14,055,442,966      dTLB-loads                #  748.974 M/sec                    (31.30%)
+         4,357,919      dTLB-load-misses          #    0.03% of all dTLB cache hits   (30.79%)
+        58,437,044      iTLB-loads                #    3.114 M/sec                    (30.83%)
+        45,504,232      iTLB-load-misses          #   77.87% of all iTLB cache hits   (30.51%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+      34.257797892 seconds time elapsed
+
+       3.533125000 seconds user
+      21.163253000 seconds sys
+
+
