@@ -1,0 +1,150 @@
+stress-ng: info:  [3069] defaulting to a 86400 second run per stressor
+stress-ng: info:  [3069] dispatching hogs: 8 msg
+stress-ng: info:  [3069] successful run completed in 22.51s
+
+ Performance counter stats for './stress-ng --msg 0 --msg-ops 100000000':
+
+        49,416,599      cache-misses                                                
+       662,036,549      branch-misses                                               
+
+      22.513546097 seconds time elapsed
+
+      62.831536000 seconds user
+     114.571803000 seconds sys
+
+
+stress-ng: info:  [2579] defaulting to a 86400 second run per stressor
+stress-ng: info:  [2579] dispatching hogs: 8 msg
+stress-ng: info:  [2579] successful run completed in 24.78s
+
+ Performance counter stats for './stress-ng --msg 0 --msg-ops 100000000':
+
+        43,752,976      cache-misses                                                
+       827,357,535      branch-misses                                               
+
+      24.781174085 seconds time elapsed
+
+      65.150683000 seconds user
+     128.918886000 seconds sys
+
+
+stress-ng: info:  [2109] defaulting to a 86400 second run per stressor
+stress-ng: info:  [2109] dispatching hogs: 8 msg
+stress-ng: info:  [2109] successful run completed in 22.11s
+
+ Performance counter stats for './stress-ng --msg 0 --msg-ops 100000000':
+
+        52,036,220      cache-misses                                                
+       623,497,789      branch-misses                                               
+
+      22.110404071 seconds time elapsed
+
+      63.462948000 seconds user
+     110.939308000 seconds sys
+
+
+stress-ng: info:  [1546] defaulting to a 86400 second run per stressor
+stress-ng: info:  [1546] dispatching hogs: 8 msg
+stress-ng: info:  [1546] successful run completed in 21.92s
+
+ Performance counter stats for './stress-ng --msg 0 --msg-ops 100000000':
+
+        53,738,747      cache-misses                                                
+       608,369,871      branch-misses                                               
+
+      21.927356440 seconds time elapsed
+
+      64.170082000 seconds user
+     108.388473000 seconds sys
+
+
+stress-ng: info:  [959] defaulting to a 86400 second run per stressor
+stress-ng: info:  [959] dispatching hogs: 8 msg
+stress-ng: info:  [959] successful run completed in 22.06s
+
+ Performance counter stats for './stress-ng --msg 0 --msg-ops 100000000':
+
+        52,554,885      cache-misses                                                
+       604,985,030      branch-misses                                               
+
+      22.061119215 seconds time elapsed
+
+      63.187446000 seconds user
+     108.959598000 seconds sys
+
+
+stress-ng: info:  [374] defaulting to a 86400 second run per stressor
+stress-ng: info:  [374] dispatching hogs: 8 msg
+stress-ng: info:  [374] successful run completed in 21.96s
+
+ Performance counter stats for './stress-ng --msg 0 --msg-ops 100000000':
+
+        53,888,429      cache-misses                                                
+       601,681,871      branch-misses                                               
+
+      21.962871936 seconds time elapsed
+
+      63.074926000 seconds user
+     109.455399000 seconds sys
+
+
+stress-ng: info:  [32394] defaulting to a 86400 second run per stressor
+stress-ng: info:  [32394] dispatching hogs: 8 msg
+stress-ng: info:  [32394] successful run completed in 21.82s
+
+ Performance counter stats for './stress-ng --msg 0 --msg-ops 100000000':
+
+        55,511,202      cache-misses                                                
+       610,117,836      branch-misses                                               
+
+      21.828001388 seconds time elapsed
+
+      63.416657000 seconds user
+     109.310273000 seconds sys
+
+
+stress-ng: info:  [31891] defaulting to a 86400 second run per stressor
+stress-ng: info:  [31891] dispatching hogs: 8 msg
+stress-ng: info:  [31891] successful run completed in 22.24s
+
+ Performance counter stats for './stress-ng --msg 0 --msg-ops 100000000':
+
+        51,534,099      cache-misses                                                
+       633,845,200      branch-misses                                               
+
+      22.245599136 seconds time elapsed
+
+      63.397377000 seconds user
+     111.484255000 seconds sys
+
+
+stress-ng: info:  [31328] defaulting to a 86400 second run per stressor
+stress-ng: info:  [31328] dispatching hogs: 8 msg
+stress-ng: info:  [31328] successful run completed in 22.37s
+
+ Performance counter stats for './stress-ng --msg 0 --msg-ops 100000000':
+
+        49,095,237      cache-misses                                                
+       636,386,555      branch-misses                                               
+
+      22.372857130 seconds time elapsed
+
+      63.430772000 seconds user
+     111.393673000 seconds sys
+
+
+stress-ng: info:  [30829] defaulting to a 86400 second run per stressor
+stress-ng: info:  [30829] dispatching hogs: 8 msg
+stress-ng: info:  [30829] successful run completed in 27.98s
+
+ Performance counter stats for './stress-ng --msg 0 --msg-ops 100000000':
+
+        39,859,374      cache-misses                                                
+     1,090,209,581      branch-misses                                               
+
+      27.986281668 seconds time elapsed
+
+      67.468689000 seconds user
+     154.377424000 seconds sys
+
+

@@ -1,0 +1,370 @@
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 30.167 s
+
+Connection rate: 0.0 conn/s (30166.6 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 30166.6 min 30166.6 max 30166.6 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 66298.5 req/s (0.0 ms/req)
+Request size [B]: avg 5150.0 min 5150.0 max 5150.0 stddev 0.00
+
+Response rate: 66298.5 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 8.0 min 8.0 max 8.0 stddev 0.00
+Response time [ms]: avg 0.0 min 0.0 max 1.1 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 2000000 not_stored 0 exists 0 not_found 0
+Response type: num 0 deleted 0 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 4.47 system 14.26 (user 14.8% system 47.3% total 62.1%)
+Net I/O: bytes 9.6 GB rate 333952.6 KB/s (2735.7*10^6 bps)
+
+
+ Performance counter stats for './mcperf set':
+
+         2,548,188      cache-misses                                                
+       141,350,865      branch-misses                                               
+
+      30.169289867 seconds time elapsed
+
+       4.476177000 seconds user
+      14.261060000 seconds sys
+
+
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 29.978 s
+
+Connection rate: 0.0 conn/s (29978.3 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 29978.3 min 29978.3 max 29978.3 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 66714.8 req/s (0.0 ms/req)
+Request size [B]: avg 5150.0 min 5150.0 max 5150.0 stddev 0.00
+
+Response rate: 66714.8 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 8.0 min 8.0 max 8.0 stddev 0.00
+Response time [ms]: avg 0.0 min 0.0 max 1.5 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 2000000 not_stored 0 exists 0 not_found 0
+Response type: num 0 deleted 0 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 4.22 system 14.62 (user 14.1% system 48.8% total 62.8%)
+Net I/O: bytes 9.6 GB rate 336050.0 KB/s (2752.9*10^6 bps)
+
+
+ Performance counter stats for './mcperf set':
+
+         2,438,751      cache-misses                                                
+       147,312,336      branch-misses                                               
+
+      29.981061859 seconds time elapsed
+
+       4.218798000 seconds user
+      14.625116000 seconds sys
+
+
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 30.209 s
+
+Connection rate: 0.0 conn/s (30208.9 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 30208.9 min 30208.9 max 30208.9 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 66205.6 req/s (0.0 ms/req)
+Request size [B]: avg 5150.0 min 5150.0 max 5150.0 stddev 0.00
+
+Response rate: 66205.6 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 8.0 min 8.0 max 8.0 stddev 0.00
+Response time [ms]: avg 0.0 min 0.0 max 1.1 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 2000000 not_stored 0 exists 0 not_found 0
+Response type: num 0 deleted 0 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 4.48 system 14.40 (user 14.8% system 47.7% total 62.5%)
+Net I/O: bytes 9.6 GB rate 333484.7 KB/s (2731.9*10^6 bps)
+
+
+ Performance counter stats for './mcperf set':
+
+         2,363,982      cache-misses                                                
+       141,975,623      branch-misses                                               
+
+      30.211650970 seconds time elapsed
+
+       4.479299000 seconds user
+      14.403093000 seconds sys
+
+
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 30.098 s
+
+Connection rate: 0.0 conn/s (30098.2 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 30098.2 min 30098.2 max 30098.2 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 66449.1 req/s (0.0 ms/req)
+Request size [B]: avg 5150.0 min 5150.0 max 5150.0 stddev 0.00
+
+Response rate: 66449.1 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 8.0 min 8.0 max 8.0 stddev 0.00
+Response time [ms]: avg 0.0 min 0.0 max 1.1 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 2000000 not_stored 0 exists 0 not_found 0
+Response type: num 0 deleted 0 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 4.39 system 14.33 (user 14.6% system 47.6% total 62.2%)
+Net I/O: bytes 9.6 GB rate 334711.4 KB/s (2742.0*10^6 bps)
+
+
+ Performance counter stats for './mcperf set':
+
+         2,526,593      cache-misses                                                
+       140,667,186      branch-misses                                               
+
+      30.100871956 seconds time elapsed
+
+       4.387649000 seconds user
+      14.327933000 seconds sys
+
+
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 30.094 s
+
+Connection rate: 0.0 conn/s (30093.8 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 30093.8 min 30093.8 max 30093.8 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 66458.9 req/s (0.0 ms/req)
+Request size [B]: avg 5150.0 min 5150.0 max 5150.0 stddev 0.00
+
+Response rate: 66458.9 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 8.0 min 8.0 max 8.0 stddev 0.00
+Response time [ms]: avg 0.0 min 0.0 max 1.0 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 2000000 not_stored 0 exists 0 not_found 0
+Response type: num 0 deleted 0 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 4.45 system 14.40 (user 14.8% system 47.8% total 62.6%)
+Net I/O: bytes 9.6 GB rate 334760.8 KB/s (2742.4*10^6 bps)
+
+
+ Performance counter stats for './mcperf set':
+
+         2,659,992      cache-misses                                                
+       145,231,281      branch-misses                                               
+
+      30.096588554 seconds time elapsed
+
+       4.453702000 seconds user
+      14.397992000 seconds sys
+
+
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 30.298 s
+
+Connection rate: 0.0 conn/s (30297.9 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 30297.9 min 30297.9 max 30297.9 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 66011.1 req/s (0.0 ms/req)
+Request size [B]: avg 5150.0 min 5150.0 max 5150.0 stddev 0.00
+
+Response rate: 66011.1 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 8.0 min 8.0 max 8.0 stddev 0.00
+Response time [ms]: avg 0.0 min 0.0 max 1.1 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 2000000 not_stored 0 exists 0 not_found 0
+Response type: num 0 deleted 0 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 4.47 system 14.74 (user 14.8% system 48.7% total 63.4%)
+Net I/O: bytes 9.6 GB rate 332505.3 KB/s (2723.9*10^6 bps)
+
+
+ Performance counter stats for './mcperf set':
+
+         2,588,613      cache-misses                                                
+       149,799,986      branch-misses                                               
+
+      30.300561475 seconds time elapsed
+
+       4.472143000 seconds user
+      14.745000000 seconds sys
+
+
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 30.197 s
+
+Connection rate: 0.0 conn/s (30196.8 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 30196.8 min 30196.8 max 30196.8 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 66232.2 req/s (0.0 ms/req)
+Request size [B]: avg 5150.0 min 5150.0 max 5150.0 stddev 0.00
+
+Response rate: 66232.2 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 8.0 min 8.0 max 8.0 stddev 0.00
+Response time [ms]: avg 0.0 min 0.0 max 1.0 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 2000000 not_stored 0 exists 0 not_found 0
+Response type: num 0 deleted 0 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 4.51 system 14.38 (user 14.9% system 47.6% total 62.6%)
+Net I/O: bytes 9.6 GB rate 333619.0 KB/s (2733.0*10^6 bps)
+
+
+ Performance counter stats for './mcperf set':
+
+         2,394,829      cache-misses                                                
+       146,936,884      branch-misses                                               
+
+      30.199460103 seconds time elapsed
+
+       4.516503000 seconds user
+      14.382193000 seconds sys
+
+
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 30.169 s
+
+Connection rate: 0.0 conn/s (30168.6 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 30168.6 min 30168.6 max 30168.6 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 66294.1 req/s (0.0 ms/req)
+Request size [B]: avg 5150.0 min 5150.0 max 5150.0 stddev 0.00
+
+Response rate: 66294.1 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 8.0 min 8.0 max 8.0 stddev 0.00
+Response time [ms]: avg 0.0 min 0.0 max 1.0 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 2000000 not_stored 0 exists 0 not_found 0
+Response type: num 0 deleted 0 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 4.43 system 14.41 (user 14.7% system 47.8% total 62.4%)
+Net I/O: bytes 9.6 GB rate 333930.8 KB/s (2735.6*10^6 bps)
+
+
+ Performance counter stats for './mcperf set':
+
+         2,589,803      cache-misses                                                
+       142,351,158      branch-misses                                               
+
+      30.171249679 seconds time elapsed
+
+       4.427095000 seconds user
+      14.415145000 seconds sys
+
+
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 30.761 s
+
+Connection rate: 0.0 conn/s (30761.5 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 30761.5 min 30761.5 max 30761.5 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 65016.4 req/s (0.0 ms/req)
+Request size [B]: avg 5150.0 min 5150.0 max 5150.0 stddev 0.00
+
+Response rate: 65016.4 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 8.0 min 8.0 max 8.0 stddev 0.00
+Response time [ms]: avg 0.0 min 0.0 max 1.4 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 2000000 not_stored 0 exists 0 not_found 0
+Response type: num 0 deleted 0 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 4.61 system 14.52 (user 15.0% system 47.2% total 62.2%)
+Net I/O: bytes 9.6 GB rate 327494.8 KB/s (2682.8*10^6 bps)
+
+
+ Performance counter stats for './mcperf set':
+
+         2,683,604      cache-misses                                                
+       140,834,907      branch-misses                                               
+
+      30.764204997 seconds time elapsed
+
+       4.614736000 seconds user
+      14.524039000 seconds sys
+
+
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 30.058 s
+
+Connection rate: 0.0 conn/s (30057.9 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 30057.9 min 30057.9 max 30057.9 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 66538.3 req/s (0.0 ms/req)
+Request size [B]: avg 5150.0 min 5150.0 max 5150.0 stddev 0.00
+
+Response rate: 66538.3 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 8.0 min 8.0 max 8.0 stddev 0.00
+Response time [ms]: avg 0.0 min 0.0 max 1.1 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 2000000 not_stored 0 exists 0 not_found 0
+Response type: num 0 deleted 0 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 4.44 system 14.38 (user 14.8% system 47.8% total 62.6%)
+Net I/O: bytes 9.6 GB rate 335160.9 KB/s (2745.6*10^6 bps)
+
+
+ Performance counter stats for './mcperf set':
+
+         2,711,162      cache-misses                                                
+       146,033,680      branch-misses                                               
+
+      30.060583870 seconds time elapsed
+
+       4.438642000 seconds user
+      14.381082000 seconds sys
+
+

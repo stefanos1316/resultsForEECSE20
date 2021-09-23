@@ -1,0 +1,120 @@
+
+ Performance counter stats for './t-test1':
+
+       612,395,661      cache-misses                                                
+       177,476,309      branch-misses                                               
+
+       6.375312836 seconds time elapsed
+
+       6.366641000 seconds user
+       6.431236000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+       614,739,939      cache-misses                                                
+       176,898,611      branch-misses                                               
+
+       6.316873110 seconds time elapsed
+
+       6.263283000 seconds user
+       6.449041000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+       616,812,504      cache-misses                                                
+       176,554,852      branch-misses                                               
+
+       6.349497094 seconds time elapsed
+
+       6.590920000 seconds user
+       6.178987000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+       615,502,831      cache-misses                                                
+       176,633,610      branch-misses                                               
+
+       6.320261911 seconds time elapsed
+
+       6.294508000 seconds user
+       6.427576000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+       615,431,093      cache-misses                                                
+       176,380,219      branch-misses                                               
+
+       6.321968376 seconds time elapsed
+
+       6.349828000 seconds user
+       6.370063000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+       615,508,200      cache-misses                                                
+       176,734,930      branch-misses                                               
+
+       6.345595559 seconds time elapsed
+
+       6.315939000 seconds user
+       6.452979000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+       616,471,086      cache-misses                                                
+       176,795,710      branch-misses                                               
+
+       6.405097444 seconds time elapsed
+
+       6.343308000 seconds user
+       6.549759000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+       615,862,160      cache-misses                                                
+       177,121,332      branch-misses                                               
+
+       6.352442782 seconds time elapsed
+
+       6.298186000 seconds user
+       6.483664000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+       617,272,844      cache-misses                                                
+       176,580,903      branch-misses                                               
+
+       6.331794807 seconds time elapsed
+
+       6.203902000 seconds user
+       6.534669000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+       616,208,248      cache-misses                                                
+       177,164,040      branch-misses                                               
+
+       6.366675562 seconds time elapsed
+
+       6.300342000 seconds user
+       6.498746000 seconds sys
+
+

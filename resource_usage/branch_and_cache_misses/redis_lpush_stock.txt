@@ -1,0 +1,120 @@
+
+ Performance counter stats for './redis lpush':
+
+        37,060,790      cache-misses                                                
+     1,152,371,892      branch-misses                                               
+
+      93.749470971 seconds time elapsed
+
+      21.285715000 seconds user
+      49.698766000 seconds sys
+
+
+
+ Performance counter stats for './redis lpush':
+
+        40,109,363      cache-misses                                                
+     1,158,069,005      branch-misses                                               
+
+      93.763153293 seconds time elapsed
+
+      20.978678000 seconds user
+      50.005464000 seconds sys
+
+
+
+ Performance counter stats for './redis lpush':
+
+        38,241,246      cache-misses                                                
+     1,170,622,833      branch-misses                                               
+
+      93.625198991 seconds time elapsed
+
+      21.705667000 seconds user
+      50.050725000 seconds sys
+
+
+
+ Performance counter stats for './redis lpush':
+
+        36,880,611      cache-misses                                                
+     1,156,305,726      branch-misses                                               
+
+      93.533592109 seconds time elapsed
+
+      21.235649000 seconds user
+      50.017096000 seconds sys
+
+
+
+ Performance counter stats for './redis lpush':
+
+        38,570,588      cache-misses                                                
+     1,159,321,029      branch-misses                                               
+
+      94.015558881 seconds time elapsed
+
+      21.264850000 seconds user
+      50.163173000 seconds sys
+
+
+
+ Performance counter stats for './redis lpush':
+
+        40,227,619      cache-misses                                                
+     1,151,308,346      branch-misses                                               
+
+      93.651975399 seconds time elapsed
+
+      21.632476000 seconds user
+      49.165198000 seconds sys
+
+
+
+ Performance counter stats for './redis lpush':
+
+        38,024,966      cache-misses                                                
+     1,155,556,928      branch-misses                                               
+
+      93.687712006 seconds time elapsed
+
+      21.104016000 seconds user
+      49.591103000 seconds sys
+
+
+
+ Performance counter stats for './redis lpush':
+
+        42,026,980      cache-misses                                                
+     1,157,927,671      branch-misses                                               
+
+      93.696207332 seconds time elapsed
+
+      21.169984000 seconds user
+      49.786281000 seconds sys
+
+
+
+ Performance counter stats for './redis lpush':
+
+        39,448,699      cache-misses                                                
+     1,159,790,789      branch-misses                                               
+
+      93.913692360 seconds time elapsed
+
+      21.142994000 seconds user
+      50.280667000 seconds sys
+
+
+
+ Performance counter stats for './redis lpush':
+
+        37,547,390      cache-misses                                                
+     1,167,759,341      branch-misses                                               
+
+      93.602569287 seconds time elapsed
+
+      21.342519000 seconds user
+      49.929371000 seconds sys
+
+

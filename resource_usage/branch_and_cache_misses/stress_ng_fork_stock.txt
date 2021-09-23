@@ -1,0 +1,150 @@
+stress-ng: info:  [3628] defaulting to a 86400 second run per stressor
+stress-ng: info:  [3628] dispatching hogs: 8 fork
+stress-ng: info:  [3628] successful run completed in 30.20s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+     1,012,297,513      cache-misses                                                
+       909,228,313      branch-misses                                               
+
+      30.318580349 seconds time elapsed
+
+     118.584703000 seconds user
+      77.853482000 seconds sys
+
+
+stress-ng: info:  [3138] defaulting to a 86400 second run per stressor
+stress-ng: info:  [3138] dispatching hogs: 8 fork
+stress-ng: info:  [3138] successful run completed in 30.56s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+     1,090,511,370      cache-misses                                                
+       928,212,929      branch-misses                                               
+
+      30.567880572 seconds time elapsed
+
+     120.983352000 seconds user
+      78.215416000 seconds sys
+
+
+stress-ng: info:  [2670] defaulting to a 86400 second run per stressor
+stress-ng: info:  [2670] dispatching hogs: 8 fork
+stress-ng: info:  [2670] successful run completed in 30.29s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+     1,041,702,843      cache-misses                                                
+       921,278,498      branch-misses                                               
+
+      30.293174438 seconds time elapsed
+
+     120.086913000 seconds user
+      77.271146000 seconds sys
+
+
+stress-ng: info:  [2184] defaulting to a 86400 second run per stressor
+stress-ng: info:  [2184] dispatching hogs: 8 fork
+stress-ng: info:  [2184] successful run completed in 30.62s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+     1,063,742,100      cache-misses                                                
+       911,205,947      branch-misses                                               
+
+      30.618623860 seconds time elapsed
+
+     122.040910000 seconds user
+      77.874510000 seconds sys
+
+
+stress-ng: info:  [1646] defaulting to a 86400 second run per stressor
+stress-ng: info:  [1646] dispatching hogs: 8 fork
+stress-ng: info:  [1646] successful run completed in 30.08s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+     1,068,271,387      cache-misses                                                
+       930,668,896      branch-misses                                               
+
+      30.087072007 seconds time elapsed
+
+     119.179140000 seconds user
+      77.191386000 seconds sys
+
+
+stress-ng: info:  [1040] defaulting to a 86400 second run per stressor
+stress-ng: info:  [1040] dispatching hogs: 8 fork
+stress-ng: info:  [1040] successful run completed in 30.72s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+     1,040,448,937      cache-misses                                                
+       931,062,515      branch-misses                                               
+
+      30.727929254 seconds time elapsed
+
+     121.735230000 seconds user
+      78.504877000 seconds sys
+
+
+stress-ng: info:  [474] defaulting to a 86400 second run per stressor
+stress-ng: info:  [474] dispatching hogs: 8 fork
+stress-ng: info:  [474] successful run completed in 30.16s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+     1,065,327,861      cache-misses                                                
+       921,342,990      branch-misses                                               
+
+      30.159716735 seconds time elapsed
+
+     118.711319000 seconds user
+      77.702605000 seconds sys
+
+
+stress-ng: info:  [32478] defaulting to a 86400 second run per stressor
+stress-ng: info:  [32478] dispatching hogs: 8 fork
+stress-ng: info:  [32478] successful run completed in 30.38s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+     1,072,100,101      cache-misses                                                
+       931,749,587      branch-misses                                               
+
+      30.382751273 seconds time elapsed
+
+     119.577021000 seconds user
+      78.217605000 seconds sys
+
+
+stress-ng: info:  [31968] defaulting to a 86400 second run per stressor
+stress-ng: info:  [31968] dispatching hogs: 8 fork
+stress-ng: info:  [31968] successful run completed in 30.22s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+     1,055,915,279      cache-misses                                                
+       933,194,745      branch-misses                                               
+
+      30.222682586 seconds time elapsed
+
+     118.758751000 seconds user
+      78.352882000 seconds sys
+
+
+stress-ng: info:  [31409] defaulting to a 86400 second run per stressor
+stress-ng: info:  [31409] dispatching hogs: 8 fork
+stress-ng: info:  [31409] successful run completed in 30.74s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+     1,121,975,420      cache-misses                                                
+       935,449,147      branch-misses                                               
+
+      30.745547853 seconds time elapsed
+
+     122.582698000 seconds user
+      78.164089000 seconds sys
+
+

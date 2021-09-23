@@ -1,0 +1,120 @@
+
+ Performance counter stats for './osbench mem_alloc':
+
+     3,326,707,290      cache-misses                                                
+        24,687,726      branch-misses                                               
+
+      24.460433618 seconds time elapsed
+
+      19.028778000 seconds user
+       5.411925000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+     3,321,100,048      cache-misses                                                
+        24,630,604      branch-misses                                               
+
+      24.279450636 seconds time elapsed
+
+      19.114727000 seconds user
+       5.163372000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+     3,279,208,562      cache-misses                                                
+        25,737,687      branch-misses                                               
+
+      24.393711479 seconds time elapsed
+
+      19.268477000 seconds user
+       5.123846000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+     3,280,461,944      cache-misses                                                
+        24,649,728      branch-misses                                               
+
+      24.182076202 seconds time elapsed
+
+      18.944150000 seconds user
+       5.230634000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+     3,276,374,509      cache-misses                                                
+        24,602,307      branch-misses                                               
+
+      24.176754910 seconds time elapsed
+
+      19.029295000 seconds user
+       5.132823000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+     3,285,901,580      cache-misses                                                
+        24,548,326      branch-misses                                               
+
+      24.108693497 seconds time elapsed
+
+      19.099965000 seconds user
+       5.007705000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+     3,268,999,276      cache-misses                                                
+        26,309,067      branch-misses                                               
+
+      24.105034242 seconds time elapsed
+
+      19.274432000 seconds user
+       4.815795000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+     3,280,593,360      cache-misses                                                
+        24,392,033      branch-misses                                               
+
+      24.041954587 seconds time elapsed
+
+      19.000420000 seconds user
+       5.041237000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+     3,271,055,547      cache-misses                                                
+        24,490,782      branch-misses                                               
+
+      24.020560342 seconds time elapsed
+
+      18.783079000 seconds user
+       5.235428000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+     3,307,212,741      cache-misses                                                
+        24,584,589      branch-misses                                               
+
+      24.125319274 seconds time elapsed
+
+      18.944944000 seconds user
+       5.179943000 seconds sys
+
+

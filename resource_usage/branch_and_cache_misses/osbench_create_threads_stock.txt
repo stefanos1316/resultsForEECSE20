@@ -1,0 +1,120 @@
+
+ Performance counter stats for './osbench create_threads':
+
+       695,599,934      cache-misses                                                
+       172,524,068      branch-misses                                               
+
+      24.367208456 seconds time elapsed
+
+       5.481888000 seconds user
+      33.741989000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+       700,910,165      cache-misses                                                
+       188,356,995      branch-misses                                               
+
+      24.423888684 seconds time elapsed
+
+       5.421087000 seconds user
+      33.799912000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+       698,111,710      cache-misses                                                
+       172,552,889      branch-misses                                               
+
+      24.110091509 seconds time elapsed
+
+       5.293724000 seconds user
+      33.687729000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+     1,561,951,457      cache-misses                                                
+       186,445,241      branch-misses                                               
+
+      28.579426270 seconds time elapsed
+
+       5.772730000 seconds user
+      39.275798000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+     1,608,715,022      cache-misses                                                
+       187,686,992      branch-misses                                               
+
+      29.606162218 seconds time elapsed
+
+       5.654482000 seconds user
+      40.655330000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+       705,984,181      cache-misses                                                
+       173,946,295      branch-misses                                               
+
+      24.093727437 seconds time elapsed
+
+       5.549235000 seconds user
+      33.347981000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+       698,594,508      cache-misses                                                
+       173,432,481      branch-misses                                               
+
+      24.235015946 seconds time elapsed
+
+       5.273328000 seconds user
+      33.912139000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+       701,214,201      cache-misses                                                
+       172,472,752      branch-misses                                               
+
+      24.186731870 seconds time elapsed
+
+       5.344178000 seconds user
+      33.655771000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+     1,571,111,499      cache-misses                                                
+       185,949,598      branch-misses                                               
+
+      29.609832183 seconds time elapsed
+
+       5.457684000 seconds user
+      40.904435000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+       701,690,130      cache-misses                                                
+       176,273,393      branch-misses                                               
+
+      24.226586986 seconds time elapsed
+
+       5.438077000 seconds user
+      33.749040000 seconds sys
+
+

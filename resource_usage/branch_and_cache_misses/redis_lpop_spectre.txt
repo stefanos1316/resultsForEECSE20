@@ -1,0 +1,120 @@
+
+ Performance counter stats for './redis lpop':
+
+        26,026,256      cache-misses                                                
+       284,446,541      branch-misses                                               
+
+      57.777727898 seconds time elapsed
+
+      20.016803000 seconds user
+      37.678886000 seconds sys
+
+
+
+ Performance counter stats for './redis lpop':
+
+        24,280,307      cache-misses                                                
+       287,826,099      branch-misses                                               
+
+      57.674084633 seconds time elapsed
+
+      20.243427000 seconds user
+      37.349516000 seconds sys
+
+
+
+ Performance counter stats for './redis lpop':
+
+        24,645,566      cache-misses                                                
+       289,462,124      branch-misses                                               
+
+      57.188600298 seconds time elapsed
+
+      19.729154000 seconds user
+      37.382810000 seconds sys
+
+
+
+ Performance counter stats for './redis lpop':
+
+        24,706,485      cache-misses                                                
+       291,470,818      branch-misses                                               
+
+      57.641187612 seconds time elapsed
+
+      19.733862000 seconds user
+      37.820394000 seconds sys
+
+
+
+ Performance counter stats for './redis lpop':
+
+        24,965,674      cache-misses                                                
+       285,798,318      branch-misses                                               
+
+      58.042647446 seconds time elapsed
+
+      20.063911000 seconds user
+      37.900666000 seconds sys
+
+
+
+ Performance counter stats for './redis lpop':
+
+        25,056,296      cache-misses                                                
+       287,154,450      branch-misses                                               
+
+      57.490322122 seconds time elapsed
+
+      19.577452000 seconds user
+      37.823053000 seconds sys
+
+
+
+ Performance counter stats for './redis lpop':
+
+        24,443,120      cache-misses                                                
+       289,679,748      branch-misses                                               
+
+      58.554810524 seconds time elapsed
+
+      19.730978000 seconds user
+      38.747907000 seconds sys
+
+
+
+ Performance counter stats for './redis lpop':
+
+        24,259,398      cache-misses                                                
+       291,780,794      branch-misses                                               
+
+      57.880295899 seconds time elapsed
+
+      19.829378000 seconds user
+      37.971091000 seconds sys
+
+
+
+ Performance counter stats for './redis lpop':
+
+        23,726,976      cache-misses                                                
+       289,380,168      branch-misses                                               
+
+      57.799154495 seconds time elapsed
+
+      20.111647000 seconds user
+      37.616606000 seconds sys
+
+
+
+ Performance counter stats for './redis lpop':
+
+        25,318,906      cache-misses                                                
+       289,468,889      branch-misses                                               
+
+      57.650786115 seconds time elapsed
+
+      19.201001000 seconds user
+      38.364018000 seconds sys
+
+

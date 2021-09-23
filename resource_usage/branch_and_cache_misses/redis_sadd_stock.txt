@@ -1,0 +1,120 @@
+
+ Performance counter stats for './redis sadd':
+
+        37,610,664      cache-misses                                                
+     1,151,032,603      branch-misses                                               
+
+      93.679409689 seconds time elapsed
+
+      21.145531000 seconds user
+      50.016521000 seconds sys
+
+
+
+ Performance counter stats for './redis sadd':
+
+        36,862,609      cache-misses                                                
+     1,157,238,766      branch-misses                                               
+
+      93.740802840 seconds time elapsed
+
+      21.110238000 seconds user
+      49.786984000 seconds sys
+
+
+
+ Performance counter stats for './redis sadd':
+
+        36,928,981      cache-misses                                                
+     1,152,740,843      branch-misses                                               
+
+      94.301603693 seconds time elapsed
+
+      20.999320000 seconds user
+      50.380264000 seconds sys
+
+
+
+ Performance counter stats for './redis sadd':
+
+        40,683,551      cache-misses                                                
+     1,170,463,095      branch-misses                                               
+
+      93.766724578 seconds time elapsed
+
+      22.006433000 seconds user
+      50.200724000 seconds sys
+
+
+
+ Performance counter stats for './redis sadd':
+
+        37,037,264      cache-misses                                                
+     1,158,324,990      branch-misses                                               
+
+      93.768874823 seconds time elapsed
+
+      21.203850000 seconds user
+      50.011474000 seconds sys
+
+
+
+ Performance counter stats for './redis sadd':
+
+        39,855,531      cache-misses                                                
+     1,145,753,958      branch-misses                                               
+
+      93.947751346 seconds time elapsed
+
+      21.563399000 seconds user
+      49.933316000 seconds sys
+
+
+
+ Performance counter stats for './redis sadd':
+
+        40,051,255      cache-misses                                                
+     1,149,867,282      branch-misses                                               
+
+      94.034552682 seconds time elapsed
+
+      21.347016000 seconds user
+      49.987515000 seconds sys
+
+
+
+ Performance counter stats for './redis sadd':
+
+        38,796,509      cache-misses                                                
+     1,154,995,883      branch-misses                                               
+
+      93.961158616 seconds time elapsed
+
+      21.232121000 seconds user
+      50.442432000 seconds sys
+
+
+
+ Performance counter stats for './redis sadd':
+
+        40,308,108      cache-misses                                                
+     1,157,179,451      branch-misses                                               
+
+      93.966788761 seconds time elapsed
+
+      20.941987000 seconds user
+      50.178933000 seconds sys
+
+
+
+ Performance counter stats for './redis sadd':
+
+        42,074,500      cache-misses                                                
+     1,155,976,307      branch-misses                                               
+
+      94.058362794 seconds time elapsed
+
+      21.227619000 seconds user
+      50.166323000 seconds sys
+
+

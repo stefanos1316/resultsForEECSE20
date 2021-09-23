@@ -1,0 +1,230 @@
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+       569,553,021      cache-misses                                                
+       438,560,852      branch-misses                                               
+
+      41.481619339 seconds time elapsed
+
+       6.762954000 seconds user
+      34.163215000 seconds sys
+
+
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+       643,328,990      cache-misses                                                
+       455,294,277      branch-misses                                               
+
+      41.538321464 seconds time elapsed
+
+       7.008331000 seconds user
+      33.867011000 seconds sys
+
+
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+       608,935,324      cache-misses                                                
+       448,246,523      branch-misses                                               
+
+      43.126858631 seconds time elapsed
+
+       7.223241000 seconds user
+      35.426770000 seconds sys
+
+
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+       648,122,001      cache-misses                                                
+       453,429,641      branch-misses                                               
+
+      41.959982508 seconds time elapsed
+
+       7.360972000 seconds user
+      34.092925000 seconds sys
+
+
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+       636,435,102      cache-misses                                                
+       448,422,294      branch-misses                                               
+
+      42.645105599 seconds time elapsed
+
+       7.299596000 seconds user
+      34.795800000 seconds sys
+
+
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+       651,723,401      cache-misses                                                
+       449,630,752      branch-misses                                               
+
+      42.496592202 seconds time elapsed
+
+       7.153687000 seconds user
+      34.857894000 seconds sys
+
+
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+       645,011,541      cache-misses                                                
+       451,216,525      branch-misses                                               
+
+      42.675090474 seconds time elapsed
+
+       7.242763000 seconds user
+      34.930792000 seconds sys
+
+
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+       641,137,189      cache-misses                                                
+       452,715,562      branch-misses                                               
+
+      42.372493128 seconds time elapsed
+
+       7.428068000 seconds user
+      34.382023000 seconds sys
+
+
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+       635,632,747      cache-misses                                                
+       448,061,497      branch-misses                                               
+
+      42.055816961 seconds time elapsed
+
+       7.269100000 seconds user
+      34.354020000 seconds sys
+
+
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+       645,678,541      cache-misses                                                
+       447,878,236      branch-misses                                               
+
+      43.117936675 seconds time elapsed
+
+       7.212770000 seconds user
+      35.402382000 seconds sys
+
+

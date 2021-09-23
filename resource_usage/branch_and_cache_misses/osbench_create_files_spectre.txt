@@ -1,0 +1,120 @@
+
+ Performance counter stats for './osbench create_files':
+
+       112,568,994      cache-misses                                                
+        16,944,287      branch-misses                                               
+
+      26.777278121 seconds time elapsed
+
+       3.676988000 seconds user
+      23.018292000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_files':
+
+       143,545,557      cache-misses                                                
+        14,398,421      branch-misses                                               
+
+      24.963226221 seconds time elapsed
+
+       3.656805000 seconds user
+      21.304029000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_files':
+
+       124,075,777      cache-misses                                                
+        13,033,863      branch-misses                                               
+
+      25.382385688 seconds time elapsed
+
+       3.474244000 seconds user
+      21.892676000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_files':
+
+       131,367,442      cache-misses                                                
+        12,728,271      branch-misses                                               
+
+      24.986813119 seconds time elapsed
+
+       3.331310000 seconds user
+      21.647162000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_files':
+
+       129,099,716      cache-misses                                                
+        15,436,984      branch-misses                                               
+
+      25.163253001 seconds time elapsed
+
+       3.652134000 seconds user
+      21.504105000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_files':
+
+       128,309,105      cache-misses                                                
+        12,956,115      branch-misses                                               
+
+      25.174814409 seconds time elapsed
+
+       3.436693000 seconds user
+      21.723876000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_files':
+
+       123,163,566      cache-misses                                                
+        14,091,640      branch-misses                                               
+
+      25.159778018 seconds time elapsed
+
+       3.639907000 seconds user
+      21.510679000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_files':
+
+       118,861,372      cache-misses                                                
+        18,438,075      branch-misses                                               
+
+      25.576712977 seconds time elapsed
+
+       3.584179000 seconds user
+      21.984127000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_files':
+
+       111,711,920      cache-misses                                                
+        10,732,028      branch-misses                                               
+
+      24.527080885 seconds time elapsed
+
+       3.469231000 seconds user
+      21.034974000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_files':
+
+       125,065,011      cache-misses                                                
+        15,124,562      branch-misses                                               
+
+      24.979103372 seconds time elapsed
+
+       3.336740000 seconds user
+      21.639131000 seconds sys
+
+

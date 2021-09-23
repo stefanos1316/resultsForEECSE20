@@ -1,0 +1,120 @@
+
+ Performance counter stats for './redis set':
+
+        37,638,115      cache-misses                                                
+     1,155,278,322      branch-misses                                               
+
+      93.302618444 seconds time elapsed
+
+      21.106681000 seconds user
+      49.804971000 seconds sys
+
+
+
+ Performance counter stats for './redis set':
+
+        39,161,634      cache-misses                                                
+     1,145,195,044      branch-misses                                               
+
+      93.552497406 seconds time elapsed
+
+      21.214335000 seconds user
+      49.839936000 seconds sys
+
+
+
+ Performance counter stats for './redis set':
+
+        41,558,746      cache-misses                                                
+     1,158,674,207      branch-misses                                               
+
+      93.698680906 seconds time elapsed
+
+      21.246025000 seconds user
+      49.330140000 seconds sys
+
+
+
+ Performance counter stats for './redis set':
+
+        37,720,115      cache-misses                                                
+     1,165,530,261      branch-misses                                               
+
+      93.374238098 seconds time elapsed
+
+      21.402431000 seconds user
+      49.902695000 seconds sys
+
+
+
+ Performance counter stats for './redis set':
+
+        38,559,508      cache-misses                                                
+     1,155,825,283      branch-misses                                               
+
+      93.464680858 seconds time elapsed
+
+      21.372231000 seconds user
+      50.131249000 seconds sys
+
+
+
+ Performance counter stats for './redis set':
+
+        39,550,195      cache-misses                                                
+     1,165,427,018      branch-misses                                               
+
+      94.087875777 seconds time elapsed
+
+      21.939882000 seconds user
+      49.748388000 seconds sys
+
+
+
+ Performance counter stats for './redis set':
+
+        41,095,636      cache-misses                                                
+     1,154,919,161      branch-misses                                               
+
+      93.501176278 seconds time elapsed
+
+      21.532031000 seconds user
+      49.415083000 seconds sys
+
+
+
+ Performance counter stats for './redis set':
+
+        37,876,435      cache-misses                                                
+     1,153,946,789      branch-misses                                               
+
+      93.446926189 seconds time elapsed
+
+      21.966663000 seconds user
+      49.369448000 seconds sys
+
+
+
+ Performance counter stats for './redis set':
+
+        39,154,525      cache-misses                                                
+     1,160,246,326      branch-misses                                               
+
+      93.491340946 seconds time elapsed
+
+      21.217158000 seconds user
+      50.115223000 seconds sys
+
+
+
+ Performance counter stats for './redis set':
+
+        38,568,473      cache-misses                                                
+     1,151,231,696      branch-misses                                               
+
+      93.602602249 seconds time elapsed
+
+      20.915576000 seconds user
+      50.220554000 seconds sys
+
+

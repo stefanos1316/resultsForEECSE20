@@ -1,0 +1,120 @@
+
+ Performance counter stats for './redis get':
+
+        37,360,368      cache-misses                                                
+     1,167,987,963      branch-misses                                               
+
+      94.090237162 seconds time elapsed
+
+      22.130747000 seconds user
+      49.833739000 seconds sys
+
+
+
+ Performance counter stats for './redis get':
+
+        37,351,731      cache-misses                                                
+     1,157,406,875      branch-misses                                               
+
+      93.625717530 seconds time elapsed
+
+      21.267160000 seconds user
+      49.866858000 seconds sys
+
+
+
+ Performance counter stats for './redis get':
+
+        37,638,847      cache-misses                                                
+     1,155,871,271      branch-misses                                               
+
+      93.736839529 seconds time elapsed
+
+      21.589305000 seconds user
+      50.037362000 seconds sys
+
+
+
+ Performance counter stats for './redis get':
+
+        37,492,882      cache-misses                                                
+     1,155,313,200      branch-misses                                               
+
+      93.767775010 seconds time elapsed
+
+      21.476329000 seconds user
+      49.664597000 seconds sys
+
+
+
+ Performance counter stats for './redis get':
+
+        36,723,192      cache-misses                                                
+     1,157,721,169      branch-misses                                               
+
+      93.696267122 seconds time elapsed
+
+      21.287534000 seconds user
+      49.721801000 seconds sys
+
+
+
+ Performance counter stats for './redis get':
+
+        36,725,510      cache-misses                                                
+     1,152,461,198      branch-misses                                               
+
+      93.519308994 seconds time elapsed
+
+      21.305513000 seconds user
+      50.037388000 seconds sys
+
+
+
+ Performance counter stats for './redis get':
+
+        39,897,542      cache-misses                                                
+     1,151,507,690      branch-misses                                               
+
+      93.761672982 seconds time elapsed
+
+      21.038399000 seconds user
+      50.254324000 seconds sys
+
+
+
+ Performance counter stats for './redis get':
+
+        40,136,557      cache-misses                                                
+     1,156,583,797      branch-misses                                               
+
+      94.154820076 seconds time elapsed
+
+      21.534222000 seconds user
+      49.966257000 seconds sys
+
+
+
+ Performance counter stats for './redis get':
+
+        40,575,429      cache-misses                                                
+     1,157,855,382      branch-misses                                               
+
+      94.060061417 seconds time elapsed
+
+      21.069853000 seconds user
+      50.056984000 seconds sys
+
+
+
+ Performance counter stats for './redis get':
+
+        41,874,007      cache-misses                                                
+     1,144,985,274      branch-misses                                               
+
+      94.155384942 seconds time elapsed
+
+      21.156039000 seconds user
+      50.340463000 seconds sys
+
+

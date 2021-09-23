@@ -1,0 +1,120 @@
+
+ Performance counter stats for './ctx_clock':
+
+         2,292,901      cache-misses                                                
+     1,002,451,858      branch-misses                                               
+
+     330.718329375 seconds time elapsed
+
+     245.765369000 seconds user
+      84.937857000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+         2,912,951      cache-misses                                                
+     1,002,265,433      branch-misses                                               
+
+     330.999287460 seconds time elapsed
+
+     245.230129000 seconds user
+      85.716621000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+         2,315,683      cache-misses                                                
+     1,002,279,392      branch-misses                                               
+
+     330.706186701 seconds time elapsed
+
+     246.455056000 seconds user
+      84.245515000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+         2,494,997      cache-misses                                                
+     1,002,493,367      branch-misses                                               
+
+     330.854750522 seconds time elapsed
+
+     246.721761000 seconds user
+      84.108911000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+         3,395,801      cache-misses                                                
+     1,002,366,518      branch-misses                                               
+
+     330.992387100 seconds time elapsed
+
+     245.632704000 seconds user
+      85.260782000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+         2,707,247      cache-misses                                                
+     1,002,274,612      branch-misses                                               
+
+     330.897847653 seconds time elapsed
+
+     245.367849000 seconds user
+      85.481450000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+         2,625,905      cache-misses                                                
+     1,002,317,379      branch-misses                                               
+
+     330.723897960 seconds time elapsed
+
+     245.659127000 seconds user
+      85.024278000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+         2,666,581      cache-misses                                                
+     1,002,393,740      branch-misses                                               
+
+     330.487823166 seconds time elapsed
+
+     246.131006000 seconds user
+      84.340126000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+         2,645,234      cache-misses                                                
+     1,002,411,372      branch-misses                                               
+
+     330.710478858 seconds time elapsed
+
+     245.444295000 seconds user
+      85.231104000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+         2,213,917      cache-misses                                                
+     1,002,164,001      branch-misses                                               
+
+     330.689428494 seconds time elapsed
+
+     246.060787000 seconds user
+      84.627402000 seconds sys
+
+

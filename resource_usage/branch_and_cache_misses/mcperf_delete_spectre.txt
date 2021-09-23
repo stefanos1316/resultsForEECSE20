@@ -1,0 +1,370 @@
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 15.542 s
+
+Connection rate: 0.1 conn/s (15541.5 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 15541.5 min 15541.5 max 15541.5 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 128687.5 req/s (0.0 ms/req)
+Request size [B]: avg 22.0 min 22.0 max 22.0 stddev 0.00
+
+Response rate: 128687.5 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 11.0 min 9.0 max 11.0 stddev 0.15
+Response time [ms]: avg 0.0 min 0.0 max 0.9 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 0 not_stored 0 exists 0 not_found 1988224
+Response type: num 0 deleted 11776 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 6.30 system 9.24 (user 40.5% system 59.5% total 100.0%)
+Net I/O: bytes 62.9 MB rate 4145.7 KB/s (34.0*10^6 bps)
+
+
+ Performance counter stats for './mcperf delete':
+
+           540,158      cache-misses                                                
+        10,932,321      branch-misses                                               
+
+      15.544016125 seconds time elapsed
+
+       6.299198000 seconds user
+       9.241388000 seconds sys
+
+
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 15.518 s
+
+Connection rate: 0.1 conn/s (15518.5 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 15518.5 min 15518.5 max 15518.5 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 128878.8 req/s (0.0 ms/req)
+Request size [B]: avg 22.0 min 22.0 max 22.0 stddev 0.00
+
+Response rate: 128878.8 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 11.0 min 9.0 max 11.0 stddev 0.14
+Response time [ms]: avg 0.0 min 0.0 max 1.1 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 0 not_stored 0 exists 0 not_found 1990616
+Response type: num 0 deleted 9384 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 6.38 system 9.13 (user 41.1% system 58.8% total 99.9%)
+Net I/O: bytes 62.9 MB rate 4152.1 KB/s (34.0*10^6 bps)
+
+
+ Performance counter stats for './mcperf delete':
+
+           539,152      cache-misses                                                
+         9,546,451      branch-misses                                               
+
+      15.521017560 seconds time elapsed
+
+       6.381818000 seconds user
+       9.131503000 seconds sys
+
+
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 15.355 s
+
+Connection rate: 0.1 conn/s (15355.1 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 15355.1 min 15355.1 max 15355.1 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 130250.0 req/s (0.0 ms/req)
+Request size [B]: avg 22.0 min 22.0 max 22.0 stddev 0.00
+
+Response rate: 130250.0 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 11.0 min 9.0 max 11.0 stddev 0.15
+Response time [ms]: avg 0.0 min 0.0 max 1.0 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 0 not_stored 0 exists 0 not_found 1988960
+Response type: num 0 deleted 11040 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 6.44 system 8.92 (user 41.9% system 58.1% total 100.0%)
+Net I/O: bytes 62.9 MB rate 4196.1 KB/s (34.4*10^6 bps)
+
+
+ Performance counter stats for './mcperf delete':
+
+           468,519      cache-misses                                                
+         6,847,464      branch-misses                                               
+
+      15.357652143 seconds time elapsed
+
+       6.440757000 seconds user
+       8.915718000 seconds sys
+
+
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 15.613 s
+
+Connection rate: 0.1 conn/s (15612.9 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 15612.9 min 15612.9 max 15612.9 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 128098.9 req/s (0.0 ms/req)
+Request size [B]: avg 22.0 min 22.0 max 22.0 stddev 0.00
+
+Response rate: 128098.9 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 11.0 min 9.0 max 11.0 stddev 0.15
+Response time [ms]: avg 0.0 min 0.0 max 1.5 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 0 not_stored 0 exists 0 not_found 1988960
+Response type: num 0 deleted 11040 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 6.40 system 9.21 (user 41.0% system 59.0% total 100.0%)
+Net I/O: bytes 62.9 MB rate 4126.8 KB/s (33.8*10^6 bps)
+
+
+ Performance counter stats for './mcperf delete':
+
+           516,790      cache-misses                                                
+         8,691,634      branch-misses                                               
+
+      15.615478957 seconds time elapsed
+
+       6.403701000 seconds user
+       9.210173000 seconds sys
+
+
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 15.375 s
+
+Connection rate: 0.1 conn/s (15375.2 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 15375.2 min 15375.2 max 15375.2 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 130079.6 req/s (0.0 ms/req)
+Request size [B]: avg 22.0 min 22.0 max 22.0 stddev 0.00
+
+Response rate: 130079.6 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 11.0 min 9.0 max 11.0 stddev 0.15
+Response time [ms]: avg 0.0 min 0.0 max 0.1 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 0 not_stored 0 exists 0 not_found 1988960
+Response type: num 0 deleted 11040 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 6.17 system 9.20 (user 40.2% system 59.8% total 100.0%)
+Net I/O: bytes 62.9 MB rate 4190.6 KB/s (34.3*10^6 bps)
+
+
+ Performance counter stats for './mcperf delete':
+
+           556,319      cache-misses                                                
+        11,192,750      branch-misses                                               
+
+      15.377746019 seconds time elapsed
+
+       6.176752000 seconds user
+       9.199727000 seconds sys
+
+
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 15.524 s
+
+Connection rate: 0.1 conn/s (15524.3 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 15524.3 min 15524.3 max 15524.3 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 128829.9 req/s (0.0 ms/req)
+Request size [B]: avg 22.0 min 22.0 max 22.0 stddev 0.00
+
+Response rate: 128829.9 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 11.0 min 9.0 max 11.0 stddev 0.13
+Response time [ms]: avg 0.0 min 0.0 max 0.6 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 0 not_stored 0 exists 0 not_found 1992088
+Response type: num 0 deleted 7912 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 6.30 system 9.22 (user 40.6% system 59.4% total 100.0%)
+Net I/O: bytes 62.9 MB rate 4150.8 KB/s (34.0*10^6 bps)
+
+
+ Performance counter stats for './mcperf delete':
+
+           495,394      cache-misses                                                
+         9,237,655      branch-misses                                               
+
+      15.526884047 seconds time elapsed
+
+       6.305591000 seconds user
+       9.220007000 seconds sys
+
+
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 15.752 s
+
+Connection rate: 0.1 conn/s (15751.9 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 15751.9 min 15751.9 max 15751.9 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 126968.6 req/s (0.0 ms/req)
+Request size [B]: avg 22.0 min 22.0 max 22.0 stddev 0.00
+
+Response rate: 126968.6 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 11.0 min 9.0 max 11.0 stddev 0.15
+Response time [ms]: avg 0.0 min 0.0 max 1.0 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 0 not_stored 0 exists 0 not_found 1988960
+Response type: num 0 deleted 11040 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 6.41 system 9.34 (user 40.7% system 59.3% total 100.0%)
+Net I/O: bytes 62.9 MB rate 4090.4 KB/s (33.5*10^6 bps)
+
+
+ Performance counter stats for './mcperf delete':
+
+           587,903      cache-misses                                                
+        11,732,391      branch-misses                                               
+
+      15.754576280 seconds time elapsed
+
+       6.410075000 seconds user
+       9.339737000 seconds sys
+
+
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 15.425 s
+
+Connection rate: 0.1 conn/s (15425.0 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 15425.0 min 15425.0 max 15425.0 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 129659.4 req/s (0.0 ms/req)
+Request size [B]: avg 22.0 min 22.0 max 22.0 stddev 0.00
+
+Response rate: 129659.4 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 11.0 min 9.0 max 11.0 stddev 0.15
+Response time [ms]: avg 0.0 min 0.0 max 0.6 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 0 not_stored 0 exists 0 not_found 1988960
+Response type: num 0 deleted 11040 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 6.26 system 9.17 (user 40.6% system 59.4% total 100.0%)
+Net I/O: bytes 62.9 MB rate 4177.1 KB/s (34.2*10^6 bps)
+
+
+ Performance counter stats for './mcperf delete':
+
+           596,450      cache-misses                                                
+         9,096,031      branch-misses                                               
+
+      15.427581717 seconds time elapsed
+
+       6.256401000 seconds user
+       9.169584000 seconds sys
+
+
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 15.448 s
+
+Connection rate: 0.1 conn/s (15447.6 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 15447.6 min 15447.6 max 15447.6 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 129470.4 req/s (0.0 ms/req)
+Request size [B]: avg 22.0 min 22.0 max 22.0 stddev 0.00
+
+Response rate: 129470.4 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 11.0 min 9.0 max 11.0 stddev 0.15
+Response time [ms]: avg 0.0 min 0.0 max 1.0 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 0 not_stored 0 exists 0 not_found 1988960
+Response type: num 0 deleted 11040 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 6.49 system 8.96 (user 42.0% system 58.0% total 100.0%)
+Net I/O: bytes 62.9 MB rate 4171.0 KB/s (34.2*10^6 bps)
+
+
+ Performance counter stats for './mcperf delete':
+
+           507,212      cache-misses                                                
+         8,533,316      branch-misses                                               
+
+      15.450075000 seconds time elapsed
+
+       6.488421000 seconds user
+       8.959243000 seconds sys
+
+
+
+Total: connections 1 requests 2000000 responses 2000000 test-duration 15.465 s
+
+Connection rate: 0.1 conn/s (15464.6 ms/conn <= 1 concurrent connections)
+Connection time [ms]: avg 15464.6 min 15464.6 max 15464.6 stddev 0.00
+Connect time [ms]: avg 0.0 min 0.0 max 0.0 stddev 0.00
+
+Request rate: 129327.2 req/s (0.0 ms/req)
+Request size [B]: avg 22.0 min 22.0 max 22.0 stddev 0.00
+
+Response rate: 129327.2 rsp/s (0.0 ms/rsp)
+Response size [B]: avg 11.0 min 9.0 max 11.0 stddev 0.15
+Response time [ms]: avg 0.0 min 0.0 max 1.1 stddev 0.00
+Response time [ms]: p25 1.0 p50 1.0 p75 1.0
+Response time [ms]: p95 1.0 p99 1.0 p999 1.0
+Response type: stored 0 not_stored 0 exists 0 not_found 1988960
+Response type: num 0 deleted 11040 end 0 value 0
+Response type: error 0 client_error 0 server_error 0
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 ftab-full 0 addrunavail 0 other 0
+
+CPU time [s]: user 6.20 system 9.26 (user 40.1% system 59.9% total 100.0%)
+Net I/O: bytes 62.9 MB rate 4166.4 KB/s (34.1*10^6 bps)
+
+
+ Performance counter stats for './mcperf delete':
+
+           468,167      cache-misses                                                
+        11,905,670      branch-misses                                               
+
+      15.467213458 seconds time elapsed
+
+       6.204377000 seconds user
+       9.261503000 seconds sys
+
+

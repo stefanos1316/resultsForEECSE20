@@ -1,0 +1,150 @@
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 54.3715 s, 1.9 GB/s
+
+ Performance counter stats for './network-loopback':
+
+        27,044,890      cache-misses                                                
+     1,095,530,265      branch-misses                                               
+
+      63.432399439 seconds time elapsed
+
+      19.918447000 seconds user
+     106.402174000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 54.1912 s, 1.9 GB/s
+
+ Performance counter stats for './network-loopback':
+
+        29,295,616      cache-misses                                                
+     1,095,544,690      branch-misses                                               
+
+      63.200225051 seconds time elapsed
+
+      19.143527000 seconds user
+     107.024612000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 54.3184 s, 1.9 GB/s
+
+ Performance counter stats for './network-loopback':
+
+        26,199,029      cache-misses                                                
+     1,089,279,787      branch-misses                                               
+
+      63.328661742 seconds time elapsed
+
+      19.434379000 seconds user
+     106.926568000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 54.0871 s, 1.9 GB/s
+
+ Performance counter stats for './network-loopback':
+
+        23,152,832      cache-misses                                                
+     1,093,081,512      branch-misses                                               
+
+      63.097378312 seconds time elapsed
+
+      19.868015000 seconds user
+     105.757528000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 54.1893 s, 1.9 GB/s
+
+ Performance counter stats for './network-loopback':
+
+        22,195,100      cache-misses                                                
+     1,096,990,878      branch-misses                                               
+
+      63.199513860 seconds time elapsed
+
+      19.225799000 seconds user
+     106.460213000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 54.3572 s, 1.9 GB/s
+
+ Performance counter stats for './network-loopback':
+
+        25,655,890      cache-misses                                                
+     1,097,006,135      branch-misses                                               
+
+      63.367664024 seconds time elapsed
+
+       9.508752000 seconds user
+      80.371429000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 54.6893 s, 1.9 GB/s
+
+ Performance counter stats for './network-loopback':
+
+        29,017,639      cache-misses                                                
+     1,093,869,343      branch-misses                                               
+
+      63.699516725 seconds time elapsed
+
+      19.658692000 seconds user
+     107.414685000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 54.1435 s, 1.9 GB/s
+
+ Performance counter stats for './network-loopback':
+
+        25,653,701      cache-misses                                                
+     1,092,267,204      branch-misses                                               
+
+      63.153818497 seconds time elapsed
+
+      19.128113000 seconds user
+     106.800462000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 54.4326 s, 1.9 GB/s
+
+ Performance counter stats for './network-loopback':
+
+        30,873,653      cache-misses                                                
+     1,096,588,834      branch-misses                                               
+
+      63.442792023 seconds time elapsed
+
+      19.543820000 seconds user
+     106.792251000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 54.4437 s, 1.9 GB/s
+
+ Performance counter stats for './network-loopback':
+
+        25,036,509      cache-misses                                                
+     1,099,490,988      branch-misses                                               
+
+      63.453810295 seconds time elapsed
+
+      19.058546000 seconds user
+     107.400662000 seconds sys
+
+

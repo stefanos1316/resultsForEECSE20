@@ -1,0 +1,120 @@
+
+ Performance counter stats for './build-linux-kernel':
+
+   253,843,788,262      cache-misses                                                
+   171,827,743,892      branch-misses                                               
+
+    1313.242299572 seconds time elapsed
+
+    8699.634601000 seconds user
+     853.706578000 seconds sys
+
+
+
+ Performance counter stats for './build-linux-kernel':
+
+   254,994,652,645      cache-misses                                                
+   172,087,932,203      branch-misses                                               
+
+    1307.658543682 seconds time elapsed
+
+    8724.930844000 seconds user
+     870.172444000 seconds sys
+
+
+
+ Performance counter stats for './build-linux-kernel':
+
+   255,267,929,070      cache-misses                                                
+   172,109,541,894      branch-misses                                               
+
+    1301.621994868 seconds time elapsed
+
+    8724.022583000 seconds user
+     874.140590000 seconds sys
+
+
+
+ Performance counter stats for './build-linux-kernel':
+
+   255,022,048,363      cache-misses                                                
+   172,090,321,068      branch-misses                                               
+
+    1311.938820650 seconds time elapsed
+
+    8720.826976000 seconds user
+     874.435413000 seconds sys
+
+
+
+ Performance counter stats for './build-linux-kernel':
+
+   255,056,591,681      cache-misses                                                
+   172,124,035,794      branch-misses                                               
+
+    1306.942489584 seconds time elapsed
+
+    8725.766507000 seconds user
+     872.984133000 seconds sys
+
+
+
+ Performance counter stats for './build-linux-kernel':
+
+   255,097,503,576      cache-misses                                                
+   172,088,853,416      branch-misses                                               
+
+    1307.626356284 seconds time elapsed
+
+    8721.752414000 seconds user
+     871.436324000 seconds sys
+
+
+
+ Performance counter stats for './build-linux-kernel':
+
+   254,971,156,090      cache-misses                                                
+   172,090,245,775      branch-misses                                               
+
+    1306.766445115 seconds time elapsed
+
+    8725.212166000 seconds user
+     870.938439000 seconds sys
+
+
+
+ Performance counter stats for './build-linux-kernel':
+
+   255,094,333,578      cache-misses                                                
+   172,115,576,964      branch-misses                                               
+
+    1308.730827039 seconds time elapsed
+
+    8728.585524000 seconds user
+     873.169057000 seconds sys
+
+
+
+ Performance counter stats for './build-linux-kernel':
+
+   255,017,959,000      cache-misses                                                
+   172,107,587,364      branch-misses                                               
+
+    1308.495347672 seconds time elapsed
+
+    8730.375598000 seconds user
+     872.147940000 seconds sys
+
+
+
+ Performance counter stats for './build-linux-kernel':
+
+   255,079,916,267      cache-misses                                                
+   172,106,362,981      branch-misses                                               
+
+    1307.547921367 seconds time elapsed
+
+    8720.529309000 seconds user
+     872.044376000 seconds sys
+
+

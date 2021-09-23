@@ -1,0 +1,120 @@
+
+ Performance counter stats for './osbench create_processes':
+
+     1,527,389,953      cache-misses                                                
+       375,713,917      branch-misses                                               
+
+      25.833551373 seconds time elapsed
+
+      73.085912000 seconds user
+      25.614616000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+     1,571,861,190      cache-misses                                                
+       369,602,814      branch-misses                                               
+
+      26.499253514 seconds time elapsed
+
+      72.861402000 seconds user
+      26.297746000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+     1,605,152,174      cache-misses                                                
+       389,456,603      branch-misses                                               
+
+      26.322748856 seconds time elapsed
+
+      76.233523000 seconds user
+      26.156054000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+     1,537,621,631      cache-misses                                                
+       380,872,408      branch-misses                                               
+
+      26.143855246 seconds time elapsed
+
+      75.065731000 seconds user
+      25.852059000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+     1,640,400,351      cache-misses                                                
+       378,310,449      branch-misses                                               
+
+      26.962771397 seconds time elapsed
+
+      73.716314000 seconds user
+      26.648729000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+     1,573,083,759      cache-misses                                                
+       371,340,637      branch-misses                                               
+
+      26.885331146 seconds time elapsed
+
+      72.642844000 seconds user
+      26.502719000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+     1,630,753,738      cache-misses                                                
+       399,304,206      branch-misses                                               
+
+      26.526175658 seconds time elapsed
+
+      78.811882000 seconds user
+      26.416058000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+     1,707,141,423      cache-misses                                                
+       406,045,311      branch-misses                                               
+
+      26.764601284 seconds time elapsed
+
+      78.821886000 seconds user
+      26.712975000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+     1,568,404,404      cache-misses                                                
+       402,541,490      branch-misses                                               
+
+      26.070403202 seconds time elapsed
+
+      78.962805000 seconds user
+      26.003729000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+     1,532,601,476      cache-misses                                                
+       379,340,332      branch-misses                                               
+
+      26.060144335 seconds time elapsed
+
+      74.212658000 seconds user
+      25.860619000 seconds sys
+
+

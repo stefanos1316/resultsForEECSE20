@@ -1,0 +1,120 @@
+
+ Performance counter stats for './osbench launch_programs':
+
+     1,045,152,044      cache-misses                                                
+     1,073,339,188      branch-misses                                               
+
+      14.339358911 seconds time elapsed
+
+      82.274638000 seconds user
+      16.843199000 seconds sys
+
+
+
+ Performance counter stats for './osbench launch_programs':
+
+       943,368,078      cache-misses                                                
+     1,075,917,121      branch-misses                                               
+
+      14.291227593 seconds time elapsed
+
+      82.915792000 seconds user
+      16.085869000 seconds sys
+
+
+
+ Performance counter stats for './osbench launch_programs':
+
+       866,417,734      cache-misses                                                
+     1,078,421,300      branch-misses                                               
+
+      14.157777815 seconds time elapsed
+
+      82.144511000 seconds user
+      16.114945000 seconds sys
+
+
+
+ Performance counter stats for './osbench launch_programs':
+
+       877,209,286      cache-misses                                                
+     1,076,074,742      branch-misses                                               
+
+      14.147329149 seconds time elapsed
+
+      82.307377000 seconds user
+      16.055407000 seconds sys
+
+
+
+ Performance counter stats for './osbench launch_programs':
+
+       877,640,677      cache-misses                                                
+     1,077,810,586      branch-misses                                               
+
+      14.197084004 seconds time elapsed
+
+      82.451493000 seconds user
+      15.798751000 seconds sys
+
+
+
+ Performance counter stats for './osbench launch_programs':
+
+       840,562,739      cache-misses                                                
+     1,072,015,546      branch-misses                                               
+
+      14.045677612 seconds time elapsed
+
+      82.096960000 seconds user
+      15.715641000 seconds sys
+
+
+
+ Performance counter stats for './osbench launch_programs':
+
+       846,860,992      cache-misses                                                
+     1,074,750,834      branch-misses                                               
+
+      14.052191241 seconds time elapsed
+
+      82.522193000 seconds user
+      16.003746000 seconds sys
+
+
+
+ Performance counter stats for './osbench launch_programs':
+
+       872,225,980      cache-misses                                                
+     1,076,923,079      branch-misses                                               
+
+      14.156366719 seconds time elapsed
+
+      82.904364000 seconds user
+      16.003838000 seconds sys
+
+
+
+ Performance counter stats for './osbench launch_programs':
+
+       862,758,483      cache-misses                                                
+     1,078,467,849      branch-misses                                               
+
+      14.135091067 seconds time elapsed
+
+      82.914249000 seconds user
+      16.006156000 seconds sys
+
+
+
+ Performance counter stats for './osbench launch_programs':
+
+       837,799,132      cache-misses                                                
+     1,075,402,580      branch-misses                                               
+
+      13.937311209 seconds time elapsed
+
+      82.068386000 seconds user
+      15.640825000 seconds sys
+
+

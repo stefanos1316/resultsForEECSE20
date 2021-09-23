@@ -1,0 +1,150 @@
+stress-ng: info:  [778] defaulting to a 86400 second run per stressor
+stress-ng: info:  [778] dispatching hogs: 8 sem
+stress-ng: info:  [778] successful run completed in 20.32s
+
+ Performance counter stats for './stress-ng --sem 0 --sem-ops 100000000':
+
+         3,178,353      cache-misses                                                
+       367,372,832      branch-misses                                               
+
+      20.319451941 seconds time elapsed
+
+      55.658819000 seconds user
+     106.106977000 seconds sys
+
+
+stress-ng: info:  [32316] defaulting to a 86400 second run per stressor
+stress-ng: info:  [32316] dispatching hogs: 8 sem
+stress-ng: info:  [32316] successful run completed in 20.52s
+
+ Performance counter stats for './stress-ng --sem 0 --sem-ops 100000000':
+
+         3,255,000      cache-misses                                                
+       367,265,856      branch-misses                                               
+
+      20.519184468 seconds time elapsed
+
+      56.290384000 seconds user
+     107.288078000 seconds sys
+
+
+stress-ng: info:  [31383] defaulting to a 86400 second run per stressor
+stress-ng: info:  [31383] dispatching hogs: 8 sem
+stress-ng: info:  [31383] successful run completed in 20.31s
+
+ Performance counter stats for './stress-ng --sem 0 --sem-ops 100000000':
+
+         2,521,492      cache-misses                                                
+       370,753,866      branch-misses                                               
+
+      20.315951430 seconds time elapsed
+
+      55.954966000 seconds user
+     106.032567000 seconds sys
+
+
+stress-ng: info:  [30517] defaulting to a 86400 second run per stressor
+stress-ng: info:  [30517] dispatching hogs: 8 sem
+stress-ng: info:  [30517] successful run completed in 20.32s
+
+ Performance counter stats for './stress-ng --sem 0 --sem-ops 100000000':
+
+         2,420,244      cache-misses                                                
+       370,884,336      branch-misses                                               
+
+      20.320776198 seconds time elapsed
+
+      56.396540000 seconds user
+     105.239155000 seconds sys
+
+
+stress-ng: info:  [29530] defaulting to a 86400 second run per stressor
+stress-ng: info:  [29530] dispatching hogs: 8 sem
+stress-ng: info:  [29530] successful run completed in 20.42s
+
+ Performance counter stats for './stress-ng --sem 0 --sem-ops 100000000':
+
+         3,454,364      cache-misses                                                
+       374,377,051      branch-misses                                               
+
+      20.420702648 seconds time elapsed
+
+      55.544665000 seconds user
+     107.230809000 seconds sys
+
+
+stress-ng: info:  [28638] defaulting to a 86400 second run per stressor
+stress-ng: info:  [28638] dispatching hogs: 8 sem
+stress-ng: info:  [28638] successful run completed in 18.11s
+
+ Performance counter stats for './stress-ng --sem 0 --sem-ops 100000000':
+
+         2,281,327      cache-misses                                                
+       206,269,227      branch-misses                                               
+
+      18.115120616 seconds time elapsed
+
+      42.513524000 seconds user
+     101.396280000 seconds sys
+
+
+stress-ng: info:  [27669] defaulting to a 86400 second run per stressor
+stress-ng: info:  [27669] dispatching hogs: 8 sem
+stress-ng: info:  [27669] successful run completed in 20.11s
+
+ Performance counter stats for './stress-ng --sem 0 --sem-ops 100000000':
+
+         2,531,028      cache-misses                                                
+       368,476,572      branch-misses                                               
+
+      20.115564237 seconds time elapsed
+
+      56.142328000 seconds user
+     104.262184000 seconds sys
+
+
+stress-ng: info:  [26716] defaulting to a 86400 second run per stressor
+stress-ng: info:  [26716] dispatching hogs: 8 sem
+stress-ng: info:  [26716] successful run completed in 20.42s
+
+ Performance counter stats for './stress-ng --sem 0 --sem-ops 100000000':
+
+         3,124,249      cache-misses                                                
+       369,992,291      branch-misses                                               
+
+      20.419182030 seconds time elapsed
+
+      55.556348000 seconds user
+     106.763470000 seconds sys
+
+
+stress-ng: info:  [25755] defaulting to a 86400 second run per stressor
+stress-ng: info:  [25755] dispatching hogs: 8 sem
+stress-ng: info:  [25755] successful run completed in 20.42s
+
+ Performance counter stats for './stress-ng --sem 0 --sem-ops 100000000':
+
+         3,162,848      cache-misses                                                
+       368,010,542      branch-misses                                               
+
+      20.421552920 seconds time elapsed
+
+      55.253120000 seconds user
+     107.121940000 seconds sys
+
+
+stress-ng: info:  [24765] defaulting to a 86400 second run per stressor
+stress-ng: info:  [24765] dispatching hogs: 8 sem
+stress-ng: info:  [24765] successful run completed in 20.21s
+
+ Performance counter stats for './stress-ng --sem 0 --sem-ops 100000000':
+
+         2,387,269      cache-misses                                                
+       364,052,726      branch-misses                                               
+
+      20.215315292 seconds time elapsed
+
+      56.174062000 seconds user
+     104.723582000 seconds sys
+
+
