@@ -1,0 +1,110 @@
+
+ Performance counter stats for './osbench create_processes':
+
+     4,886,815,330      l1d_pend_miss.fb_full                                       
+
+      25.826502345 seconds time elapsed
+
+      76.681422000 seconds user
+      25.704143000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+     4,424,538,761      l1d_pend_miss.fb_full                                       
+
+      25.765165571 seconds time elapsed
+
+      72.576591000 seconds user
+      25.506569000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+     4,384,930,068      l1d_pend_miss.fb_full                                       
+
+      25.521489659 seconds time elapsed
+
+      72.483467000 seconds user
+      25.252381000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+     4,389,022,124      l1d_pend_miss.fb_full                                       
+
+      25.386933198 seconds time elapsed
+
+      75.088756000 seconds user
+      25.170241000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+     4,621,997,461      l1d_pend_miss.fb_full                                       
+
+      25.736137426 seconds time elapsed
+
+      74.228685000 seconds user
+      25.425166000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+     4,715,004,838      l1d_pend_miss.fb_full                                       
+
+      25.562019833 seconds time elapsed
+
+      74.489621000 seconds user
+      25.222602000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+     4,411,672,497      l1d_pend_miss.fb_full                                       
+
+      25.965055442 seconds time elapsed
+
+      72.746061000 seconds user
+      25.625516000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+     4,453,613,058      l1d_pend_miss.fb_full                                       
+
+      25.412562660 seconds time elapsed
+
+      72.038164000 seconds user
+      25.179824000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+     4,710,621,048      l1d_pend_miss.fb_full                                       
+
+      25.748101667 seconds time elapsed
+
+      74.873299000 seconds user
+      25.445179000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_processes':
+
+     4,295,730,738      l1d_pend_miss.fb_full                                       
+
+      25.659378084 seconds time elapsed
+
+      71.746508000 seconds user
+      25.281007000 seconds sys
+
+

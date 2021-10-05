@@ -1,0 +1,110 @@
+
+ Performance counter stats for './osbench launch_programs':
+
+     1,786,106,237      l1d_pend_miss.fb_full                                       
+
+      13.050028801 seconds time elapsed
+
+      75.833914000 seconds user
+      14.900502000 seconds sys
+
+
+
+ Performance counter stats for './osbench launch_programs':
+
+     1,658,899,211      l1d_pend_miss.fb_full                                       
+
+      12.935943234 seconds time elapsed
+
+      75.178721000 seconds user
+      14.726134000 seconds sys
+
+
+
+ Performance counter stats for './osbench launch_programs':
+
+     1,652,664,805      l1d_pend_miss.fb_full                                       
+
+      12.989742896 seconds time elapsed
+
+      75.658229000 seconds user
+      14.772561000 seconds sys
+
+
+
+ Performance counter stats for './osbench launch_programs':
+
+     1,686,003,432      l1d_pend_miss.fb_full                                       
+
+      12.900998746 seconds time elapsed
+
+      75.130358000 seconds user
+      14.581041000 seconds sys
+
+
+
+ Performance counter stats for './osbench launch_programs':
+
+     1,825,609,481      l1d_pend_miss.fb_full                                       
+
+      12.963597842 seconds time elapsed
+
+      75.382229000 seconds user
+      15.201245000 seconds sys
+
+
+
+ Performance counter stats for './osbench launch_programs':
+
+     1,640,047,728      l1d_pend_miss.fb_full                                       
+
+      12.914393128 seconds time elapsed
+
+      75.111900000 seconds user
+      14.977556000 seconds sys
+
+
+
+ Performance counter stats for './osbench launch_programs':
+
+     1,686,742,775      l1d_pend_miss.fb_full                                       
+
+      12.919832443 seconds time elapsed
+
+      75.121980000 seconds user
+      14.976731000 seconds sys
+
+
+
+ Performance counter stats for './osbench launch_programs':
+
+     1,755,702,811      l1d_pend_miss.fb_full                                       
+
+      13.008579505 seconds time elapsed
+
+      75.808237000 seconds user
+      14.924613000 seconds sys
+
+
+
+ Performance counter stats for './osbench launch_programs':
+
+     1,689,179,488      l1d_pend_miss.fb_full                                       
+
+      12.876776915 seconds time elapsed
+
+      75.070605000 seconds user
+      14.707523000 seconds sys
+
+
+
+ Performance counter stats for './osbench launch_programs':
+
+     1,644,625,866      l1d_pend_miss.fb_full                                       
+
+      12.930876233 seconds time elapsed
+
+      75.411318000 seconds user
+      14.687333000 seconds sys
+
+

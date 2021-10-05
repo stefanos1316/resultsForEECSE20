@@ -1,0 +1,110 @@
+
+ Performance counter stats for './osbench mem_alloc':
+
+       472,864,621      l1d_pend_miss.fb_full                                       
+
+      22.902454612 seconds time elapsed
+
+      18.022764000 seconds user
+       4.864465000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+       464,967,768      l1d_pend_miss.fb_full                                       
+
+      22.767883718 seconds time elapsed
+
+      17.831056000 seconds user
+       4.935452000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+       466,653,393      l1d_pend_miss.fb_full                                       
+
+      22.757376909 seconds time elapsed
+
+      17.840519000 seconds user
+       4.915857000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+       464,209,401      l1d_pend_miss.fb_full                                       
+
+      22.797397002 seconds time elapsed
+
+      17.875919000 seconds user
+       4.921081000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+       455,553,551      l1d_pend_miss.fb_full                                       
+
+      22.777743652 seconds time elapsed
+
+      17.939233000 seconds user
+       4.820297000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+       463,803,219      l1d_pend_miss.fb_full                                       
+
+      22.840884581 seconds time elapsed
+
+      17.999148000 seconds user
+       4.840814000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+       467,109,172      l1d_pend_miss.fb_full                                       
+
+      22.757776337 seconds time elapsed
+
+      17.916094000 seconds user
+       4.841095000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+       461,902,245      l1d_pend_miss.fb_full                                       
+
+      22.805840067 seconds time elapsed
+
+      17.957544000 seconds user
+       4.847054000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+       460,099,820      l1d_pend_miss.fb_full                                       
+
+      22.846645846 seconds time elapsed
+
+      17.976239000 seconds user
+       4.869099000 seconds sys
+
+
+
+ Performance counter stats for './osbench mem_alloc':
+
+       452,810,878      l1d_pend_miss.fb_full                                       
+
+      22.806339455 seconds time elapsed
+
+      17.649764000 seconds user
+       5.156214000 seconds sys
+
+

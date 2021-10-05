@@ -1,0 +1,110 @@
+
+ Performance counter stats for './redis lpush':
+
+        77,047,619      l1d_pend_miss.fb_full                                       
+
+      93.396809077 seconds time elapsed
+
+      20.865443000 seconds user
+      50.859839000 seconds sys
+
+
+
+ Performance counter stats for './redis lpush':
+
+        77,209,433      l1d_pend_miss.fb_full                                       
+
+      93.197655559 seconds time elapsed
+
+      21.101433000 seconds user
+      51.019251000 seconds sys
+
+
+
+ Performance counter stats for './redis lpush':
+
+        77,448,989      l1d_pend_miss.fb_full                                       
+
+      93.241839641 seconds time elapsed
+
+      21.348502000 seconds user
+      50.438449000 seconds sys
+
+
+
+ Performance counter stats for './redis lpush':
+
+        77,357,425      l1d_pend_miss.fb_full                                       
+
+      93.367647223 seconds time elapsed
+
+      20.928297000 seconds user
+      50.869863000 seconds sys
+
+
+
+ Performance counter stats for './redis lpush':
+
+        77,336,577      l1d_pend_miss.fb_full                                       
+
+      93.402907658 seconds time elapsed
+
+      21.103193000 seconds user
+      50.105311000 seconds sys
+
+
+
+ Performance counter stats for './redis lpush':
+
+        77,620,559      l1d_pend_miss.fb_full                                       
+
+      93.210180222 seconds time elapsed
+
+      21.379529000 seconds user
+      50.146864000 seconds sys
+
+
+
+ Performance counter stats for './redis lpush':
+
+        77,582,253      l1d_pend_miss.fb_full                                       
+
+      93.402187006 seconds time elapsed
+
+      21.452647000 seconds user
+      50.259105000 seconds sys
+
+
+
+ Performance counter stats for './redis lpush':
+
+        77,228,033      l1d_pend_miss.fb_full                                       
+
+      93.168855439 seconds time elapsed
+
+      21.350329000 seconds user
+      50.247613000 seconds sys
+
+
+
+ Performance counter stats for './redis lpush':
+
+        77,678,225      l1d_pend_miss.fb_full                                       
+
+      93.556247056 seconds time elapsed
+
+      20.815664000 seconds user
+      50.780842000 seconds sys
+
+
+
+ Performance counter stats for './redis lpush':
+
+        77,716,939      l1d_pend_miss.fb_full                                       
+
+      93.301473572 seconds time elapsed
+
+      21.875445000 seconds user
+      51.014476000 seconds sys
+
+

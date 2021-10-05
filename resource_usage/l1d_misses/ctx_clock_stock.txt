@@ -1,0 +1,110 @@
+
+ Performance counter stats for './ctx_clock':
+
+     1,000,816,132      l1d_pend_miss.fb_full                                       
+
+     330.626618374 seconds time elapsed
+
+     257.873718000 seconds user
+      72.724784000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+     1,000,675,306      l1d_pend_miss.fb_full                                       
+
+     330.551413318 seconds time elapsed
+
+     253.635032000 seconds user
+      76.912032000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+     1,000,986,543      l1d_pend_miss.fb_full                                       
+
+     330.905127166 seconds time elapsed
+
+     273.964366000 seconds user
+      56.961537000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+     1,000,672,260      l1d_pend_miss.fb_full                                       
+
+     330.609077823 seconds time elapsed
+
+     246.100338000 seconds user
+      84.507265000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+     1,000,728,578      l1d_pend_miss.fb_full                                       
+
+     330.723973116 seconds time elapsed
+
+     246.804047000 seconds user
+      83.902492000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+     1,000,555,656      l1d_pend_miss.fb_full                                       
+
+     330.834519379 seconds time elapsed
+
+     245.736561000 seconds user
+      85.082537000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+     1,000,554,851      l1d_pend_miss.fb_full                                       
+
+     330.824028659 seconds time elapsed
+
+     245.278793000 seconds user
+      85.525892000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+     1,000,621,025      l1d_pend_miss.fb_full                                       
+
+     331.228563162 seconds time elapsed
+
+     246.111735000 seconds user
+      85.116392000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+     1,001,058,314      l1d_pend_miss.fb_full                                       
+
+     330.786210084 seconds time elapsed
+
+     245.847332000 seconds user
+      84.934962000 seconds sys
+
+
+
+ Performance counter stats for './ctx_clock':
+
+     1,001,117,058      l1d_pend_miss.fb_full                                       
+
+     330.914593190 seconds time elapsed
+
+     246.621093000 seconds user
+      84.285349000 seconds sys
+
+

@@ -1,0 +1,140 @@
+stress-ng: info:  [32185] defaulting to a 86400 second run per stressor
+stress-ng: info:  [32185] dispatching hogs: 8 msg
+stress-ng: info:  [32185] successful run completed in 13.35s
+
+ Performance counter stats for './stress-ng --msg 0 --msg-ops 100000000':
+
+         2,521,953      l1d_pend_miss.fb_full                                       
+
+      13.354954928 seconds time elapsed
+
+      20.322473000 seconds user
+      84.917558000 seconds sys
+
+
+stress-ng: info:  [31138] defaulting to a 86400 second run per stressor
+stress-ng: info:  [31138] dispatching hogs: 8 msg
+stress-ng: info:  [31138] successful run completed in 13.80s
+
+ Performance counter stats for './stress-ng --msg 0 --msg-ops 100000000':
+
+        11,440,750      l1d_pend_miss.fb_full                                       
+
+      13.803382382 seconds time elapsed
+
+      20.612667000 seconds user
+      87.411178000 seconds sys
+
+
+stress-ng: info:  [30065] defaulting to a 86400 second run per stressor
+stress-ng: info:  [30065] dispatching hogs: 8 msg
+stress-ng: info:  [30065] successful run completed in 13.23s
+
+ Performance counter stats for './stress-ng --msg 0 --msg-ops 100000000':
+
+        11,831,359      l1d_pend_miss.fb_full                                       
+
+      13.236922010 seconds time elapsed
+
+      20.280465000 seconds user
+      84.070712000 seconds sys
+
+
+stress-ng: info:  [29100] defaulting to a 86400 second run per stressor
+stress-ng: info:  [29100] dispatching hogs: 8 msg
+stress-ng: info:  [29100] successful run completed in 13.43s
+
+ Performance counter stats for './stress-ng --msg 0 --msg-ops 100000000':
+
+         2,740,607      l1d_pend_miss.fb_full                                       
+
+      13.433522534 seconds time elapsed
+
+      20.492084000 seconds user
+      84.355798000 seconds sys
+
+
+stress-ng: info:  [28126] defaulting to a 86400 second run per stressor
+stress-ng: info:  [28126] dispatching hogs: 8 msg
+stress-ng: info:  [28126] successful run completed in 13.35s
+
+ Performance counter stats for './stress-ng --msg 0 --msg-ops 100000000':
+
+        11,198,002      l1d_pend_miss.fb_full                                       
+
+      13.351698627 seconds time elapsed
+
+      20.430298000 seconds user
+      84.268234000 seconds sys
+
+
+stress-ng: info:  [27083] defaulting to a 86400 second run per stressor
+stress-ng: info:  [27083] dispatching hogs: 8 msg
+stress-ng: info:  [27083] successful run completed in 13.30s
+
+ Performance counter stats for './stress-ng --msg 0 --msg-ops 100000000':
+
+         2,512,052      l1d_pend_miss.fb_full                                       
+
+      13.302756226 seconds time elapsed
+
+      20.887682000 seconds user
+      83.535699000 seconds sys
+
+
+stress-ng: info:  [26044] defaulting to a 86400 second run per stressor
+stress-ng: info:  [26044] dispatching hogs: 8 msg
+stress-ng: info:  [26044] successful run completed in 13.51s
+
+ Performance counter stats for './stress-ng --msg 0 --msg-ops 100000000':
+
+        10,774,994      l1d_pend_miss.fb_full                                       
+
+      13.513343399 seconds time elapsed
+
+      20.394196000 seconds user
+      85.335071000 seconds sys
+
+
+stress-ng: info:  [24964] defaulting to a 86400 second run per stressor
+stress-ng: info:  [24964] dispatching hogs: 8 msg
+stress-ng: info:  [24964] successful run completed in 13.46s
+
+ Performance counter stats for './stress-ng --msg 0 --msg-ops 100000000':
+
+         2,515,398      l1d_pend_miss.fb_full                                       
+
+      13.463455473 seconds time elapsed
+
+      20.853317000 seconds user
+      84.325906000 seconds sys
+
+
+stress-ng: info:  [23822] defaulting to a 86400 second run per stressor
+stress-ng: info:  [23822] dispatching hogs: 8 msg
+stress-ng: info:  [23822] successful run completed in 13.35s
+
+ Performance counter stats for './stress-ng --msg 0 --msg-ops 100000000':
+
+         2,675,059      l1d_pend_miss.fb_full                                       
+
+      13.358061728 seconds time elapsed
+
+      20.588462000 seconds user
+      83.841998000 seconds sys
+
+
+stress-ng: info:  [22710] defaulting to a 86400 second run per stressor
+stress-ng: info:  [22710] dispatching hogs: 8 msg
+stress-ng: info:  [22710] successful run completed in 13.61s
+
+ Performance counter stats for './stress-ng --msg 0 --msg-ops 100000000':
+
+        10,644,286      l1d_pend_miss.fb_full                                       
+
+      13.615678848 seconds time elapsed
+
+      20.836541000 seconds user
+      86.191178000 seconds sys
+
+

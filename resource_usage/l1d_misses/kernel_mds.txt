@@ -1,0 +1,110 @@
+
+ Performance counter stats for './build-linux-kernel':
+
+   119,194,652,241      l1d_pend_miss.fb_full                                       
+
+    1291.630341218 seconds time elapsed
+
+    8516.834550000 seconds user
+     843.301825000 seconds sys
+
+
+
+ Performance counter stats for './build-linux-kernel':
+
+   118,341,056,325      l1d_pend_miss.fb_full                                       
+
+    1279.421387313 seconds time elapsed
+
+    8558.059314000 seconds user
+     861.533193000 seconds sys
+
+
+
+ Performance counter stats for './build-linux-kernel':
+
+   118,212,977,721      l1d_pend_miss.fb_full                                       
+
+    1289.003828879 seconds time elapsed
+
+    8553.007004000 seconds user
+     863.681678000 seconds sys
+
+
+
+ Performance counter stats for './build-linux-kernel':
+
+   118,322,086,083      l1d_pend_miss.fb_full                                       
+
+    1283.798819992 seconds time elapsed
+
+    8551.208185000 seconds user
+     859.091712000 seconds sys
+
+
+
+ Performance counter stats for './build-linux-kernel':
+
+   118,216,031,803      l1d_pend_miss.fb_full                                       
+
+    1285.816618380 seconds time elapsed
+
+    8562.054308000 seconds user
+     861.283320000 seconds sys
+
+
+
+ Performance counter stats for './build-linux-kernel':
+
+   118,214,321,201      l1d_pend_miss.fb_full                                       
+
+    1286.170252228 seconds time elapsed
+
+    8562.474174000 seconds user
+     860.969759000 seconds sys
+
+
+
+ Performance counter stats for './build-linux-kernel':
+
+   118,538,246,624      l1d_pend_miss.fb_full                                       
+
+    1286.261817941 seconds time elapsed
+
+    8549.833636000 seconds user
+     861.330486000 seconds sys
+
+
+
+ Performance counter stats for './build-linux-kernel':
+
+   118,232,609,371      l1d_pend_miss.fb_full                                       
+
+    1286.062316970 seconds time elapsed
+
+    8552.048657000 seconds user
+     865.342580000 seconds sys
+
+
+
+ Performance counter stats for './build-linux-kernel':
+
+   118,327,705,600      l1d_pend_miss.fb_full                                       
+
+    1284.579355898 seconds time elapsed
+
+    8556.025845000 seconds user
+     862.169198000 seconds sys
+
+
+
+ Performance counter stats for './build-linux-kernel':
+
+   118,404,514,283      l1d_pend_miss.fb_full                                       
+
+    1285.543918855 seconds time elapsed
+
+    8546.050967000 seconds user
+     861.658205000 seconds sys
+
+

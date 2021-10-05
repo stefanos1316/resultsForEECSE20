@@ -341,13 +341,13 @@ VD.A(mdf$value, mdf$variable)
 mcperf_prepend_stock <-c(147145377,142684981,144686512,139533005,146241791,147259335,145315788,148247720,147461174,140123967)
 mcperf_prepend_spectre <-c(20990775,24147298,22912648,23220626,20810404,19537050,23581298,28529857,19048097,19790575)
 
-median(mcperf_get_stock)
-median(mcperf_get_spectre)
+median(mcperf_prepend_stock)
+median(mcperf_prepend_spectre)
 
-shapiro.test(mcperf_get_stock)
-wilcox.test(mcperf_get_stock, mcperf_get_spectre, paired = FALSE)
+shapiro.test(mcperf_prepend_stock)
+wilcox.test(mcperf_prepend_stock, mcperf_prepend_spectre, paired = FALSE)
 
-df <- data.frame(mcperf_get_stock, mcperf_get_spectre)
+df <- data.frame(mcperf_prepend_stock, mcperf_prepend_spectre)
 mdf <- melt(df, measure.vars=1:2)
 VD.A(mdf$value, mdf$variable)
 
@@ -378,4 +378,3 @@ wilcox.test(mcperf_set_stock, mcperf_set_spectre, paired = FALSE)
 df <- data.frame(mcperf_set_stock, mcperf_set_spectre)
 mdf <- melt(df, measure.vars=1:2)
 VD.A(mdf$value, mdf$variable)
-

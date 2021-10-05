@@ -1,0 +1,110 @@
+
+ Performance counter stats for './redis sadd':
+
+         2,553,303      l1d_pend_miss.fb_full                                       
+
+      90.945382508 seconds time elapsed
+
+       9.543663000 seconds user
+      52.913897000 seconds sys
+
+
+
+ Performance counter stats for './redis sadd':
+
+         2,760,323      l1d_pend_miss.fb_full                                       
+
+      90.847223342 seconds time elapsed
+
+       9.631586000 seconds user
+      52.893928000 seconds sys
+
+
+
+ Performance counter stats for './redis sadd':
+
+         2,648,731      l1d_pend_miss.fb_full                                       
+
+      90.911138200 seconds time elapsed
+
+       9.628086000 seconds user
+      52.877166000 seconds sys
+
+
+
+ Performance counter stats for './redis sadd':
+
+         2,640,140      l1d_pend_miss.fb_full                                       
+
+      91.409190111 seconds time elapsed
+
+       9.517076000 seconds user
+      52.670353000 seconds sys
+
+
+
+ Performance counter stats for './redis sadd':
+
+         2,418,845      l1d_pend_miss.fb_full                                       
+
+      90.761226037 seconds time elapsed
+
+       9.391870000 seconds user
+      52.865041000 seconds sys
+
+
+
+ Performance counter stats for './redis sadd':
+
+         2,532,535      l1d_pend_miss.fb_full                                       
+
+      90.882535462 seconds time elapsed
+
+       9.534074000 seconds user
+      53.165737000 seconds sys
+
+
+
+ Performance counter stats for './redis sadd':
+
+         2,824,445      l1d_pend_miss.fb_full                                       
+
+      91.116431541 seconds time elapsed
+
+       9.596353000 seconds user
+      52.874737000 seconds sys
+
+
+
+ Performance counter stats for './redis sadd':
+
+         2,643,235      l1d_pend_miss.fb_full                                       
+
+      91.592807469 seconds time elapsed
+
+       9.664595000 seconds user
+      52.943854000 seconds sys
+
+
+
+ Performance counter stats for './redis sadd':
+
+         2,994,078      l1d_pend_miss.fb_full                                       
+
+      90.865705761 seconds time elapsed
+
+       9.500387000 seconds user
+      52.827117000 seconds sys
+
+
+
+ Performance counter stats for './redis sadd':
+
+         2,647,838      l1d_pend_miss.fb_full                                       
+
+      90.831076390 seconds time elapsed
+
+       9.530066000 seconds user
+      52.819856000 seconds sys
+
+

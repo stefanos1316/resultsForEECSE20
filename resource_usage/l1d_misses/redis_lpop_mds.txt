@@ -1,0 +1,110 @@
+
+ Performance counter stats for './redis lpop':
+
+         3,053,989      l1d_pend_miss.fb_full                                       
+
+      90.621234388 seconds time elapsed
+
+      10.040865000 seconds user
+      52.789662000 seconds sys
+
+
+
+ Performance counter stats for './redis lpop':
+
+         2,589,646      l1d_pend_miss.fb_full                                       
+
+      91.475566240 seconds time elapsed
+
+       9.485551000 seconds user
+      52.822084000 seconds sys
+
+
+
+ Performance counter stats for './redis lpop':
+
+         2,810,778      l1d_pend_miss.fb_full                                       
+
+      90.837584710 seconds time elapsed
+
+       9.808464000 seconds user
+      52.634751000 seconds sys
+
+
+
+ Performance counter stats for './redis lpop':
+
+         2,795,588      l1d_pend_miss.fb_full                                       
+
+      91.052842119 seconds time elapsed
+
+       9.567782000 seconds user
+      53.025502000 seconds sys
+
+
+
+ Performance counter stats for './redis lpop':
+
+         2,479,813      l1d_pend_miss.fb_full                                       
+
+      91.169750004 seconds time elapsed
+
+       9.166210000 seconds user
+      53.117465000 seconds sys
+
+
+
+ Performance counter stats for './redis lpop':
+
+         2,533,153      l1d_pend_miss.fb_full                                       
+
+      90.736474995 seconds time elapsed
+
+      10.000725000 seconds user
+      52.752340000 seconds sys
+
+
+
+ Performance counter stats for './redis lpop':
+
+         2,924,220      l1d_pend_miss.fb_full                                       
+
+      91.450203434 seconds time elapsed
+
+       9.470605000 seconds user
+      52.858925000 seconds sys
+
+
+
+ Performance counter stats for './redis lpop':
+
+         2,522,576      l1d_pend_miss.fb_full                                       
+
+      91.080930024 seconds time elapsed
+
+      10.217778000 seconds user
+      52.792857000 seconds sys
+
+
+
+ Performance counter stats for './redis lpop':
+
+         2,508,159      l1d_pend_miss.fb_full                                       
+
+      91.173727557 seconds time elapsed
+
+       9.589100000 seconds user
+      53.145127000 seconds sys
+
+
+
+ Performance counter stats for './redis lpop':
+
+         2,769,859      l1d_pend_miss.fb_full                                       
+
+      91.127863979 seconds time elapsed
+
+       9.729116000 seconds user
+      53.012963000 seconds sys
+
+

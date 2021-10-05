@@ -1,0 +1,110 @@
+
+ Performance counter stats for './osbench create_files':
+
+         9,441,069      l1d_pend_miss.fb_full                                       
+
+      27.644893536 seconds time elapsed
+
+       1.625141000 seconds user
+      25.986128000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_files':
+
+        11,454,127      l1d_pend_miss.fb_full                                       
+
+      26.401563310 seconds time elapsed
+
+       1.680771000 seconds user
+      24.711004000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_files':
+
+        10,721,359      l1d_pend_miss.fb_full                                       
+
+      26.617977043 seconds time elapsed
+
+       1.637543000 seconds user
+      24.978668000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_files':
+
+        12,256,677      l1d_pend_miss.fb_full                                       
+
+      26.650514061 seconds time elapsed
+
+       1.731703000 seconds user
+      24.892043000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_files':
+
+        11,074,498      l1d_pend_miss.fb_full                                       
+
+      26.491497317 seconds time elapsed
+
+       1.655993000 seconds user
+      24.829503000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_files':
+
+         5,385,161      l1d_pend_miss.fb_full                                       
+
+      26.901873831 seconds time elapsed
+
+       1.760842000 seconds user
+      25.137986000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_files':
+
+        10,403,925      l1d_pend_miss.fb_full                                       
+
+      26.259480588 seconds time elapsed
+
+       1.629334000 seconds user
+      24.628511000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_files':
+
+         8,634,136      l1d_pend_miss.fb_full                                       
+
+      26.590133111 seconds time elapsed
+
+       1.669218000 seconds user
+      24.901940000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_files':
+
+        13,633,070      l1d_pend_miss.fb_full                                       
+
+      26.602927449 seconds time elapsed
+
+       1.757275000 seconds user
+      24.841660000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_files':
+
+        11,102,161      l1d_pend_miss.fb_full                                       
+
+      26.584298221 seconds time elapsed
+
+       1.644781000 seconds user
+      24.931314000 seconds sys
+
+

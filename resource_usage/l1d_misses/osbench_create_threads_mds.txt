@@ -1,0 +1,110 @@
+
+ Performance counter stats for './osbench create_threads':
+
+     1,201,225,865      l1d_pend_miss.fb_full                                       
+
+      21.090180873 seconds time elapsed
+
+       2.798179000 seconds user
+      29.955567000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+     1,184,181,823      l1d_pend_miss.fb_full                                       
+
+      20.944571100 seconds time elapsed
+
+       2.633295000 seconds user
+      29.958851000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+     1,203,914,423      l1d_pend_miss.fb_full                                       
+
+      21.057443477 seconds time elapsed
+
+       2.851968000 seconds user
+      29.911448000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+     1,192,882,835      l1d_pend_miss.fb_full                                       
+
+      21.094591339 seconds time elapsed
+
+       2.848383000 seconds user
+      29.925340000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+     1,207,642,317      l1d_pend_miss.fb_full                                       
+
+      20.883778138 seconds time elapsed
+
+       2.755431000 seconds user
+      29.783407000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+     1,164,593,319      l1d_pend_miss.fb_full                                       
+
+      21.256447170 seconds time elapsed
+
+       2.913302000 seconds user
+      29.918491000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+     1,189,314,178      l1d_pend_miss.fb_full                                       
+
+      21.092143047 seconds time elapsed
+
+       2.625397000 seconds user
+      30.130293000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+     1,224,567,072      l1d_pend_miss.fb_full                                       
+
+      20.777888529 seconds time elapsed
+
+       2.662851000 seconds user
+      29.788961000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+     1,198,208,517      l1d_pend_miss.fb_full                                       
+
+      21.103531301 seconds time elapsed
+
+       2.909926000 seconds user
+      29.859659000 seconds sys
+
+
+
+ Performance counter stats for './osbench create_threads':
+
+     1,164,685,682      l1d_pend_miss.fb_full                                       
+
+      21.106036473 seconds time elapsed
+
+       2.765501000 seconds user
+      30.008628000 seconds sys
+
+

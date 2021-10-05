@@ -1,0 +1,110 @@
+
+ Performance counter stats for './redis get':
+
+        77,819,256      l1d_pend_miss.fb_full                                       
+
+      93.400981491 seconds time elapsed
+
+      21.345145000 seconds user
+      50.249503000 seconds sys
+
+
+
+ Performance counter stats for './redis get':
+
+        77,462,635      l1d_pend_miss.fb_full                                       
+
+      93.373653376 seconds time elapsed
+
+      20.664714000 seconds user
+      50.612272000 seconds sys
+
+
+
+ Performance counter stats for './redis get':
+
+        77,454,906      l1d_pend_miss.fb_full                                       
+
+      93.103391162 seconds time elapsed
+
+      21.276721000 seconds user
+      49.913568000 seconds sys
+
+
+
+ Performance counter stats for './redis get':
+
+        77,507,854      l1d_pend_miss.fb_full                                       
+
+      92.988428199 seconds time elapsed
+
+      21.733988000 seconds user
+      50.033597000 seconds sys
+
+
+
+ Performance counter stats for './redis get':
+
+        77,437,637      l1d_pend_miss.fb_full                                       
+
+      93.330099360 seconds time elapsed
+
+      21.394136000 seconds user
+      50.126246000 seconds sys
+
+
+
+ Performance counter stats for './redis get':
+
+        77,727,623      l1d_pend_miss.fb_full                                       
+
+      93.626462651 seconds time elapsed
+
+      21.336971000 seconds user
+      50.365244000 seconds sys
+
+
+
+ Performance counter stats for './redis get':
+
+        77,376,969      l1d_pend_miss.fb_full                                       
+
+      93.462705203 seconds time elapsed
+
+      21.595728000 seconds user
+      50.045847000 seconds sys
+
+
+
+ Performance counter stats for './redis get':
+
+        77,487,325      l1d_pend_miss.fb_full                                       
+
+      93.283013067 seconds time elapsed
+
+      21.502056000 seconds user
+      50.388205000 seconds sys
+
+
+
+ Performance counter stats for './redis get':
+
+        76,855,597      l1d_pend_miss.fb_full                                       
+
+      93.208476171 seconds time elapsed
+
+      21.150364000 seconds user
+      50.644691000 seconds sys
+
+
+
+ Performance counter stats for './redis get':
+
+        77,491,227      l1d_pend_miss.fb_full                                       
+
+      93.348845971 seconds time elapsed
+
+      21.048468000 seconds user
+      50.507723000 seconds sys
+
+

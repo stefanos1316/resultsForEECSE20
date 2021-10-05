@@ -1,0 +1,110 @@
+
+ Performance counter stats for './t-test1':
+
+       506,307,396      l1d_pend_miss.fb_full                                       
+
+       5.834817842 seconds time elapsed
+
+       5.246505000 seconds user
+       6.448491000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+       506,373,912      l1d_pend_miss.fb_full                                       
+
+       5.811041127 seconds time elapsed
+
+       5.304492000 seconds user
+       6.379946000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+       507,327,294      l1d_pend_miss.fb_full                                       
+
+       5.818755749 seconds time elapsed
+
+       5.272154000 seconds user
+       6.435663000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+       506,199,997      l1d_pend_miss.fb_full                                       
+
+       5.823525546 seconds time elapsed
+
+       5.089698000 seconds user
+       6.625138000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+       505,411,524      l1d_pend_miss.fb_full                                       
+
+       5.821207973 seconds time elapsed
+
+       5.265296000 seconds user
+       6.446146000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+       502,689,343      l1d_pend_miss.fb_full                                       
+
+       5.840231387 seconds time elapsed
+
+       5.155859000 seconds user
+       6.593668000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+       506,249,246      l1d_pend_miss.fb_full                                       
+
+       5.820991824 seconds time elapsed
+
+       5.113334000 seconds user
+       6.592230000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+       503,184,825      l1d_pend_miss.fb_full                                       
+
+       5.841887370 seconds time elapsed
+
+       5.117329000 seconds user
+       6.635524000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+       510,768,371      l1d_pend_miss.fb_full                                       
+
+       5.814338511 seconds time elapsed
+
+       5.275481000 seconds user
+       6.423913000 seconds sys
+
+
+
+ Performance counter stats for './t-test1':
+
+       504,864,828      l1d_pend_miss.fb_full                                       
+
+       5.823001695 seconds time elapsed
+
+       5.313658000 seconds user
+       6.403019000 seconds sys
+
+

@@ -282,8 +282,8 @@ mdf <- melt(df, measure.vars=1:2)
 VD.A(mdf$value, mdf$variable)
 
 # Mcperf add
-mcperf_add_stock <-c(6099126,6057863,6041867,6058618,6069509)
-mcperf_add_meltdown <-c(3873499,4019486,4039408,4055105,4287854)
+mcperf_add_stock <-c(6138415,6118319,6110847,6100523,6114312,6107226,6119212,6093000,6110648,6106552)
+mcperf_add_meltdown <-c(2281067,4086031,4082990,3826743,2628470,4082056,2880614,2743164,4028381,2197463)
 
 median(mcperf_add_stock)
 median(mcperf_add_meltdown)
@@ -295,9 +295,9 @@ df <- data.frame(mcperf_add_stock, mcperf_add_meltdown)
 mdf <- melt(df, measure.vars=1:2)
 VD.A(mdf$value, mdf$variable)
 
-# Mcperf append
-mcperf_append_stock <-c(6047909,6064033,6057132,6059625,6040892)
-mcperf_append_meltdown <-c(4055830,4045603,4174400,3676021,4030252)
+#Mcperf append
+mcperf_append_stock <-c(6106355,6098520,6107649,6103240,6114161,6082874,6096058,6092909,6106021,6082466)
+mcperf_append_meltdown <-c(3433239,4062903,4108133,4090738,3475793,4344412,2914853,2530173,4061533,330007)
 
 median(mcperf_append_stock)
 median(mcperf_append_meltdown)
@@ -310,8 +310,8 @@ mdf <- melt(df, measure.vars=1:2)
 VD.A(mdf$value, mdf$variable)
 
 # Mcperf delete
-mcperf_delete_stock <-c(20100727,20020694,20573299,20005376,20098478)
-mcperf_delete_meltdown <-c(2008111,2025737,2020070,1975667,2033618)
+mcperf_delete_stock <-c(20130945,20467490,20203886,20088570,20203057,20338379,20081355,20127196,20403002,20232506)
+mcperf_delete_meltdown <-c(48735,1064010,2518639,561997,1346065,55687,2659038,2032543,651457,452329)
 
 median(mcperf_delete_stock)
 median(mcperf_delete_meltdown)
@@ -324,8 +324,8 @@ mdf <- melt(df, measure.vars=1:2)
 VD.A(mdf$value, mdf$variable)
 
 # Mcperf get 
-mcperf_get_stock <-c(19930774,19974794,20012813,19995285,20064557)
-mcperf_get_meltdown <-c(1955826,2016385,2014095,2027605,2104841)
+mcperf_get_stock <-c(20316014,20037905,20028969,19929727,20058502,20099329,20117000,20087826,20097228,20017295)
+mcperf_get_meltdown <-c(2000953,2145429,1130428,78718,192498,266526,268785,125677,556332,1600350)
 
 median(mcperf_get_stock)
 median(mcperf_get_meltdown)
@@ -338,22 +338,22 @@ mdf <- melt(df, measure.vars=1:2)
 VD.A(mdf$value, mdf$variable)
 
 # Mcperf prepend
-mcperf_prepend_stock <-c(6056952,6048553,6058024,6050369,6045127)
-mcperf_prepend_meltdown <-c(4183058,4036851,4038872,3871170,3005546)
+mcperf_prepend_stock <-c(6096861,6101188,6115614,6101770,6105814,6110219,6082678,6107090,6122832,6114973)
+mcperf_prepend_meltdown <-c(2612833,5323043,3786700,2531553,3395896,4088039,3546903,4093958,2778497,3041930)
 
-median(mcperf_get_stock)
-median(mcperf_get_meltdown)
+median(mcperf_prepend_stock)
+median(mcperf_prepend_meltdown)
 
-shapiro.test(mcperf_get_stock)
-wilcox.test(mcperf_get_stock, mcperf_get_meltdown, paired = FALSE)
+shapiro.test(mcperf_prepend_stock)
+wilcox.test(mcperf_prepend_stock, mcperf_prepend_meltdown, paired = FALSE)
 
-df <- data.frame(mcperf_get_stock, mcperf_get_meltdown)
+df <- data.frame(mcperf_prepend_stock, mcperf_prepend_meltdown)
 mdf <- melt(df, measure.vars=1:2)
 VD.A(mdf$value, mdf$variable)
 
 # Mcperf replace
-mcperf_replace_stock <-c(6110124,6052509,6059093,6045623,6468950)
-mcperf_replace_meltdown <-c(2691216,4031753,2937742,3841019,6000696)
+mcperf_replace_stock <-c(6125839,6096754,6112009,6098843,6108320,6138957,6119018,6084266,6108487,6100451)
+mcperf_replace_meltdown <-c(4272101,2871096,2999856,2757804,3129438,3460463,2595261,3607662,3202114,4101775)
 
 median(mcperf_replace_stock)
 median(mcperf_replace_meltdown)
@@ -366,8 +366,8 @@ mdf <- melt(df, measure.vars=1:2)
 VD.A(mdf$value, mdf$variable)
 
 # Mcperf set
-mcperf_set_stock <-c(6070839,6042696,6045046,6077200,6048160)
-mcperf_set_meltdown <-c(4049316,4095597,4228102,4080746,2697702)
+mcperf_set_stock <-c(6150320,6112319,6112891,6134185,6106668,6102749,6126675,6086724,6110384,6104132)
+mcperf_set_meltdown <-c(2230480,4090090,2808488,4078835,3691897,4108008,3744194,3208983,3483958,4357919)
 
 median(mcperf_set_stock)
 median(mcperf_set_meltdown)

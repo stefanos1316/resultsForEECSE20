@@ -1,0 +1,110 @@
+
+ Performance counter stats for './redis set':
+
+         2,679,566      l1d_pend_miss.fb_full                                       
+
+      90.904504378 seconds time elapsed
+
+       9.644607000 seconds user
+      52.483798000 seconds sys
+
+
+
+ Performance counter stats for './redis set':
+
+         2,558,886      l1d_pend_miss.fb_full                                       
+
+      91.234617143 seconds time elapsed
+
+       9.435387000 seconds user
+      52.957072000 seconds sys
+
+
+
+ Performance counter stats for './redis set':
+
+         2,672,827      l1d_pend_miss.fb_full                                       
+
+      91.588932265 seconds time elapsed
+
+       9.708521000 seconds user
+      52.965879000 seconds sys
+
+
+
+ Performance counter stats for './redis set':
+
+         2,610,195      l1d_pend_miss.fb_full                                       
+
+      91.024514167 seconds time elapsed
+
+       9.680956000 seconds user
+      52.695543000 seconds sys
+
+
+
+ Performance counter stats for './redis set':
+
+         2,459,592      l1d_pend_miss.fb_full                                       
+
+      91.601786490 seconds time elapsed
+
+       9.556426000 seconds user
+      53.009154000 seconds sys
+
+
+
+ Performance counter stats for './redis set':
+
+         3,018,546      l1d_pend_miss.fb_full                                       
+
+      91.265048082 seconds time elapsed
+
+       9.496628000 seconds user
+      53.100567000 seconds sys
+
+
+
+ Performance counter stats for './redis set':
+
+         2,420,046      l1d_pend_miss.fb_full                                       
+
+      91.083636847 seconds time elapsed
+
+       9.615447000 seconds user
+      52.842917000 seconds sys
+
+
+
+ Performance counter stats for './redis set':
+
+         2,881,711      l1d_pend_miss.fb_full                                       
+
+      91.179087960 seconds time elapsed
+
+       9.749864000 seconds user
+      52.645944000 seconds sys
+
+
+
+ Performance counter stats for './redis set':
+
+         2,620,877      l1d_pend_miss.fb_full                                       
+
+      91.268239501 seconds time elapsed
+
+       9.509285000 seconds user
+      53.016278000 seconds sys
+
+
+
+ Performance counter stats for './redis set':
+
+         3,051,974      l1d_pend_miss.fb_full                                       
+
+      90.528014052 seconds time elapsed
+
+       9.652248000 seconds user
+      52.945387000 seconds sys
+
+

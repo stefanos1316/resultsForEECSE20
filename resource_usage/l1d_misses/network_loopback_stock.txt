@@ -1,0 +1,140 @@
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 51.5689 s, 2.0 GB/s
+
+ Performance counter stats for './network-loopback':
+
+    27,170,357,131      l1d_pend_miss.fb_full                                       
+
+      60.631169104 seconds time elapsed
+
+      19.307626000 seconds user
+     100.437111000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 51.0726 s, 2.1 GB/s
+
+ Performance counter stats for './network-loopback':
+
+    27,794,572,579      l1d_pend_miss.fb_full                                       
+
+      60.082825860 seconds time elapsed
+
+      19.539954000 seconds user
+      98.561187000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 50.9847 s, 2.1 GB/s
+
+ Performance counter stats for './network-loopback':
+
+    27,490,088,847      l1d_pend_miss.fb_full                                       
+
+      59.994726560 seconds time elapsed
+
+      19.089900000 seconds user
+      98.944013000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 51.0803 s, 2.1 GB/s
+
+ Performance counter stats for './network-loopback':
+
+    27,712,783,762      l1d_pend_miss.fb_full                                       
+
+      60.090466611 seconds time elapsed
+
+      19.444960000 seconds user
+      98.754624000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 51.1488 s, 2.1 GB/s
+
+ Performance counter stats for './network-loopback':
+
+    27,438,777,296      l1d_pend_miss.fb_full                                       
+
+      60.159080096 seconds time elapsed
+
+      19.333744000 seconds user
+      99.380279000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 51.2049 s, 2.0 GB/s
+
+ Performance counter stats for './network-loopback':
+
+    27,533,188,495      l1d_pend_miss.fb_full                                       
+
+      60.215562628 seconds time elapsed
+
+      19.665625000 seconds user
+      98.798023000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 51.3582 s, 2.0 GB/s
+
+ Performance counter stats for './network-loopback':
+
+    28,270,900,269      l1d_pend_miss.fb_full                                       
+
+      60.368388030 seconds time elapsed
+
+      19.288491000 seconds user
+      99.443104000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 51.593 s, 2.0 GB/s
+
+ Performance counter stats for './network-loopback':
+
+    27,673,317,503      l1d_pend_miss.fb_full                                       
+
+      60.602871651 seconds time elapsed
+
+      19.409970000 seconds user
+     100.027589000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 51.1804 s, 2.0 GB/s
+
+ Performance counter stats for './network-loopback':
+
+    27,421,541,516      l1d_pend_miss.fb_full                                       
+
+      60.190723689 seconds time elapsed
+
+      20.767393000 seconds user
+      97.894925000 seconds sys
+
+
+100000+0 records in
+100000+0 records out
+104857600000 bytes (105 GB, 98 GiB) copied, 51.1868 s, 2.0 GB/s
+
+ Performance counter stats for './network-loopback':
+
+    27,900,895,545      l1d_pend_miss.fb_full                                       
+
+      60.196925925 seconds time elapsed
+
+      19.346784000 seconds user
+      99.289881000 seconds sys
+
+

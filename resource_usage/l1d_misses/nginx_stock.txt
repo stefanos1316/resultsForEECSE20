@@ -1,0 +1,220 @@
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+     1,453,522,563      l1d_pend_miss.fb_full                                       
+
+      41.609760147 seconds time elapsed
+
+       7.060262000 seconds user
+      33.937489000 seconds sys
+
+
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+     1,504,888,428      l1d_pend_miss.fb_full                                       
+
+      42.687252570 seconds time elapsed
+
+       6.993156000 seconds user
+      35.167737000 seconds sys
+
+
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+     1,535,771,524      l1d_pend_miss.fb_full                                       
+
+      42.484012146 seconds time elapsed
+
+       6.907357000 seconds user
+      34.940312000 seconds sys
+
+
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+     1,508,548,938      l1d_pend_miss.fb_full                                       
+
+      42.755393116 seconds time elapsed
+
+       7.113212000 seconds user
+      35.090792000 seconds sys
+
+
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+     1,481,186,021      l1d_pend_miss.fb_full                                       
+
+      42.948938779 seconds time elapsed
+
+       7.236866000 seconds user
+      35.198027000 seconds sys
+
+
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+     1,404,395,460      l1d_pend_miss.fb_full                                       
+
+      42.131802852 seconds time elapsed
+
+       7.180911000 seconds user
+      34.506400000 seconds sys
+
+
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+     1,480,310,595      l1d_pend_miss.fb_full                                       
+
+      42.709000570 seconds time elapsed
+
+       7.159569000 seconds user
+      34.978593000 seconds sys
+
+
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+     1,424,710,132      l1d_pend_miss.fb_full                                       
+
+      42.698100609 seconds time elapsed
+
+       7.131984000 seconds user
+      35.073841000 seconds sys
+
+
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+     1,476,031,085      l1d_pend_miss.fb_full                                       
+
+      42.777829359 seconds time elapsed
+
+       7.483674000 seconds user
+      34.797104000 seconds sys
+
+
+Completed 100000 requests
+Completed 200000 requests
+Completed 300000 requests
+Completed 400000 requests
+Completed 500000 requests
+Completed 600000 requests
+Completed 700000 requests
+Completed 800000 requests
+Completed 900000 requests
+Completed 1000000 requests
+Finished 1000000 requests
+
+ Performance counter stats for 'ab -n 1000000 -c 100 http://localhost:80/':
+
+     1,523,207,705      l1d_pend_miss.fb_full                                       
+
+      42.973386087 seconds time elapsed
+
+       7.092672000 seconds user
+      35.241714000 seconds sys
+
+

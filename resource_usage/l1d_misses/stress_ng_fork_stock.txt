@@ -1,0 +1,140 @@
+stress-ng: info:  [2238] defaulting to a 86400 second run per stressor
+stress-ng: info:  [2238] dispatching hogs: 8 fork
+stress-ng: info:  [2238] successful run completed in 29.80s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+     4,753,157,597      l1d_pend_miss.fb_full                                       
+
+      29.901510536 seconds time elapsed
+
+     117.460730000 seconds user
+      76.802083000 seconds sys
+
+
+stress-ng: info:  [1582] defaulting to a 86400 second run per stressor
+stress-ng: info:  [1582] dispatching hogs: 8 fork
+stress-ng: info:  [1582] successful run completed in 30.10s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+     5,096,163,141      l1d_pend_miss.fb_full                                       
+
+      30.103205659 seconds time elapsed
+
+     120.302028000 seconds user
+      76.438205000 seconds sys
+
+
+stress-ng: info:  [821] defaulting to a 86400 second run per stressor
+stress-ng: info:  [821] dispatching hogs: 8 fork
+stress-ng: info:  [821] successful run completed in 32.24s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+     5,062,693,856      l1d_pend_miss.fb_full                                       
+
+      32.239426948 seconds time elapsed
+
+     119.472819000 seconds user
+      77.344638000 seconds sys
+
+
+stress-ng: info:  [32465] defaulting to a 86400 second run per stressor
+stress-ng: info:  [32465] dispatching hogs: 8 fork
+stress-ng: info:  [32465] successful run completed in 31.87s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+     5,258,556,095      l1d_pend_miss.fb_full                                       
+
+      31.876335961 seconds time elapsed
+
+     117.876269000 seconds user
+      78.210951000 seconds sys
+
+
+stress-ng: info:  [31707] defaulting to a 86400 second run per stressor
+stress-ng: info:  [31707] dispatching hogs: 8 fork
+stress-ng: info:  [31707] successful run completed in 29.57s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+     4,878,777,394      l1d_pend_miss.fb_full                                       
+
+      29.569574804 seconds time elapsed
+
+     116.001256000 seconds user
+      76.774880000 seconds sys
+
+
+stress-ng: info:  [30946] defaulting to a 86400 second run per stressor
+stress-ng: info:  [30946] dispatching hogs: 8 fork
+stress-ng: info:  [30946] successful run completed in 30.02s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+     5,007,701,695      l1d_pend_miss.fb_full                                       
+
+      30.027147716 seconds time elapsed
+
+     118.307221000 seconds user
+      77.421703000 seconds sys
+
+
+stress-ng: info:  [30184] defaulting to a 86400 second run per stressor
+stress-ng: info:  [30184] dispatching hogs: 8 fork
+stress-ng: info:  [30184] successful run completed in 32.20s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+     4,743,063,249      l1d_pend_miss.fb_full                                       
+
+      32.202428794 seconds time elapsed
+
+     121.527456000 seconds user
+      77.582701000 seconds sys
+
+
+stress-ng: info:  [29413] defaulting to a 86400 second run per stressor
+stress-ng: info:  [29413] dispatching hogs: 8 fork
+stress-ng: info:  [29413] successful run completed in 29.80s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+     4,829,282,999      l1d_pend_miss.fb_full                                       
+
+      29.800087873 seconds time elapsed
+
+     116.687372000 seconds user
+      77.109355000 seconds sys
+
+
+stress-ng: info:  [28569] defaulting to a 86400 second run per stressor
+stress-ng: info:  [28569] dispatching hogs: 8 fork
+stress-ng: info:  [28569] successful run completed in 30.17s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+     5,248,226,614      l1d_pend_miss.fb_full                                       
+
+      30.173568983 seconds time elapsed
+
+     119.188810000 seconds user
+      77.644341000 seconds sys
+
+
+stress-ng: info:  [27834] defaulting to a 86400 second run per stressor
+stress-ng: info:  [27834] dispatching hogs: 8 fork
+stress-ng: info:  [27834] successful run completed in 29.84s
+
+ Performance counter stats for './stress-ng --fork 0 --fork-ops 1000000':
+
+     5,032,162,801      l1d_pend_miss.fb_full                                       
+
+      29.842701677 seconds time elapsed
+
+     118.260120000 seconds user
+      76.181044000 seconds sys
+
+
