@@ -15,7 +15,7 @@ df <- data.frame(ctx_stock, ctx_mds)
 mdf <- melt(df, measure.vars=1:2)
 VD.A(mdf$value, mdf$variable)
 
-# Apache
+#Apache
 apacheStock <-c(1473803920,1593686108,1395414484,1311889639,1431324363,1668698564,1579639504,1551488416,1393416183,1453808181)
 apacheSpectre <-c(1437858220,1582858438,1607826208,1425994103,1558632444,1314519914,1496795617,1334371472,1295875317,1342233755)
 
@@ -378,3 +378,4 @@ wilcox.test(mcperf_set_stock, mcperf_set_mds, paired = FALSE)
 df <- data.frame(mcperf_set_stock, mcperf_set_mds)
 mdf <- melt(df, measure.vars=1:2)
 VD.A(mdf$value, mdf$variable)
+
